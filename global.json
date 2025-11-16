@@ -57,10 +57,10 @@
   ],
   "configs": {
     "TrueVisLies_TEST": {
-      "path": "TrueVISLies/config_test.json"
+      "path": "TrueVisLies/config_test.json"
     },
     "TrueVisLies": {
-      "path": "TrueVISLies/config_100.json"
+      "path": "TrueVisLies/config_100.json"
     },
     "tutorial": {
       "path": "tutorial/config.json"
