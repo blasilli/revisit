@@ -1,0 +1,354 @@
+{
+  "$schema": "https://raw.githubusercontent.com/revisit-studies/study/main/src/parser/StudyConfigSchema.json",
+  "studyMetadata": {
+    "title": "TrueVisLies Study -- TEST",
+    "version": "pilot",
+    "authors": [
+      "Graziano Blasilli & Marco Angelini"
+    ],
+    "date": "2025-12-01",
+    "description": "...",
+    "organizations": [
+      "Sapienza University of Rome"
+    ]
+  },
+  "uiConfig": {
+    "contactEmail": "graziano.blasilli@uniroma1.it",
+    "helpTextPath": "TrueVisLies/assets/help.md",
+    "logoPath": "revisitAssets/revisitLogoSquare.svg",
+    "withProgressBar": true,
+    "autoDownloadStudy": false,
+    "withSidebar": false
+  },
+  "baseComponents": {
+    "tweet": {
+      "type": "website",
+      "style": {
+        "minHeight": "75vh"
+      },
+      "response": [
+        {
+          "id": "presenceByTechnique",
+          "type": "matrix-radio",
+          "location": "belowStimulus",
+          "prompt": "\n>&nbsp;\n>&nbsp;\n\nAfter carefully inspecting the visualization, please answer the following questions, by considering the definitions of **visualization rhetoric**:\n\n- <small>**Information Access Rhetoric** Refers to choices about what data to include, omit, filter, or aggregate. These choices shape what the viewer sees and which patterns or narratives are emphasized.</small>\n- <small>**Provenance Rhetoric** Relates to how a visualization communicates trustworthiness, such as by citing sources, explaining methods, noting uncertainty, or including methodology or assumptions.</small>\n- <small>**Mapping Rhetoric** Involves how data values are translated into visual features such as position, size, scale, metaphor, or color. This can create emphasis or shape perception beyond what the raw data conveys.</small>\n- <small>**Linguistic-Based Rhetoric** Uses language elements like titles, labels, annotations, or captions to guide interpretation. Often includes metaphor, irony, rhetorical questions, or other narrative framing.</small>\n- <small>**Procedural Rhetoric** Relates to interaction and navigation design, such as default views, filters, or animations. These features guide how users explore the data and can influence which conclusions they reach.</small></span>\n>&nbsp;\n>&nbsp;\n>&nbsp;\n\n>&nbsp;\n\n<span style='font-size: 1.1em;'>How much does each **rhetorical technique contribute** to the **misleading** effect in this visualization?</span>*&nbsp;*",
+          "secondaryText": "All techniques may be absent or present to varying degrees. If a thecnique is absent, please choose 'None'.",
+          "answerOptions": [
+            "None",
+            "Minimal",
+            "Limited",
+            "Moderate",
+            "Considerable",
+            "Strong",
+            "Very Strong"
+          ],
+          "questionOptions": [
+            "Information Access Rhetoric",
+            "Provenance Rhetoric",
+            "Mapping Rhetoric",
+            "Linguistic Based Rhetoric",
+            "Procedural Rhetoric"
+          ]
+        },
+        {
+          "id": "intentionalityByTechnique",
+          "type": "matrix-radio",
+          "location": "belowStimulus",
+          "prompt": "\n>&nbsp;\n>&nbsp;\n>&nbsp;\n\n<span style='font-size: 1.1em'>For each **rhetorical technique** you think is is contributing to the misleading nature of this visualization, how **intentional** is its usage to produce a **misleading effect**?*&nbsp;*</span>",
+          "secondaryText": "If in the previous question you did not spot a technique (None), please choose 'Neutral / Unsure'.",
+          "answerOptions": [
+            "Highly Unintentional",
+            "Mostly Unintentional",
+            "Slightly Unintentional",
+            "Neutral / Unsure",
+            "Slightly Intentional",
+            "Mostly Intentional",
+            "Highly Intentional"
+          ],
+          "questionOptions": [
+            "Information Access Rhetoric",
+            "Provenance Rhetoric",
+            "Mapping Rhetoric",
+            "Linguistic Based Rhetoric",
+            "Procedural Rhetoric"
+          ]
+        },
+        {
+          "id": "intentionalityOvelall",
+          "type": "matrix-radio",
+          "location": "belowStimulus",
+          "prompt": "\n>&nbsp;\n>&nbsp;\n>&nbsp;\n\n<span style='font-size: 1.1em'>**Overall**, how much do you think the misleading aspects of this visualization were **intentional** and not just **mistakes**?*&nbsp;*</span>",
+          "secondaryText": "For example, if the author created the visualization to intentionally mislead or lie.",
+          "answerOptions": [
+            "Highly Unintentional",
+            "Mostly Unintentional",
+            "Slightly Unintentional",
+            "Neutral / Unsure",
+            "Slightly Intentional",
+            "Mostly Intentional",
+            "Highly Intentional"
+          ],
+          "questionOptions": [
+            "OVERALL INTENTIONALITY"
+          ]
+        },
+        {
+          "id": "comments-visualization",
+          "prompt": "\n>&nbsp;\n>&nbsp;\n>&nbsp;\n\nAny comments you would like to share about this **visualization**?",
+          "required": false,
+          "location": "belowStimulus",
+          "type": "longText",
+          "placeholder": "Type your answer here..."
+        },
+        {
+          "id": "comments-choice",
+          "prompt": "\n>&nbsp;\n>&nbsp;\n>&nbsp;\n\nAny comments you would like to share about **your choices**?",
+          "required": false,
+          "location": "belowStimulus",
+          "type": "longText",
+          "placeholder": "Type your answer here..."
+        }
+      ],
+      "path": "TrueVisLies/assets/tweet.html",
+      "instructionLocation": "aboveStimulus"
+    }
+  },
+  "components": {
+    "introduction": {
+      "type": "markdown",
+      "path": "TrueVisLies/assets/introduction.md",
+      "response": []
+    },
+    "profiling-questions": {
+      "type": "questionnaire",
+      "responseDividers": true,
+      "response": [
+        {
+          "id": "q0-age",
+          "prompt": "What is your age?",
+          "required": true,
+          "location": "aboveStimulus",
+          "type": "numerical",
+          "placeholder": "Enter your age here, range from 0 - 100. Insert 0 if you prefer not to say.",
+          "max": 100,
+          "min": 0
+        },
+        {
+          "id": "q1-education",
+          "prompt": "What is the highest level of education you have completed?",
+          "required": true,
+          "location": "aboveStimulus",
+          "type": "dropdown",
+          "placeholder": "Select the option that best represents your level. Scroll down to see all options.",
+          "options": [
+            "Doctoral Degree",
+            "Master's Degree",
+            "Bachelor's Degree",
+            "High School",
+            "Other",
+            "Prefer not to say"
+          ]
+        },
+        {
+          "id": "q2-position",
+          "prompt": "What is your current position?",
+          "required": true,
+          "location": "aboveStimulus",
+          "type": "dropdown",
+          "placeholder": "Select the option that best represents your position. Scroll down to see all options.",
+          "options": [
+            "Full Professor",
+            "Associate Professor",
+            "Assistant Professor",
+            "Postdoctoral Researcher",
+            "PhD Student",
+            "Master's Student",
+            "Bachelor's Student",
+            "Industry Professional",
+            "Other",
+            "Prefer not to say"
+          ]
+        },
+        {
+          "id": "q3-expertise-visualization",
+          "prompt": "Rate your expertise in **data visualization** from 1 (very poor) to 7 (excellent).",
+          "required": true,
+          "location": "aboveStimulus",
+          "type": "likert",
+          "leftLabel": "Very Poor",
+          "rightLabel": "Eccellent",
+          "numItems": 7
+        },
+        {
+          "id": "q4-expertise-misleading",
+          "prompt": "Rate your expertise in **misleading visualizations analysis** from 1 (very poor) to 7 (excellent).",
+          "required": true,
+          "location": "aboveStimulus",
+          "type": "likert",
+          "leftLabel": "Very Poor",
+          "rightLabel": "Eccellent",
+          "numItems": 7
+        },
+        {
+          "id": "q5-expertise-rhetoric",
+          "prompt": "Rate your expertise in visualization rhetoric from 1 (very poor) to 7 (excellent).",
+          "required": true,
+          "location": "aboveStimulus",
+          "type": "likert",
+          "leftLabel": "Very Poor",
+          "rightLabel": "Eccellent",
+          "numItems": 7
+        }
+      ]
+    },
+    "final-questions": {
+      "type": "questionnaire",
+      "responseDividers": true,
+      "response": [
+        {
+          "id": "q6-comments",
+          "prompt": "Any other comments?",
+          "location": "aboveStimulus",
+          "type": "longText",
+          "placeholder": "Enter your comments here"
+        }
+      ]
+    },
+    "tweet-1261072881343057920": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1261072881343057920"
+      },
+      "parameters": {
+        "tweetId": "1261072881343057920"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Value as area/volume**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1262138687443202048": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1262138687443202048"
+      },
+      "parameters": {
+        "tweetId": "1262138687443202048"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Dual axis**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1262471360514752514": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1262471360514752514"
+      },
+      "parameters": {
+        "tweetId": "1262471360514752514"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Setting an arbitrary threshold**</small>\n"
+    },
+    "tweet-1263849011791958016": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1263849011791958016"
+      },
+      "parameters": {
+        "tweetId": "1263849011791958016"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Dual axis**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1265726148970938368": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1265726148970938368"
+      },
+      "parameters": {
+        "tweetId": "1265726148970938368"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Value as area/volume**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1268571080656146432": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1268571080656146432"
+      },
+      "parameters": {
+        "tweetId": "1268571080656146432"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Setting an arbitrary threshold**</small>\n"
+    },
+    "tweet-1268720306316816384": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1268720306316816384"
+      },
+      "parameters": {
+        "tweetId": "1268720306316816384"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Setting an arbitrary threshold**</small>, <small style=\"color: #8C2611;\">**Issues with data validity**</small>\n"
+    },
+    "tweet-1268946960955965442": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1268946960955965442"
+      },
+      "parameters": {
+        "tweetId": "1268946960955965442"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Value as area/volume**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1288164037625368576": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1288164037625368576"
+      },
+      "parameters": {
+        "tweetId": "1288164037625368576"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Value as area/volume**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1288718981994512384": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1288718981994512384"
+      },
+      "parameters": {
+        "tweetId": "1288718981994512384"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Setting an arbitrary threshold**</small>\n"
+    }
+
+    
+  },
+  "sequence": {
+    "order": "fixed",
+    "components": [
+      "introduction",
+      "profiling-questions",
+      {
+        "order": "latinSquare",
+        "numSamples": 3,
+        "components": [
+          "tweet-1261072881343057920",
+          "tweet-1262138687443202048",
+          "tweet-1262471360514752514",
+          "tweet-1263849011791958016",
+          "tweet-1265726148970938368",
+          "tweet-1268571080656146432",
+          "tweet-1268720306316816384",
+          "tweet-1268946960955965442",
+          "tweet-1288164037625368576",
+          "tweet-1288718981994512384"
+        ]
+      },
+      "final-questions"
+    ]
+  }
+}
