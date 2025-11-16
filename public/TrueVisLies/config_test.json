@@ -207,7 +207,8 @@
       "response": [
         {
           "id": "q6-comments",
-          "prompt": "Any other comments?",
+          "prompt": "Do you have any comments or feedback about this study?",
+          "required": false,
           "location": "aboveStimulus",
           "type": "longText",
           "placeholder": "Enter your comments here"
