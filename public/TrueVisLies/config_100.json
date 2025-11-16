@@ -1,0 +1,1432 @@
+{
+  "$schema": "https://raw.githubusercontent.com/revisit-studies/study/main/src/parser/StudyConfigSchema.json",
+  "studyMetadata": {
+    "title": "TrueVisLies Study",
+    "version": "pilot",
+    "authors": [
+      "Graziano Blasilli & Marco Angelini"
+    ],
+    "date": "2025-12-01",
+    "description": "...",
+    "organizations": [
+      "Sapienza University of Rome"
+    ]
+  },
+  "uiConfig": {
+    "contactEmail": "graziano.blasilli@uniroma1.it",
+    "helpTextPath": "TrueVisLies/assets/help.md",
+    "logoPath": "revisitAssets/revisitLogoSquare.svg",
+    "withProgressBar": true,
+    "autoDownloadStudy": false,
+    "withSidebar": false
+  },
+  "baseComponents": {
+    "tweet": {
+      "type": "website",
+      "style": {
+        "minHeight": "75vh"
+      },
+      "response": [
+        {
+          "id": "presenceByTechnique",
+          "type": "matrix-radio",
+          "location": "belowStimulus",
+          "prompt": "\n>&nbsp;\n>&nbsp;\n\nAfter carefully inspecting the visualization, please answer the following questions, by considering the definitions of **visualization rhetoric**:\n\n- <small>**Information Access Rhetoric** Refers to choices about what data to include, omit, filter, or aggregate. These choices shape what the viewer sees and which patterns or narratives are emphasized.</small>\n- <small>**Provenance Rhetoric** Relates to how a visualization communicates trustworthiness, such as by citing sources, explaining methods, noting uncertainty, or including methodology or assumptions.</small>\n- <small>**Mapping Rhetoric** Involves how data values are translated into visual features such as position, size, scale, metaphor, or color. This can create emphasis or shape perception beyond what the raw data conveys.</small>\n- <small>**Linguistic-Based Rhetoric** Uses language elements like titles, labels, annotations, or captions to guide interpretation. Often includes metaphor, irony, rhetorical questions, or other narrative framing.</small>\n- <small>**Procedural Rhetoric** Relates to interaction and navigation design, such as default views, filters, or animations. These features guide how users explore the data and can influence which conclusions they reach.</small></span>\n>&nbsp;\n>&nbsp;\n>&nbsp;\n\n>&nbsp;\n\n<span style='font-size: 1.1em;'>How much does each **rhetorical technique contribute** to the **misleading** effect in this visualization?</span>*&nbsp;*",
+          "secondaryText": "All techniques may be absent or present to varying degrees. If a thecnique is absent, please choose 'None'.",
+          "answerOptions": [
+            "None",
+            "Minimal",
+            "Limited",
+            "Moderate",
+            "Considerable",
+            "Strong",
+            "Very Strong"
+          ],
+          "questionOptions": [
+            "Information Access Rhetoric",
+            "Provenance Rhetoric",
+            "Mapping Rhetoric",
+            "Linguistic Based Rhetoric",
+            "Procedural Rhetoric"
+          ]
+        },
+        {
+          "id": "intentionalityByTechnique",
+          "type": "matrix-radio",
+          "location": "belowStimulus",
+          "prompt": "\n>&nbsp;\n>&nbsp;\n>&nbsp;\n\n<span style='font-size: 1.1em'>For each **rhetorical technique** you think is is contributing to the misleading nature of this visualization, how **intentional** is its usage to produce a **misleading effect**?*&nbsp;*</span>",
+          "secondaryText": "If in the previous question you did not spot a technique (None), please choose 'Neutral / Unsure'.",
+          "answerOptions": [
+            "Highly Unintentional",
+            "Mostly Unintentional",
+            "Slightly Unintentional",
+            "Neutral / Unsure",
+            "Slightly Intentional",
+            "Mostly Intentional",
+            "Highly Intentional"
+          ],
+          "questionOptions": [
+            "Information Access Rhetoric",
+            "Provenance Rhetoric",
+            "Mapping Rhetoric",
+            "Linguistic Based Rhetoric",
+            "Procedural Rhetoric"
+          ]
+        },
+        {
+          "id": "intentionalityOvelall",
+          "type": "matrix-radio",
+          "location": "belowStimulus",
+          "prompt": "\n>&nbsp;\n>&nbsp;\n>&nbsp;\n\n<span style='font-size: 1.1em'>**Overall**, how much do you think the misleading aspects of this visualization were **intentional** and not just **mistakes**?*&nbsp;*</span>",
+          "secondaryText": "For example, if the author created the visualization to intentionally mislead or lie.",
+          "answerOptions": [
+            "Highly Unintentional",
+            "Mostly Unintentional",
+            "Slightly Unintentional",
+            "Neutral / Unsure",
+            "Slightly Intentional",
+            "Mostly Intentional",
+            "Highly Intentional"
+          ],
+          "questionOptions": [
+            "OVERALL INTENTIONALITY"
+          ]
+        },
+        {
+          "id": "comments-visualization",
+          "prompt": "\n>&nbsp;\n>&nbsp;\n>&nbsp;\n\nAny comments you would like to share about this **visualization**?",
+          "required": false,
+          "location": "belowStimulus",
+          "type": "longText",
+          "placeholder": "Type your answer here..."
+        },
+        {
+          "id": "comments-choice",
+          "prompt": "\n>&nbsp;\n>&nbsp;\n>&nbsp;\n\nAny comments you would like to share about **your choices**?",
+          "required": false,
+          "location": "belowStimulus",
+          "type": "longText",
+          "placeholder": "Type your answer here..."
+        }
+      ],
+      "path": "TrueVisLies/assets/tweet.html",
+      "instructionLocation": "aboveStimulus"
+    }
+  },
+  "components": {
+    "introduction": {
+      "type": "markdown",
+      "path": "TrueVisLies/assets/introduction.md",
+      "response": []
+    },
+    "profiling-questions": {
+      "type": "questionnaire",
+      "responseDividers": true,
+      "response": [
+        {
+          "id": "q0-age",
+          "prompt": "What is your age?",
+          "required": true,
+          "location": "aboveStimulus",
+          "type": "numerical",
+          "placeholder": "Enter your age here, range from 0 - 100. Insert 0 if you prefer not to say.",
+          "max": 100,
+          "min": 0
+        },
+        {
+          "id": "q1-education",
+          "prompt": "What is the highest level of education you have completed?",
+          "required": true,
+          "location": "aboveStimulus",
+          "type": "dropdown",
+          "placeholder": "Select the option that best represents your level. Scroll down to see all options.",
+          "options": [
+            "Doctoral Degree",
+            "Master's Degree",
+            "Bachelor's Degree",
+            "High School",
+            "Other",
+            "Prefer not to say"
+          ]
+        },
+        {
+          "id": "q2-position",
+          "prompt": "What is your current position?",
+          "required": true,
+          "location": "aboveStimulus",
+          "type": "dropdown",
+          "placeholder": "Select the option that best represents your position. Scroll down to see all options.",
+          "options": [
+            "Full Professor",
+            "Associate Professor",
+            "Assistant Professor",
+            "Postdoctoral Researcher",
+            "PhD Student",
+            "Master's Student",
+            "Bachelor's Student",
+            "Industry Professional",
+            "Other",
+            "Prefer not to say"
+          ]
+        },
+        {
+          "id": "q3-expertise-visualization",
+          "prompt": "Rate your expertise in **data visualization** from 1 (very poor) to 7 (excellent).",
+          "required": true,
+          "location": "aboveStimulus",
+          "type": "likert",
+          "leftLabel": "Very Poor",
+          "rightLabel": "Eccellent",
+          "numItems": 7
+        },
+        {
+          "id": "q4-expertise-misleading",
+          "prompt": "Rate your expertise in **misleading visualizations analysis** from 1 (very poor) to 7 (excellent).",
+          "required": true,
+          "location": "aboveStimulus",
+          "type": "likert",
+          "leftLabel": "Very Poor",
+          "rightLabel": "Eccellent",
+          "numItems": 7
+        },
+        {
+          "id": "q5-expertise-rhetoric",
+          "prompt": "Rate your expertise in visualization rhetoric from 1 (very poor) to 7 (excellent).",
+          "required": true,
+          "location": "aboveStimulus",
+          "type": "likert",
+          "leftLabel": "Very Poor",
+          "rightLabel": "Eccellent",
+          "numItems": 7
+        }
+      ]
+    },
+    "final-questions": {
+      "type": "questionnaire",
+      "responseDividers": true,
+      "response": [
+        {
+          "id": "q6-comments",
+          "prompt": "Any other comments?",
+          "location": "aboveStimulus",
+          "type": "longText",
+          "placeholder": "Enter your comments here"
+        }
+      ]
+    },
+    "tweet-1261072881343057920": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1261072881343057920"
+      },
+      "parameters": {
+        "tweetId": "1261072881343057920"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Value as area/volume**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1262138687443202048": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1262138687443202048"
+      },
+      "parameters": {
+        "tweetId": "1262138687443202048"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Dual axis**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1262471360514752514": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1262471360514752514"
+      },
+      "parameters": {
+        "tweetId": "1262471360514752514"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Setting an arbitrary threshold**</small>\n"
+    },
+    "tweet-1263849011791958016": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1263849011791958016"
+      },
+      "parameters": {
+        "tweetId": "1263849011791958016"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Dual axis**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1265726148970938368": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1265726148970938368"
+      },
+      "parameters": {
+        "tweetId": "1265726148970938368"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Value as area/volume**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1268571080656146432": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1268571080656146432"
+      },
+      "parameters": {
+        "tweetId": "1268571080656146432"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Setting an arbitrary threshold**</small>\n"
+    },
+    "tweet-1268720306316816384": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1268720306316816384"
+      },
+      "parameters": {
+        "tweetId": "1268720306316816384"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Setting an arbitrary threshold**</small>, <small style=\"color: #8C2611;\">**Issues with data validity**</small>\n"
+    },
+    "tweet-1268946960955965442": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1268946960955965442"
+      },
+      "parameters": {
+        "tweetId": "1268946960955965442"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Value as area/volume**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1288164037625368576": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1288164037625368576"
+      },
+      "parameters": {
+        "tweetId": "1288164037625368576"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Value as area/volume**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1288718981994512384": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1288718981994512384"
+      },
+      "parameters": {
+        "tweetId": "1288718981994512384"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Setting an arbitrary threshold**</small>\n"
+    },
+    "tweet-1289322073815277568": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1289322073815277568"
+      },
+      "parameters": {
+        "tweetId": "1289322073815277568"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Dual axis**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1290330201222594560": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1290330201222594560"
+      },
+      "parameters": {
+        "tweetId": "1290330201222594560"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Value as area/volume**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1293075757200289792": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1293075757200289792"
+      },
+      "parameters": {
+        "tweetId": "1293075757200289792"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Truncated axis**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1294302430721708032": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1294302430721708032"
+      },
+      "parameters": {
+        "tweetId": "1294302430721708032"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Setting an arbitrary threshold**</small>\n"
+    },
+    "tweet-1294393266654318592": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1294393266654318592"
+      },
+      "parameters": {
+        "tweetId": "1294393266654318592"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Inverted axis**</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Issues with data validity**</small>\n"
+    },
+    "tweet-1294874379340451840": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1294874379340451840"
+      },
+      "parameters": {
+        "tweetId": "1294874379340451840"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Dual axis**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1295937794200743936": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1295937794200743936"
+      },
+      "parameters": {
+        "tweetId": "1295937794200743936"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Value as area/volume**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1298496929853104128": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1298496929853104128"
+      },
+      "parameters": {
+        "tweetId": "1298496929853104128"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Value as area/volume**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1311765703247253505": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1311765703247253505"
+      },
+      "parameters": {
+        "tweetId": "1311765703247253505"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Cherry-picking**</small>, <small style=\"color: #8C2611;\">**Causal inference**</small>\n"
+    },
+    "tweet-1314059914768048139": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1314059914768048139"
+      },
+      "parameters": {
+        "tweetId": "1314059914768048139"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Truncated axis**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1314623716962103297": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1314623716962103297"
+      },
+      "parameters": {
+        "tweetId": "1314623716962103297"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Cherry-picking**</small>, <small style=\"color: #8C2611;\">**Causal inference**</small>\n"
+    },
+    "tweet-1315662442761015297": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1315662442761015297"
+      },
+      "parameters": {
+        "tweetId": "1315662442761015297"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Cherry-picking**</small>, <small style=\"color: #8C2611;\">**Setting an arbitrary threshold**</small>\n"
+    },
+    "tweet-1315781944689393664": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1315781944689393664"
+      },
+      "parameters": {
+        "tweetId": "1315781944689393664"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Dual axis**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1316621706866372608": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1316621706866372608"
+      },
+      "parameters": {
+        "tweetId": "1316621706866372608"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Setting an arbitrary threshold**</small>\n"
+    },
+    "tweet-1316737883366137856": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1316737883366137856"
+      },
+      "parameters": {
+        "tweetId": "1316737883366137856"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Setting an arbitrary threshold**</small>\n"
+    },
+    "tweet-1316899144905183232": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1316899144905183232"
+      },
+      "parameters": {
+        "tweetId": "1316899144905183232"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Causal inference**</small>\n"
+    },
+    "tweet-1317127961104056321": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1317127961104056321"
+      },
+      "parameters": {
+        "tweetId": "1317127961104056321"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Dual axis**</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Setting an arbitrary threshold**</small>\n"
+    },
+    "tweet-1318549942990999552": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1318549942990999552"
+      },
+      "parameters": {
+        "tweetId": "1318549942990999552"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Cherry-picking**</small>, <small style=\"color: #8C2611;\">**Setting an arbitrary threshold**</small>\n"
+    },
+    "tweet-1319604119917690882": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1319604119917690882"
+      },
+      "parameters": {
+        "tweetId": "1319604119917690882"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Causal inference**</small>\n"
+    },
+    "tweet-1320017534674980866": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1320017534674980866"
+      },
+      "parameters": {
+        "tweetId": "1320017534674980866"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Value as area/volume**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1320353850730160134": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1320353850730160134"
+      },
+      "parameters": {
+        "tweetId": "1320353850730160134"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Truncated axis**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1321113463754760192": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1321113463754760192"
+      },
+      "parameters": {
+        "tweetId": "1321113463754760192"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Cherry-picking**</small>, <small style=\"color: #8C2611;\">**Causal inference**</small>\n"
+    },
+    "tweet-1321492452579168256": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1321492452579168256"
+      },
+      "parameters": {
+        "tweetId": "1321492452579168256"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Setting an arbitrary threshold**</small>\n"
+    },
+    "tweet-1322231921716436992": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1322231921716436992"
+      },
+      "parameters": {
+        "tweetId": "1322231921716436992"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Inappropriate encoding**</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Cherry-picking**</small>, <small style=\"color: #8C2611;\">**Setting an arbitrary threshold**</small>, <small style=\"color: #8C2611;\">**Issues with data validity**</small>\n"
+    },
+    "tweet-1322665593825234945": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1322665593825234945"
+      },
+      "parameters": {
+        "tweetId": "1322665593825234945"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Dual axis**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1322947919192952833": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1322947919192952833"
+      },
+      "parameters": {
+        "tweetId": "1322947919192952833"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Setting an arbitrary threshold**</small>, <small style=\"color: #8C2611;\">**Causal inference**</small>, <small style=\"color: #8C2611;\">**Issues with data validity**</small>\n"
+    },
+    "tweet-1323163079824285696": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1323163079824285696"
+      },
+      "parameters": {
+        "tweetId": "1323163079824285696"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Inappropriate encoding**</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Setting an arbitrary threshold**</small>, <small style=\"color: #8C2611;\">**Issues with data validity**</small>\n"
+    },
+    "tweet-1323204553949532161": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1323204553949532161"
+      },
+      "parameters": {
+        "tweetId": "1323204553949532161"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Cherry-picking**</small>, <small style=\"color: #8C2611;\">**Setting an arbitrary threshold**</small>\n"
+    },
+    "tweet-1323876964629962752": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1323876964629962752"
+      },
+      "parameters": {
+        "tweetId": "1323876964629962752"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Dual axis**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1324258215337578496": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1324258215337578496"
+      },
+      "parameters": {
+        "tweetId": "1324258215337578496"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Dual axis**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1324298098525483008": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1324298098525483008"
+      },
+      "parameters": {
+        "tweetId": "1324298098525483008"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Dual axis**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1324795556347236353": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1324795556347236353"
+      },
+      "parameters": {
+        "tweetId": "1324795556347236353"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Value as area/volume**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1325651669980389376": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1325651669980389376"
+      },
+      "parameters": {
+        "tweetId": "1325651669980389376"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Unclear encoding**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1325993662875131905": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1325993662875131905"
+      },
+      "parameters": {
+        "tweetId": "1325993662875131905"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Unclear encoding**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1370023302861709315": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1370023302861709315"
+      },
+      "parameters": {
+        "tweetId": "1370023302861709315"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Setting an arbitrary threshold**</small>\n"
+    },
+    "tweet-1370127741568311298": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1370127741568311298"
+      },
+      "parameters": {
+        "tweetId": "1370127741568311298"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Dual axis**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1371509358576697361": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1371509358576697361"
+      },
+      "parameters": {
+        "tweetId": "1371509358576697361"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Value as area/volume**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1372580718824464385": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1372580718824464385"
+      },
+      "parameters": {
+        "tweetId": "1372580718824464385"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Dual axis**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1373577977456394244": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1373577977456394244"
+      },
+      "parameters": {
+        "tweetId": "1373577977456394244"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Unclear encoding**</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Cherry-picking**</small>, <small style=\"color: #8C2611;\">**Causal inference**</small>\n"
+    },
+    "tweet-1374418104801841159": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1374418104801841159"
+      },
+      "parameters": {
+        "tweetId": "1374418104801841159"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Cherry-picking**</small>, <small style=\"color: #8C2611;\">**Causal inference**</small>\n"
+    },
+    "tweet-1375456457534095360": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1375456457534095360"
+      },
+      "parameters": {
+        "tweetId": "1375456457534095360"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Causal inference**</small>, <small style=\"color: #8C2611;\">**Issues with data validity**</small>\n"
+    },
+    "tweet-1376261596415152132": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1376261596415152132"
+      },
+      "parameters": {
+        "tweetId": "1376261596415152132"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Cherry-picking**</small>, <small style=\"color: #8C2611;\">**Causal inference**</small>\n"
+    },
+    "tweet-1377592598215458816": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1377592598215458816"
+      },
+      "parameters": {
+        "tweetId": "1377592598215458816"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Setting an arbitrary threshold**</small>\n"
+    },
+    "tweet-1378712381254078464": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1378712381254078464"
+      },
+      "parameters": {
+        "tweetId": "1378712381254078464"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Cherry-picking**</small>, <small style=\"color: #8C2611;\">**Causal inference**</small>\n"
+    },
+    "tweet-1378722465275346944": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1378722465275346944"
+      },
+      "parameters": {
+        "tweetId": "1378722465275346944"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Cherry-picking**</small>, <small style=\"color: #8C2611;\">**Causal inference**</small>\n"
+    },
+    "tweet-1379473094214057991": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1379473094214057991"
+      },
+      "parameters": {
+        "tweetId": "1379473094214057991"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Value as area/volume**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1380500722811342849": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1380500722811342849"
+      },
+      "parameters": {
+        "tweetId": "1380500722811342849"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Dual axis**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1380885246418296834": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1380885246418296834"
+      },
+      "parameters": {
+        "tweetId": "1380885246418296834"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Cherry-picking**</small>, <small style=\"color: #8C2611;\">**Causal inference**</small>\n"
+    },
+    "tweet-1381623032641372163": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1381623032641372163"
+      },
+      "parameters": {
+        "tweetId": "1381623032641372163"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Cherry-picking**</small>, <small style=\"color: #8C2611;\">**Causal inference**</small>\n"
+    },
+    "tweet-1381978948226183170": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1381978948226183170"
+      },
+      "parameters": {
+        "tweetId": "1381978948226183170"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Cherry-picking**</small>, <small style=\"color: #8C2611;\">**Causal inference**</small>\n"
+    },
+    "tweet-1382119333560778755": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1382119333560778755"
+      },
+      "parameters": {
+        "tweetId": "1382119333560778755"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Cherry-picking**</small>, <small style=\"color: #8C2611;\">**Causal inference**</small>\n"
+    },
+    "tweet-1382241150573109249": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1382241150573109249"
+      },
+      "parameters": {
+        "tweetId": "1382241150573109249"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Value as area/volume**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1383573834477957130": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1383573834477957130"
+      },
+      "parameters": {
+        "tweetId": "1383573834477957130"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Setting an arbitrary threshold**</small>\n"
+    },
+    "tweet-1384770418377035780": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1384770418377035780"
+      },
+      "parameters": {
+        "tweetId": "1384770418377035780"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Truncated axis**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1384869565558034432": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1384869565558034432"
+      },
+      "parameters": {
+        "tweetId": "1384869565558034432"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Dual axis**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1384871988263538698": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1384871988263538698"
+      },
+      "parameters": {
+        "tweetId": "1384871988263538698"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Dual axis**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1387422243211276291": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1387422243211276291"
+      },
+      "parameters": {
+        "tweetId": "1387422243211276291"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Cherry-picking**</small>, <small style=\"color: #8C2611;\">**Causal inference**</small>\n"
+    },
+    "tweet-1387435917548441602": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1387435917548441602"
+      },
+      "parameters": {
+        "tweetId": "1387435917548441602"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Setting an arbitrary threshold**</small>\n"
+    },
+    "tweet-1388232083928231936": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1388232083928231936"
+      },
+      "parameters": {
+        "tweetId": "1388232083928231936"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Dual axis**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1388901929036750848": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1388901929036750848"
+      },
+      "parameters": {
+        "tweetId": "1388901929036750848"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Dual axis**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1389264489862795267": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1389264489862795267"
+      },
+      "parameters": {
+        "tweetId": "1389264489862795267"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Value as area/volume**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1389439058833723394": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1389439058833723394"
+      },
+      "parameters": {
+        "tweetId": "1389439058833723394"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Issues with data validity**</small>\n"
+    },
+    "tweet-1417183585795289092": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1417183585795289092"
+      },
+      "parameters": {
+        "tweetId": "1417183585795289092"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Dual axis**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1417202292416258049": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1417202292416258049"
+      },
+      "parameters": {
+        "tweetId": "1417202292416258049"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Setting an arbitrary threshold**</small>\n"
+    },
+    "tweet-1417519182984318982": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1417519182984318982"
+      },
+      "parameters": {
+        "tweetId": "1417519182984318982"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Cherry-picking**</small>, <small style=\"color: #8C2611;\">**Causal inference**</small>\n"
+    },
+    "tweet-1418207952775749638": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1418207952775749638"
+      },
+      "parameters": {
+        "tweetId": "1418207952775749638"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Cherry-picking**</small>, <small style=\"color: #8C2611;\">**Causal inference**</small>\n"
+    },
+    "tweet-1418591265092997120": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1418591265092997120"
+      },
+      "parameters": {
+        "tweetId": "1418591265092997120"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Cherry-picking**</small>, <small style=\"color: #8C2611;\">**Setting an arbitrary threshold**</small>\n"
+    },
+    "tweet-1418615521289908226": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1418615521289908226"
+      },
+      "parameters": {
+        "tweetId": "1418615521289908226"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Issues with data validity**</small>\n"
+    },
+    "tweet-1418809842853158912": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1418809842853158912"
+      },
+      "parameters": {
+        "tweetId": "1418809842853158912"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Cherry-picking**</small>, <small style=\"color: #8C2611;\">**Causal inference**</small>\n"
+    },
+    "tweet-1420494565614759939": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1420494565614759939"
+      },
+      "parameters": {
+        "tweetId": "1420494565614759939"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Dual axis**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1421474682591596548": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1421474682591596548"
+      },
+      "parameters": {
+        "tweetId": "1421474682591596548"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Setting an arbitrary threshold**</small>\n"
+    },
+    "tweet-1421895715509387268": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1421895715509387268"
+      },
+      "parameters": {
+        "tweetId": "1421895715509387268"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Failure to account for statistical nuance**</small>\n"
+    },
+    "tweet-1422263154562715657": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1422263154562715657"
+      },
+      "parameters": {
+        "tweetId": "1422263154562715657"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Failure to account for statistical nuance**</small>\n"
+    },
+    "tweet-1422633305929748481": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1422633305929748481"
+      },
+      "parameters": {
+        "tweetId": "1422633305929748481"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Causal inference**</small>\n"
+    },
+    "tweet-1423405168670826506": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1423405168670826506"
+      },
+      "parameters": {
+        "tweetId": "1423405168670826506"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Failure to account for statistical nuance**</small>\n"
+    },
+    "tweet-1424485382381576199": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1424485382381576199"
+      },
+      "parameters": {
+        "tweetId": "1424485382381576199"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Value as area/volume**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1425668627496329217": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1425668627496329217"
+      },
+      "parameters": {
+        "tweetId": "1425668627496329217"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Failure to account for statistical nuance**</small>\n"
+    },
+    "tweet-1425680946628636675": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1425680946628636675"
+      },
+      "parameters": {
+        "tweetId": "1425680946628636675"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Value as area/volume**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1425857812022898688": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1425857812022898688"
+      },
+      "parameters": {
+        "tweetId": "1425857812022898688"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Failure to account for statistical nuance**</small>\n"
+    },
+    "tweet-1425913641371676673": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1425913641371676673"
+      },
+      "parameters": {
+        "tweetId": "1425913641371676673"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Cherry-picking**</small>, <small style=\"color: #8C2611;\">**Causal inference**</small>\n"
+    },
+    "tweet-1426201990644727808": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1426201990644727808"
+      },
+      "parameters": {
+        "tweetId": "1426201990644727808"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Cherry-picking**</small>, <small style=\"color: #8C2611;\">**Causal inference**</small>\n"
+    },
+    "tweet-1426675696504475652": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1426675696504475652"
+      },
+      "parameters": {
+        "tweetId": "1426675696504475652"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Setting an arbitrary threshold**</small>\n"
+    },
+    "tweet-1426798861406851073": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1426798861406851073"
+      },
+      "parameters": {
+        "tweetId": "1426798861406851073"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Causal inference**</small>\n"
+    },
+    "tweet-1426913416585879554": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1426913416585879554"
+      },
+      "parameters": {
+        "tweetId": "1426913416585879554"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Dual axis**</small>\n\nReasoning errors: <small>None</small>\n"
+    },
+    "tweet-1426970818374881283": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1426970818374881283"
+      },
+      "parameters": {
+        "tweetId": "1426970818374881283"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Cherry-picking**</small>, <small style=\"color: #8C2611;\">**Causal inference**</small>\n"
+    },
+    "tweet-1427013270955859974": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1427013270955859974"
+      },
+      "parameters": {
+        "tweetId": "1427013270955859974"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Cherry-picking**</small>, <small style=\"color: #8C2611;\">**Causal inference**</small>\n"
+    },
+    "tweet-1427089612556488704": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1427089612556488704"
+      },
+      "parameters": {
+        "tweetId": "1427089612556488704"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Failure to account for statistical nuance**</small>\n"
+    },
+    "tweet-1427397743270498494": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1427397743270498494"
+      },
+      "parameters": {
+        "tweetId": "1427397743270498494"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Dual axis**</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Cherry-picking**</small>, <small style=\"color: #8C2611;\">**Causal inference**</small>\n"
+    },
+    "tweet-1427408868083073026": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1427408868083073026"
+      },
+      "parameters": {
+        "tweetId": "1427408868083073026"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Dual axis**</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Cherry-picking**</small>, <small style=\"color: #8C2611;\">**Causal inference**</small>\n"
+    },
+    "tweet-1427738052143697921": {
+      "baseComponent": "tweet",
+      "instructionLocation": "aboveStimulus",
+      "meta": {
+        "tweetId": "1427738052143697921"
+      },
+      "parameters": {
+        "tweetId": "1427738052143697921"
+      },
+      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Setting an arbitrary threshold**</small>\n"
+    }
+  },
+  "sequence": {
+    "order": "fixed",
+    "components": [
+      "introduction",
+      "profiling-questions",
+      {
+        "order": "latinSquare",
+        "numSamples": 10,
+        "components": [
+          "tweet-1261072881343057920",
+          "tweet-1262138687443202048",
+          "tweet-1262471360514752514",
+          "tweet-1263849011791958016",
+          "tweet-1265726148970938368",
+          "tweet-1268571080656146432",
+          "tweet-1268720306316816384",
+          "tweet-1268946960955965442",
+          "tweet-1288164037625368576",
+          "tweet-1288718981994512384",
+          "tweet-1289322073815277568",
+          "tweet-1290330201222594560",
+          "tweet-1293075757200289792",
+          "tweet-1294302430721708032",
+          "tweet-1294393266654318592",
+          "tweet-1294874379340451840",
+          "tweet-1295937794200743936",
+          "tweet-1298496929853104128",
+          "tweet-1311765703247253505",
+          "tweet-1314059914768048139",
+          "tweet-1314623716962103297",
+          "tweet-1315662442761015297",
+          "tweet-1315781944689393664",
+          "tweet-1316621706866372608",
+          "tweet-1316737883366137856",
+          "tweet-1316899144905183232",
+          "tweet-1317127961104056321",
+          "tweet-1318549942990999552",
+          "tweet-1319604119917690882",
+          "tweet-1320017534674980866",
+          "tweet-1320353850730160134",
+          "tweet-1321113463754760192",
+          "tweet-1321492452579168256",
+          "tweet-1322231921716436992",
+          "tweet-1322665593825234945",
+          "tweet-1322947919192952833",
+          "tweet-1323163079824285696",
+          "tweet-1323204553949532161",
+          "tweet-1323876964629962752",
+          "tweet-1324258215337578496",
+          "tweet-1324298098525483008",
+          "tweet-1324795556347236353",
+          "tweet-1325651669980389376",
+          "tweet-1325993662875131905",
+          "tweet-1370023302861709315",
+          "tweet-1370127741568311298",
+          "tweet-1371509358576697361",
+          "tweet-1372580718824464385",
+          "tweet-1373577977456394244",
+          "tweet-1374418104801841159",
+          "tweet-1375456457534095360",
+          "tweet-1376261596415152132",
+          "tweet-1377592598215458816",
+          "tweet-1378712381254078464",
+          "tweet-1378722465275346944",
+          "tweet-1379473094214057991",
+          "tweet-1380500722811342849",
+          "tweet-1380885246418296834",
+          "tweet-1381623032641372163",
+          "tweet-1381978948226183170",
+          "tweet-1382119333560778755",
+          "tweet-1382241150573109249",
+          "tweet-1383573834477957130",
+          "tweet-1384770418377035780",
+          "tweet-1384869565558034432",
+          "tweet-1384871988263538698",
+          "tweet-1387422243211276291",
+          "tweet-1387435917548441602",
+          "tweet-1388232083928231936",
+          "tweet-1388901929036750848",
+          "tweet-1389264489862795267",
+          "tweet-1389439058833723394",
+          "tweet-1417183585795289092",
+          "tweet-1417202292416258049",
+          "tweet-1417519182984318982",
+          "tweet-1418207952775749638",
+          "tweet-1418591265092997120",
+          "tweet-1418615521289908226",
+          "tweet-1418809842853158912",
+          "tweet-1420494565614759939",
+          "tweet-1421474682591596548",
+          "tweet-1421895715509387268",
+          "tweet-1422263154562715657",
+          "tweet-1422633305929748481",
+          "tweet-1423405168670826506",
+          "tweet-1424485382381576199",
+          "tweet-1425668627496329217",
+          "tweet-1425680946628636675",
+          "tweet-1425857812022898688",
+          "tweet-1425913641371676673",
+          "tweet-1426201990644727808",
+          "tweet-1426675696504475652",
+          "tweet-1426798861406851073",
+          "tweet-1426913416585879554",
+          "tweet-1426970818374881283",
+          "tweet-1427013270955859974",
+          "tweet-1427089612556488704",
+          "tweet-1427397743270498494",
+          "tweet-1427408868083073026",
+          "tweet-1427738052143697921"
+        ]
+      },
+      "final-questions"
+    ]
+  }
+}

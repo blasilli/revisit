@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+
+  <!-- Preload script (makes Revisit available instantly) -->
+  <link rel="preload" href="../../revisitUtilities/revisit-communicate.js" as="script">
+
+  <!-- Preconnect to GitHub and GitHub Pages for faster TLS handshake -->
+  <link rel="preconnect" href="https://raw.githubusercontent.com">
+
+  <script src="../../revisitUtilities/revisit-communicate.js"></script>
+
+  <style>
+    * { box-sizing: border-box; }
+    :root { --post-width: 800px; }
+
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      background: #f5f5f5;
+    }
+
+    .tweet {
+      width: min(100%, var(--post-width));
+      margin: 16px auto;
+      background: #fff;
+      border: 1px solid #e6e8ee;
+      border-radius: 16px;
+      padding: 14px;
+      box-shadow: 0 2px 8px rgba(16,24,40,.06);
+      color: #0f1419;
+    }
+
+    .tweet-text {
+      margin: 2px 2px 10px;
+      font-size: 18px;
+      line-height: 1.5;
+      white-space: pre-wrap;
+    }
+
+    .tweet-media img {
+      width: 100%;
+      border-radius: 16px;
+      display: block;
+    }
+
+    .tweet-id {
+      margin-top: 10px;
+      font-family: monospace;
+      font-size: 12px;
+      color: #536471;
+      text-align: center;
+    }
+  </style>
+
+</head>
+<body>
+
+  <article class="tweet">
+    <p class="tweet-text">Loading tweet…</p>
+
+    <div class="tweet-media">
+      <img 
+        id="tweet-img"
+        alt="Tweet image"
+        fetchpriority="high"
+      >
+    </div>
+
+    <p class="tweet-id"></p>
+  </article>
+
+<script>
+  Revisit.onDataReceive(async (data) => {
+    const tweetId = data.tweetId;
+    document.querySelector('.tweet-id').textContent = `ID: ${tweetId}`;
+
+    // --- FASTEST POSSIBLE LOADING: Start image load immediately ---
+    const imgEl = document.getElementById('tweet-img');
+    const imgUrl = `https://raw.githubusercontent.com/blasilli/TrueVISLies/main/datasets/twitter/images/${tweetId}.png`
+    imgEl.src = imgUrl; // High priority request starts instantly
+
+    // --- FAST TEXT LOADING: Fetch the text in parallel ---
+    const textUrl = `https://raw.githubusercontent.com/blasilli/TrueVISLies/main/datasets/twitter/texts/${tweetId}.txt`;
+
+    try {
+      const response = await fetch(textUrl, { cache: "default" }); // allow browser caching
+      const text = await response.text();
+      document.querySelector('.tweet-text').textContent = text.trim();
+    } catch (err) {
+      document.querySelector('.tweet-text').textContent = "(Tweet text unavailable)";
+    }
+  });
+</script>
+
+</body>
+</html>
