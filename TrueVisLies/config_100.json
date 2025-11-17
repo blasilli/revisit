@@ -28,7 +28,7 @@
       },
       "response": [
         {
-          "id": "presenceByTechnique",
+          "id": "rhetoricPresence",
           "type": "matrix-radio",
           "location": "belowStimulus",
           "prompt": "\n>&nbsp;\n>&nbsp;\n\nAfter carefully inspecting the visualization, please answer the following questions, by considering the definitions of **visualization rhetoric**:\n\n- <small>**Information Access Rhetoric** Refers to choices about what data to include, omit, filter, or aggregate. These choices shape what the viewer sees and which patterns or narratives are emphasized.</small>\n- <small>**Provenance Rhetoric** Relates to how a visualization communicates trustworthiness, such as by citing sources, explaining methods, noting uncertainty, or including methodology or assumptions.</small>\n- <small>**Mapping Rhetoric** Involves how data values are translated into visual features such as position, size, scale, metaphor, or color. This can create emphasis or shape perception beyond what the raw data conveys.</small>\n- <small>**Linguistic-Based Rhetoric** Uses language elements like titles, labels, annotations, or captions to guide interpretation. Often includes metaphor, irony, rhetorical questions, or other narrative framing.</small>\n- <small>**Procedural Rhetoric** Relates to interaction and navigation design, such as default views, filters, or animations. These features guide how users explore the data and can influence which conclusions they reach.</small></span>\n>&nbsp;\n>&nbsp;\n>&nbsp;\n\n>&nbsp;\n\n<span style='font-size: 1.1em;'>How much does each **rhetorical technique contribute** to the **misleading** effect in this visualization?</span>*&nbsp;*",
@@ -51,7 +51,7 @@
           ]
         },
         {
-          "id": "intentionalityByTechnique",
+          "id": "intentionalityPresence",
           "type": "matrix-radio",
           "location": "belowStimulus",
           "prompt": "\n>&nbsp;\n>&nbsp;\n>&nbsp;\n\n<span style='font-size: 1.1em'>For each **rhetorical technique** you think is is contributing to the misleading nature of this visualization, how **intentional** is its usage to produce a **misleading effect**?*&nbsp;*</span>",
@@ -74,7 +74,7 @@
           ]
         },
         {
-          "id": "intentionalityOvelall",
+          "id": "intentionalityOverall",
           "type": "matrix-radio",
           "location": "belowStimulus",
           "prompt": "\n>&nbsp;\n>&nbsp;\n>&nbsp;\n\n<span style='font-size: 1.1em'>**Overall**, how much do you think the misleading aspects of this visualization were **intentional** and not just **mistakes**?*&nbsp;*</span>",
@@ -93,7 +93,7 @@
           ]
         },
         {
-          "id": "comments-visualization",
+          "id": "commentsOnVisualization",
           "prompt": "\n>&nbsp;\n>&nbsp;\n>&nbsp;\n\nAny comments you would like to share about this **visualization**?",
           "required": false,
           "location": "belowStimulus",
@@ -101,7 +101,7 @@
           "placeholder": "Type your answer here..."
         },
         {
-          "id": "comments-choice",
+          "id": "commentsOnChoices",
           "prompt": "\n>&nbsp;\n>&nbsp;\n>&nbsp;\n\nAny comments you would like to share about **your choices**?",
           "required": false,
           "location": "belowStimulus",
@@ -124,7 +124,7 @@
       "responseDividers": true,
       "response": [
         {
-          "id": "q0-age",
+          "id": "age",
           "prompt": "What is your age?",
           "required": true,
           "location": "aboveStimulus",
@@ -134,7 +134,7 @@
           "min": 0
         },
         {
-          "id": "q1-education",
+          "id": "education",
           "prompt": "What is the highest level of education you have completed?",
           "required": true,
           "location": "aboveStimulus",
@@ -150,7 +150,7 @@
           ]
         },
         {
-          "id": "q2-position",
+          "id": "position",
           "prompt": "What is your current position?",
           "required": true,
           "location": "aboveStimulus",
@@ -170,7 +170,7 @@
           ]
         },
         {
-          "id": "q3-expertise-visualization",
+          "id": "expertiseVisualization",
           "prompt": "Rate your expertise in **data visualization** from 1 (very poor) to 7 (excellent).",
           "required": true,
           "location": "aboveStimulus",
@@ -180,7 +180,7 @@
           "numItems": 7
         },
         {
-          "id": "q4-expertise-misleading",
+          "id": "expertiseMisleading",
           "prompt": "Rate your expertise in **misleading visualizations analysis** from 1 (very poor) to 7 (excellent).",
           "required": true,
           "location": "aboveStimulus",
@@ -190,7 +190,7 @@
           "numItems": 7
         },
         {
-          "id": "q5-expertise-rhetoric",
+          "id": "expertiseRhetoric",
           "prompt": "Rate your expertise in visualization rhetoric from 1 (very poor) to 7 (excellent).",
           "required": true,
           "location": "aboveStimulus",
@@ -206,7 +206,7 @@
       "responseDividers": true,
       "response": [
         {
-          "id": "q6-comments",
+          "id": "finalComments",
           "prompt": "Do you have any comments or feedback about this study?",
           "required": false,
           "location": "aboveStimulus",
