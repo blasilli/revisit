@@ -1,0 +1,18 @@
+{
+  "id": "1319609741329362947",
+  "author": "WindTalker",
+  "date": "2020-10-23T12:00:54.000Z",
+  "text": "Today\u2019s reminder that lockdowns and mask mandates aren\u2019t the answer.",
+  "tweet_url": "https://x.com/i/web/status/1319609741329362947",
+  "image_url": "https://pbs.twimg.com/media/ElAyEJTU8AEGn0s?format=jpg&name=900x900",
+  "image_width": 587,
+  "image_height": 900,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

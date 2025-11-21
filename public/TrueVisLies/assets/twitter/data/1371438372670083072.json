@@ -1,0 +1,17 @@
+{
+  "id": "1371438372670083072",
+  "author": "Carl Quintanilla",
+  "date": "2021-03-15T12:29:22.000Z",
+  "text": "\u201cThe U.S. Is Vaccinating More Than 1% of Adults Per Day\u201d\n\n\n@PantheonMacro",
+  "tweet_url": "https://x.com/i/web/status/1371438372670083072",
+  "image_url": "https://pbs.twimg.com/media/EwhT7mtWYAEUke8?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 418,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "1325838535727980546",
+  "author": "covid-dash.net",
+  "date": "2020-11-09T16:31:54.000Z",
+  "text": "Lubbock County Texas has the 6th highest 14-day COVID-19 positives in the U.S., with 1660 per 100k people",
+  "tweet_url": "https://x.com/i/web/status/1325838535727980546",
+  "image_url": "https://pbs.twimg.com/media/EmZTHkEW8AEVbA0?format=png&name=small",
+  "image_width": 680,
+  "image_height": 383,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

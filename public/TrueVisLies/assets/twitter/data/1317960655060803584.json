@@ -1,0 +1,19 @@
+{
+  "id": "1317960655060803584",
+  "author": "John Blackthorne",
+  "date": "2020-10-18T22:48:01.000Z",
+  "text": "Current picture of Covid ICU occupancy after two weeks of fear mongering about cases:",
+  "tweet_url": "https://x.com/i/web/status/1317960655060803584",
+  "image_url": "https://pbs.twimg.com/media/EkpWKzsX0Acolbt?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 219,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

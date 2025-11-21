@@ -1,0 +1,18 @@
+{
+  "id": "1421907750049574913",
+  "author": "Eric Topol",
+  "date": "2021-08-01T18:56:40.000Z",
+  "text": "And here",
+  "tweet_url": "https://x.com/i/web/status/1421907750049574913",
+  "image_url": "https://pbs.twimg.com/media/E7uhZAIVcAAu4Y7?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 509,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

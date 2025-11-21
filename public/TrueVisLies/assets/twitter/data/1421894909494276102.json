@@ -1,0 +1,17 @@
+{
+  "id": "1421894909494276102",
+  "author": "ian bremmer",
+  "date": "2021-08-01T18:05:38.000Z",
+  "text": "And if you\u2019re not vaccinated?\nHere\u2019s the graph:",
+  "tweet_url": "https://x.com/i/web/status/1421894909494276102",
+  "image_url": "https://pbs.twimg.com/media/E7uV4bgWQAIMtI6?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 447,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Failure to account for statistical nuance"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1389264489862795267",
+  "author": "AFP News Agency",
+  "date": "2021-05-03T17:04:00.000Z",
+  "text": "Global death toll and coronavirus cases as of May 3\n\n#AFPgraphics",
+  "tweet_url": "https://x.com/i/web/status/1389264489862795267",
+  "image_url": "https://pbs.twimg.com/media/E0eh44RX0AEgDg7?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 493,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1421625192007225345",
+  "author": "Just Keith",
+  "date": "2021-08-01T00:13:52.000Z",
+  "text": "Here is the COVID \"cases\" chart juxtaposed with the COVID \"deaths\" chart in the US.",
+  "tweet_url": "https://x.com/i/web/status/1421625192007225345",
+  "image_url": "https://pbs.twimg.com/media/E7qgkGXVUAE0M4j?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 336,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Issues with data validity"
+    ]
+  }
+}

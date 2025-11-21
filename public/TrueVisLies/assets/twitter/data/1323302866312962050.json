@@ -1,0 +1,15 @@
+{
+  "id": "1323302866312962050",
+  "author": "Our World in Data",
+  "date": "2020-11-02T16:36:03.000Z",
+  "text": "The US has flattened this curve.\n\nWhy? \u2192 http://ourworldindata.org/us-life-expectancy-low\u2026",
+  "tweet_url": "https://x.com/i/web/status/1323302866312962050",
+  "image_url": "https://pbs.twimg.com/media/El1Qy2qWkAEttmB?format=png&name=small",
+  "image_width": 624,
+  "image_height": 680,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

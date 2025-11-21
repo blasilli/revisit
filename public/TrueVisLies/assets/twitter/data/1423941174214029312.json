@@ -1,0 +1,15 @@
+{
+  "id": "1423941174214029312",
+  "author": "KONO Taro",
+  "date": "2021-08-07T09:36:46.000Z",
+  "text": "Daily COVID-19 vaccine doses administered per 100 people.",
+  "tweet_url": "https://x.com/i/web/status/1423941174214029312",
+  "image_url": "https://pbs.twimg.com/media/E8La8yYVoAUgF7j?format=jpg&name=900x900",
+  "image_width": 640,
+  "image_height": 900,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

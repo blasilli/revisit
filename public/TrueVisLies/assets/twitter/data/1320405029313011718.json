@@ -1,0 +1,18 @@
+{
+  "id": "1320405029313011718",
+  "author": "Vishal Misra",
+  "date": "2020-10-25T13:17:12.000Z",
+  "text": "\u201dWe cannot control the pandemic\u201d",
+  "tweet_url": "https://x.com/i/web/status/1320405029313011718",
+  "image_url": "https://pbs.twimg.com/media/ElMFYCqWAAASEl3?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 522,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

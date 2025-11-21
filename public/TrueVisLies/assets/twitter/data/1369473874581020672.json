@@ -1,0 +1,20 @@
+{
+  "id": "1369473874581020672",
+  "author": "Juergen Amft",
+  "date": "2021-03-10T02:23:09.000Z",
+  "text": "India, Covid, definitely done",
+  "tweet_url": "https://x.com/i/web/status/1369473874581020672",
+  "image_url": "https://pbs.twimg.com/media/EwFZOSqUYAM1F_V?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 335,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Truncated axis",
+      "Dual axis"
+    ],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

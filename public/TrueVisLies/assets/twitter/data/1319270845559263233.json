@@ -1,0 +1,17 @@
+{
+  "id": "1319270845559263233",
+  "author": "Andrew Thrasher, CMT",
+  "date": "2020-10-22T13:34:15.000Z",
+  "text": "Discouraging seeing covid hospitalizations and ICU numbers trending higher this month. via \n@biancoresearch",
+  "tweet_url": "https://x.com/i/web/status/1319270845559263233",
+  "image_url": "https://pbs.twimg.com/media/Ek790ebXYAETite?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 506,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Truncated axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

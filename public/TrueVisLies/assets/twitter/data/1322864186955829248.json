@@ -1,0 +1,19 @@
+{
+  "id": "1322864186955829248",
+  "author": "Latimer Alder",
+  "date": "2020-11-01T11:32:54.000Z",
+  "text": "Where's Covid?\n\nCan you spot it in Scotland's data?",
+  "tweet_url": "https://x.com/i/web/status/1322864186955829248",
+  "image_url": "https://pbs.twimg.com/media/ElvB7ObXIAMgzxE?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 420,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Setting an arbitrary threshold",
+      "Issues with data validity"
+    ]
+  }
+}

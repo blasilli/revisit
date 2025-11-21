@@ -1,0 +1,15 @@
+{
+  "id": "1319805340741939201",
+  "author": "Bob Moore",
+  "date": "2020-10-24T00:58:08.000Z",
+  "text": "I remember being deeply concerned when El Paso's COVID-19 hospitalization numbers topped 300 in July.",
+  "tweet_url": "https://x.com/i/web/status/1319805340741939201",
+  "image_url": "https://pbs.twimg.com/media/ElDj76uWMAgsu4h?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 389,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

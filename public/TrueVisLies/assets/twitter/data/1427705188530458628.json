@@ -1,0 +1,18 @@
+{
+  "id": "1427705188530458628",
+  "author": "The_Real_Fly",
+  "date": "2021-08-17T18:53:37.000Z",
+  "text": "THE LEAST VACCINATED COUNTY IN FLORIDA -- LIBERTY COUNTY -- ZERO DEATHS",
+  "tweet_url": "https://x.com/i/web/status/1427705188530458628",
+  "image_url": "https://pbs.twimg.com/media/E9A6QjLXsAQyKw2?format=png&name=small",
+  "image_width": 674,
+  "image_height": 422,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold",
+      "Failure to account for statistical nuance"
+    ]
+  }
+}

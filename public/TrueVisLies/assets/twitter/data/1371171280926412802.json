@@ -1,0 +1,17 @@
+{
+  "id": "1371171280926412802",
+  "author": "Derek Gatopoulos",
+  "date": "2021-03-14T18:48:03.000Z",
+  "text": "Greece's Covid-19 death toll passed the 7,000-mark this weekend. \n \n#Greece #Covid_19",
+  "tweet_url": "https://x.com/i/web/status/1371171280926412802",
+  "image_url": "https://pbs.twimg.com/media/Ewdg_wjWYAIwR0n?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 390,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

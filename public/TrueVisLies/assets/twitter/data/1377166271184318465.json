@@ -1,0 +1,17 @@
+{
+  "id": "1377166271184318465",
+  "author": "Daily Nation",
+  "date": "2021-03-31T07:50:00.000Z",
+  "text": "Tracking the spread of coronavirus: Kenya Today\n\n#Covid19 #NationNewsplex\nhttp://bit.ly/2R8Mk6J",
+  "tweet_url": "https://x.com/i/web/status/1377166271184318465",
+  "image_url": "https://pbs.twimg.com/media/Exxw-i4U4A0Mc-d?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 534,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

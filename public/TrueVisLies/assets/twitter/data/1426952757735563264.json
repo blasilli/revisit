@@ -1,0 +1,17 @@
+{
+  "id": "1426952757735563264",
+  "author": "Charles Gaba ",
+  "date": "2021-08-15T17:03:43.000Z",
+  "text": " Completely nonpartisan:\nNew COVID cases per capita since 7/1/21 vs. % of total population fully vaccinated:",
+  "tweet_url": "https://x.com/i/web/status/1426952757735563264",
+  "image_url": "https://pbs.twimg.com/media/E82NytcXMAYB4AQ?format=jpg&name=small",
+  "image_width": 567,
+  "image_height": 680,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "1378383683258703875",
+  "author": "Sanjeevani Samachar",
+  "date": "2021-04-03T16:27:33.000Z",
+  "text": "Take a look: Rise in #COVID19 cases in last seven days",
+  "tweet_url": "https://x.com/i/web/status/1378383683258703875",
+  "image_url": "https://pbs.twimg.com/media/EyEAop-UcAAc6vh?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 415,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

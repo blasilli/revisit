@@ -1,0 +1,15 @@
+{
+  "id": "1318348484886646784",
+  "author": "Charlie Bilello",
+  "date": "2020-10-20T00:29:07.000Z",
+  "text": "US Covid-19 Update: avg of 57,213 new cases/day over the last week, highest since Aug 5.",
+  "tweet_url": "https://x.com/i/web/status/1318348484886646784",
+  "image_url": "https://pbs.twimg.com/media/Eku24V_XEAE0Pcu?format=png&name=small",
+  "image_width": 680,
+  "image_height": 341,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

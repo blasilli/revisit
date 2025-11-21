@@ -1,0 +1,17 @@
+{
+  "id": "1382741444406960130",
+  "author": "Dr Clare Craig",
+  "date": "2021-04-15T17:03:45.000Z",
+  "text": "COVID deaths over time - and yet we're still locked down! https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/978131/Weekly_Flu_and_COVID-19_report_w15.pdf\u2026",
+  "tweet_url": "https://x.com/i/web/status/1382741444406960130",
+  "image_url": "https://pbs.twimg.com/media/EzB7-aCXIAA5MaS?format=png&name=small",
+  "image_width": 650,
+  "image_height": 403,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

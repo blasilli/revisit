@@ -1,0 +1,18 @@
+{
+  "id": "1264168867569577984",
+  "author": "Richard Reichle",
+  "date": "2020-05-23T12:18:39.000Z",
+  "text": "Lockdown is a joke\n\nAverage survival rate between Britain & Sweden\n\n99.965%",
+  "tweet_url": "https://x.com/i/web/status/1264168867569577984",
+  "image_url": "https://pbs.twimg.com/media/EYs64YlWsAAO_Dn?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 548,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

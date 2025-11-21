@@ -1,0 +1,15 @@
+{
+  "id": "1375461566804586496",
+  "author": "Eric Feigl-Ding",
+  "date": "2021-03-26T14:56:07.000Z",
+  "text": "5) Anywhere else? Here is active cases in Massachusetts.",
+  "tweet_url": "https://x.com/i/web/status/1375461566804586496",
+  "image_url": "https://pbs.twimg.com/media/ExafAO8W8AADCcd?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 338,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

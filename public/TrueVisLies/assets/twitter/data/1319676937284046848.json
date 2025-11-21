@@ -1,0 +1,15 @@
+{
+  "id": "1319676937284046848",
+  "author": "Atul Gawande",
+  "date": "2020-10-23T16:27:54.000Z",
+  "text": "This figure says it all. https://washingtonpost.com/business/2020/10/23/pandemic-data-chart-masks/\u2026",
+  "tweet_url": "https://x.com/i/web/status/1319676937284046848",
+  "image_url": "https://pbs.twimg.com/media/ElBvJmTWkAMCloI?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 680,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

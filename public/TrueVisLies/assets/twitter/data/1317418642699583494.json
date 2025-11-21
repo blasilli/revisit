@@ -1,0 +1,17 @@
+{
+  "id": "1317418642699583494",
+  "author": "Latimer Alder",
+  "date": "2020-10-17T10:54:15.000Z",
+  "text": "Is the NHS being 'overwhelmed'?",
+  "tweet_url": "https://x.com/i/web/status/1317418642699583494",
+  "image_url": "https://pbs.twimg.com/media/EkhpO8sW0AINjav?format=png&name=small",
+  "image_width": 481,
+  "image_height": 347,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

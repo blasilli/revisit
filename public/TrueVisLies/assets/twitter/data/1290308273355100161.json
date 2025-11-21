@@ -1,0 +1,17 @@
+{
+  "id": "1290308273355100161",
+  "author": "TTT Live Online",
+  "date": "2020-08-03T15:27:19.000Z",
+  "text": "Laboratory Confirmed COVID-19 Cases And Contacts In T&T Phase 2, June - August 2020",
+  "tweet_url": "https://x.com/i/web/status/1290308273355100161",
+  "image_url": "https://pbs.twimg.com/media/EegYeRsXYAI3Qev?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 413,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

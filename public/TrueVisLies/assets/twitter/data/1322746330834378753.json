@@ -1,0 +1,18 @@
+{
+  "id": "1322746330834378753",
+  "author": "Monica",
+  "date": "2020-11-01T03:44:35.000Z",
+  "text": "Look how low the Covid death rate is in the UK!",
+  "tweet_url": "https://x.com/i/web/status/1322746330834378753",
+  "image_url": "https://pbs.twimg.com/media/EltWxk1VgAU8IPD?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 383,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold",
+      "Issues with data validity"
+    ]
+  }
+}

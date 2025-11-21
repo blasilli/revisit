@@ -1,0 +1,15 @@
+{
+  "id": "1417159919116165129",
+  "author": "covid-dash.net",
+  "date": "2021-07-19T16:30:28.000Z",
+  "text": "Florida has the 3rd highest 14-day COVID-19 positives among the U.S. states, with 322 per 100k people",
+  "tweet_url": "https://x.com/i/web/status/1417159919116165129",
+  "image_url": "https://pbs.twimg.com/media/E6rDbrPWUAQB5bO?format=png&name=small",
+  "image_width": 680,
+  "image_height": 383,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1322231921716436992",
+  "author": "Latimer Alder",
+  "date": "2020-10-30T17:40:30.000Z",
+  "text": "'The worst pandemic of the most contagious disease we have seen for 100 years'\n\nLet's look.",
+  "tweet_url": "https://x.com/i/web/status/1322231921716436992",
+  "image_url": "https://pbs.twimg.com/media/ElmC57YXgAAadW7?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 453,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Inappropriate encoding"
+    ],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Setting an arbitrary threshold",
+      "Issues with data validity"
+    ]
+  }
+}

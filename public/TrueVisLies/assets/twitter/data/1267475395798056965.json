@@ -1,0 +1,17 @@
+{
+  "id": "1267475395798056965",
+  "author": "Paso Robles Daily News",
+  "date": "2020-06-01T15:17:37.000Z",
+  "text": "COVID-19 update: One case added Sunday #PasoRobles https://wp.me/p2Qysu-sxH",
+  "tweet_url": "https://x.com/i/web/status/1267475395798056965",
+  "image_url": "https://pbs.twimg.com/media/EZb6J9UXQAIOe8Q?format=jpg&name=240x240",
+  "image_width": 150,
+  "image_height": 150,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

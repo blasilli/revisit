@@ -1,0 +1,17 @@
+{
+  "id": "1314650606636851207",
+  "author": "Laura Ingraham",
+  "date": "2020-10-09T19:35:04.000Z",
+  "text": "The graph that Team Biden, \u2066\n@CNN\n\u2069, \u2066\n@MSNBC\n\u2069 & most in the media don\u2019t want you to see....",
+  "tweet_url": "https://x.com/i/web/status/1314650606636851207",
+  "image_url": "https://pbs.twimg.com/media/Ej6Twe4WsAMBvrM?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 351,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

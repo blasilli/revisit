@@ -1,0 +1,19 @@
+{
+  "id": "1384000588732506116",
+  "author": "Matt Couch",
+  "date": "2021-04-19T04:27:08.000Z",
+  "text": "40 Days with no masks in Texas is going perfectly... ditch the masks you look ridiculous America...",
+  "tweet_url": "https://x.com/i/web/status/1384000588732506116",
+  "image_url": "https://pbs.twimg.com/media/EzT1MtyUcAcX5DJ?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 444,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Setting an arbitrary threshold",
+      "Causal inference"
+    ]
+  }
+}

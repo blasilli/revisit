@@ -1,0 +1,20 @@
+{
+  "id": "1420040138009321477",
+  "author": "Latimer Alder",
+  "date": "2021-07-27T15:15:26.000Z",
+  "text": "Your chance of dying 'with Covid' in UK today was 1 in 500,000\n\n68,000,000 people in UK\n\n131 died with Covid",
+  "tweet_url": "https://x.com/i/web/status/1420040138009321477",
+  "image_url": "https://pbs.twimg.com/media/E7T-zMnVEAQIlM6?format=png&name=small",
+  "image_width": 595,
+  "image_height": 475,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

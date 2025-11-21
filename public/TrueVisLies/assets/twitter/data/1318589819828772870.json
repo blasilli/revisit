@@ -1,0 +1,19 @@
+{
+  "id": "1318589819828772870",
+  "author": "Latimer Alder",
+  "date": "2020-10-20T16:28:05.000Z",
+  "text": "Just 1 person in every 280,000 in UK died 'with Covid' today",
+  "tweet_url": "https://x.com/i/web/status/1318589819828772870",
+  "image_url": "https://pbs.twimg.com/media/EkySZNIWMAElvkQ?format=png&name=small",
+  "image_width": 502,
+  "image_height": 394,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

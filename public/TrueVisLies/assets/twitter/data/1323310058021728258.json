@@ -1,0 +1,15 @@
+{
+  "id": "1323310058021728258",
+  "author": "Alistair Haimes",
+  "date": "2020-11-02T17:04:38.000Z",
+  "text": "First reduction in covid19 inpatients for over a month in England\n.\nhttps://coronavirus.data.gov.uk/healthcare?areaType=nation&areaName=England\u2026",
+  "tweet_url": "https://x.com/i/web/status/1323310058021728258",
+  "image_url": "https://pbs.twimg.com/media/El1Wu18XEAouC-u?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 366,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

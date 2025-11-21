@@ -1,0 +1,17 @@
+{
+  "id": "1425510573802983431",
+  "author": "David Jacobs",
+  "date": "2021-08-11T17:33:00.000Z",
+  "text": "Well, that's unambiguous. Get vaccinated.\n\n#Cdnpoli #COVID19 #GetVaccinated",
+  "tweet_url": "https://x.com/i/web/status/1425510573802983431",
+  "image_url": "https://pbs.twimg.com/media/E8huUAiWQAMV2Wi?format=jpg&name=small",
+  "image_width": 656,
+  "image_height": 680,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Failure to account for statistical nuance"
+    ]
+  }
+}

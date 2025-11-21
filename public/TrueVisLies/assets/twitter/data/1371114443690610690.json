@@ -1,0 +1,15 @@
+{
+  "id": "1371114443690610690",
+  "author": "Phil Kerpen",
+  "date": "2021-03-14T15:02:12.000Z",
+  "text": "Let's check in on now-vaccinated nursing home residents.\nhttps://covid.cdc.gov/covid-data-tracker/#nursing-home-residents\u2026",
+  "tweet_url": "https://x.com/i/web/status/1371114443690610690",
+  "image_url": "https://pbs.twimg.com/media/EwctJrFWQAE282s?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 347,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

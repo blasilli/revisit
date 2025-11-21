@@ -1,0 +1,15 @@
+{
+  "id": "1389629870825623555",
+  "author": "Pramod Acharya",
+  "date": "2021-05-04T17:15:53.000Z",
+  "text": "Half-full: Number of ICU beds and #Covid19 patients in #Nepal by province. #dataviz",
+  "tweet_url": "https://x.com/i/web/status/1389629870825623555",
+  "image_url": "https://pbs.twimg.com/media/E0j09pIVoAAI0iZ?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 482,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

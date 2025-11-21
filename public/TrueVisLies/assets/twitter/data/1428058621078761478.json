@@ -1,0 +1,15 @@
+{
+  "id": "1428058621078761478",
+  "author": "The AZ - abc15 - Data Guru",
+  "date": "2021-08-18T18:18:01.000Z",
+  "text": "Some good news, our case fatality rate in Arizona is under 2%.",
+  "tweet_url": "https://x.com/i/web/status/1428058621078761478",
+  "image_url": "https://pbs.twimg.com/media/E9F7rl6VgAAVV28?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 494,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "1296115709613924352",
+  "author": "Kelli Smith",
+  "date": "2020-08-19T16:04:00.000Z",
+  "text": "Notre Dame's latest update: 222 confirmed COVID-19 cases on campus. Yesterday the tally was at 147.",
+  "tweet_url": "https://x.com/i/web/status/1296115709613924352",
+  "image_url": "https://pbs.twimg.com/media/Efy6E_OX0AIoh4D?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 514,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

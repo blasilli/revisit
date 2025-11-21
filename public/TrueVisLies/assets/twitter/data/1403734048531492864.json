@@ -1,0 +1,18 @@
+{
+  "id": "1403734048531492864",
+  "author": "Francesco Lari",
+  "date": "2021-06-12T15:20:51.000Z",
+  "text": "Covid hospitalizations in Italy follow exactly the same trajectory as last year, purely seasonal.",
+  "tweet_url": "https://x.com/i/web/status/1403734048531492864",
+  "image_url": "https://pbs.twimg.com/media/E3sQmG6XEAAsMyB?format=png&name=small",
+  "image_width": 585,
+  "image_height": 354,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1379451502452908037",
+  "author": "Anurag Shrivastava ",
+  "date": "2021-04-06T15:10:41.000Z",
+  "text": "This is what vaccine does . Deaths almost gone in UK",
+  "tweet_url": "https://x.com/i/web/status/1379451502452908037",
+  "image_url": "https://pbs.twimg.com/media/EyTL05xVoAE1oyd?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 466,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Causal inference"
+    ]
+  }
+}

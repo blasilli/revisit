@@ -1,0 +1,17 @@
+{
+  "id": "1379844249919840260",
+  "author": "Fraser Nelson",
+  "date": "2021-04-07T17:11:20.000Z",
+  "text": "... Covid deaths in UK falling faster even than in fully-vaccinated Israel.",
+  "tweet_url": "https://x.com/i/web/status/1379844249919840260",
+  "image_url": "https://pbs.twimg.com/media/EyYw84AXAAEHYrN?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 443,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Causal inference"
+    ]
+  }
+}

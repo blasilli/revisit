@@ -1,0 +1,17 @@
+{
+  "id": "1386793939156471810",
+  "author": "Take The Red",
+  "date": "2021-04-26T21:26:55.000Z",
+  "text": "Not many are anymore.  Here\u2019s the chart:\n#pandemicisover",
+  "tweet_url": "https://x.com/i/web/status/1386793939156471810",
+  "image_url": "https://pbs.twimg.com/media/Ez7hvClWYAET986?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 383,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

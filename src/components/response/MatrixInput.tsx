@@ -169,8 +169,10 @@ export function MatrixInput({
   return (
     <>
       {prompt.length > 0 && <InputLabel prompt={prompt} required={required} index={index} enumerateQuestions={enumerateQuestions} infoText={infoText} />}
-      <Text c="dimmed" size="sm" mt={0}>{secondaryText}</Text>
+      { /* <Text c="dimmed" size="sm" mt={0}>{secondaryText}</Text> */}
+      <Text c="dimmed" size="sm" mt={0} dangerouslySetInnerHTML={{ __html: secondaryText }} />
       <Box
+        className="matrix-input"
         style={{
           display: 'grid',
           gridTemplateColumns: 'auto 1fr',
@@ -189,6 +191,7 @@ export function MatrixInput({
         />
         {/* Column Headers */}
         <div
+          className="matrix-input-y"
           style={{
             height: '100%',
             display: 'grid',
@@ -201,6 +204,7 @@ export function MatrixInput({
           {_choices.map((entry, idx) => (
             <Text
               key={`choice-${idx}-label`}
+              className="matrix-input-label"
               style={{
                 fontWeight: 'bold',
                 textAlign: 'center',
@@ -216,6 +220,7 @@ export function MatrixInput({
         </div>
         {/* Row Headers */}
         <div
+          className="matrix-input-x"
           style={{
             height: '100%',
             display: 'grid',

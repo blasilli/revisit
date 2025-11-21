@@ -1,0 +1,15 @@
+{
+  "id": "1425264607665532932",
+  "author": " Rusty Surette",
+  "date": "2021-08-11T01:15:37.000Z",
+  "text": "HOSPITAL DATA: There are 29 million people in Texas and only 329 ICU beds available.",
+  "tweet_url": "https://x.com/i/web/status/1425264607665532932",
+  "image_url": "https://pbs.twimg.com/media/E8eOZ-6WEAYuD90?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 388,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

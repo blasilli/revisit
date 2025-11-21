@@ -1,0 +1,15 @@
+{
+  "id": "1268708977627594752",
+  "author": "ABC13 Houston",
+  "date": "2020-06-05T00:59:26.000Z",
+  "text": "COVID-19 cases in Houston increasing since Texas reopened https://abc13.co/2z92J5Y",
+  "tweet_url": "https://x.com/i/web/status/1268708977627594752",
+  "image_url": "https://pbs.twimg.com/media/EZtcF5OX0AAufy4?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 383,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

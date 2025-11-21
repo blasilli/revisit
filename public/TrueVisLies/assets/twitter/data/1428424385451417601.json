@@ -1,0 +1,15 @@
+{
+  "id": "1428424385451417601",
+  "author": "Florida Hospital Association",
+  "date": "2021-08-19T18:31:26.000Z",
+  "text": " Florida COVID-19 Update for August 19, 2021\n\n Total Confirmed Hospitalizations: 16,973",
+  "tweet_url": "https://x.com/i/web/status/1428424385451417601",
+  "image_url": "https://pbs.twimg.com/media/E9LFwZ4WUAM9lmR?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 383,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

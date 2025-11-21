@@ -1,0 +1,15 @@
+{
+  "id": "1319623116201537536",
+  "author": "David Steadson #NAFO ",
+  "date": "2020-10-23T12:54:02.000Z",
+  "text": "Number of Covid-19 patients in ICU also increasing rapidly.",
+  "tweet_url": "https://x.com/i/web/status/1319623116201537536",
+  "image_url": "https://pbs.twimg.com/media/ElA9cJ8WMAAaQqe?format=png&name=small",
+  "image_width": 680,
+  "image_height": 389,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "1295176762041626626",
+  "author": "Ministry of Health",
+  "date": "2020-08-17T01:52:57.000Z",
+  "text": "#IndiaFightsCorona \n\nFocussing on timely and aggressive TESTING, India has exceeded 3 crore tests.",
+  "tweet_url": "https://x.com/i/web/status/1295176762041626626",
+  "image_url": "https://pbs.twimg.com/media/EflkZjRWoAQFCag?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 382,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Truncated axis",
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1293904635606966272",
+  "author": "datatosee.com",
+  "date": "2020-08-13T13:37:59.000Z",
+  "text": "It appears that COVID-19 cured bronchitis",
+  "tweet_url": "https://x.com/i/web/status/1293904635606966272",
+  "image_url": "https://pbs.twimg.com/media/EfTfZgjU4AIP6km?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 295,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Issues with data validity"
+    ]
+  }
+}

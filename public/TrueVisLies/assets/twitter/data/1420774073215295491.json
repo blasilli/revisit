@@ -1,0 +1,20 @@
+{
+  "id": "1420774073215295491",
+  "author": "BarkingMadMD",
+  "date": "2021-07-29T15:51:50.000Z",
+  "text": "82% of new cases in Iceland are in fully vaccinated.",
+  "tweet_url": "https://x.com/i/web/status/1420774073215295491",
+  "image_url": "https://pbs.twimg.com/media/E7eafNMVIAEAGBR?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 605,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

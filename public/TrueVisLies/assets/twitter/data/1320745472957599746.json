@@ -1,0 +1,17 @@
+{
+  "id": "1320745472957599746",
+  "author": "Frank Kilkelly ",
+  "date": "2020-10-26T15:13:53.000Z",
+  "text": " \"Where has the flu gone?\" Global edition \n\nThis really needs an explanation!\n\n#COVID19 #Influenza",
+  "tweet_url": "https://x.com/i/web/status/1320745472957599746",
+  "image_url": "https://pbs.twimg.com/media/ElQ5uzoWMAIrTRP?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 382,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Issues with data validity"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1325879284238610432",
+  "author": "Professor Joanna Semlyen",
+  "date": "2020-11-09T19:13:49.000Z",
+  "text": "This is a very helpful tool you might find.",
+  "tweet_url": "https://x.com/i/web/status/1325879284238610432",
+  "image_url": "https://pbs.twimg.com/media/EmZ4LSjXIAEAN7c?format=jpg&name=medium",
+  "image_width": 675,
+  "image_height": 1200,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Unclear encoding"
+    ],
+    "ReasoningErrors": []
+  }
+}

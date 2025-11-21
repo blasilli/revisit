@@ -1,0 +1,15 @@
+{
+  "id": "1313379926410760192",
+  "author": "Aeneas Georg",
+  "date": "2020-10-06T07:25:50.000Z",
+  "text": "The numbers say it all:",
+  "tweet_url": "https://x.com/i/web/status/1313379926410760192",
+  "image_url": "https://pbs.twimg.com/media/EjoQE6jWsAIGxYp?format=png&name=small",
+  "image_width": 680,
+  "image_height": 569,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

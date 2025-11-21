@@ -1,0 +1,17 @@
+{
+  "id": "1417859149161979913",
+  "author": "Andreas Steno Larsen",
+  "date": "2021-07-21T14:48:58.000Z",
+  "text": "The crisis is over",
+  "tweet_url": "https://x.com/i/web/status/1417859149161979913",
+  "image_url": "https://pbs.twimg.com/media/E60_YRzXoAg3FHi?format=jpg&name=small",
+  "image_width": 564,
+  "image_height": 463,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

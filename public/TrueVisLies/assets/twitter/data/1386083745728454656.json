@@ -1,0 +1,18 @@
+{
+  "id": "1386083745728454656",
+  "author": "Mark Minervini",
+  "date": "2021-04-24T22:24:51.000Z",
+  "text": "Israel 56% vaccinated... India 1.6%.  Do you think vaccines are working?",
+  "tweet_url": "https://x.com/i/web/status/1386083745728454656",
+  "image_url": "https://pbs.twimg.com/media/Ezxb0dGXIAU77hU?format=jpg&name=360x360",
+  "image_width": 360,
+  "image_height": 345,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

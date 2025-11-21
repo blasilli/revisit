@@ -1,0 +1,18 @@
+{
+  "id": "1421622713509048323",
+  "author": "Brumby",
+  "date": "2021-08-01T00:04:02.000Z",
+  "text": "7. Spot the outlier.\n\nHint ... they didn't lockdown",
+  "tweet_url": "https://x.com/i/web/status/1421622713509048323",
+  "image_url": "https://pbs.twimg.com/media/E7qMfX6VEAEP86C?format=png&name=small",
+  "image_width": 656,
+  "image_height": 440,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold",
+      "Causal inference"
+    ]
+  }
+}

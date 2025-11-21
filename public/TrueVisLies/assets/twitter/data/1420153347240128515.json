@@ -1,0 +1,17 @@
+{
+  "id": "1420153347240128515",
+  "author": "Kim Masters",
+  "date": "2021-07-27T22:45:17.000Z",
+  "text": "Vaccines, people.",
+  "tweet_url": "https://x.com/i/web/status/1420153347240128515",
+  "image_url": "https://pbs.twimg.com/media/E7Vl8S4VcAQvkDW?format=jpg&name=900x900",
+  "image_width": 666,
+  "image_height": 900,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Failure to account for statistical nuance"
+    ]
+  }
+}

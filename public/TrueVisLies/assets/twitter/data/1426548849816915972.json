@@ -1,0 +1,19 @@
+{
+  "id": "1426548849816915972",
+  "author": "Rebecca Weisser",
+  "date": "2021-08-14T14:18:44.000Z",
+  "text": "India or Israel - ivermectin or vaccination. Choose your Covid solution.",
+  "tweet_url": "https://x.com/i/web/status/1426548849816915972",
+  "image_url": "https://pbs.twimg.com/media/E8weZNlVUAohFZT?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 405,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference",
+      "Issues with data validity"
+    ]
+  }
+}

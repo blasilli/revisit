@@ -1,0 +1,17 @@
+{
+  "id": "1293434818324201472",
+  "author": "FOX 5 San Diego",
+  "date": "2020-08-12T06:31:06.000Z",
+  "text": "UPDATED | Map: Where COVID-19 cases have been confirmed in San Diego County https://trib.al/pcMOzpC",
+  "tweet_url": "https://x.com/i/web/status/1293434818324201472",
+  "image_url": "https://pbs.twimg.com/media/EfM0HNGXsAEKwMA?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 383,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

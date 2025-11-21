@@ -1,0 +1,15 @@
+{
+  "id": "1297802807614078977",
+  "author": "Nicolas Vandewalle",
+  "date": "2020-08-24T07:47:56.000Z",
+  "text": "#covid19 in 20 countries. Data from Johns Hopkins. No model is perfect, be careful with numbers.",
+  "tweet_url": "https://x.com/i/web/status/1297802807614078977",
+  "image_url": "https://pbs.twimg.com/media/EgK4xPwWsAAlrAT?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 467,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

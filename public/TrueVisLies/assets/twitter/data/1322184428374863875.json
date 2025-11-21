@@ -1,0 +1,15 @@
+{
+  "id": "1322184428374863875",
+  "author": "Lisa McNally \u24cb",
+  "date": "2020-10-30T14:31:47.000Z",
+  "text": "Sandwell COVID-19 case rates by age-group.  Rising fast in over 65s.",
+  "tweet_url": "https://x.com/i/web/status/1322184428374863875",
+  "image_url": "https://pbs.twimg.com/media/EllXtqVXEAAV32D?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 401,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "1297373769166708740",
+  "author": "Another Wonderful Secret ",
+  "date": "2020-08-23T03:23:05.000Z",
+  "text": "You misspelled #TrumpVirus",
+  "tweet_url": "https://x.com/i/web/status/1297373769166708740",
+  "image_url": "https://pbs.twimg.com/media/EgEyj4yXsAAu07c?format=png&name=small",
+  "image_width": 680,
+  "image_height": 384,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

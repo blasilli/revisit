@@ -1,0 +1,17 @@
+{
+  "id": "1288495224780656641",
+  "author": "Rahul Kanwal",
+  "date": "2020-07-29T15:22:55.000Z",
+  "text": "Every 5th Covid case in the world is now from India.",
+  "tweet_url": "https://x.com/i/web/status/1288495224780656641",
+  "image_url": "https://pbs.twimg.com/media/EeGnkmMXYAEBqDZ?format=jpg&name=900x900",
+  "image_width": 687,
+  "image_height": 900,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Inverted axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1296995475330076672",
+  "author": "Charlie Bilello",
+  "date": "2020-08-22T02:19:52.000Z",
+  "text": "40,951 COVID-19 hospitalizations in the US is the lowest since July 6.\n\nChart via \n@ycharts",
+  "tweet_url": "https://x.com/i/web/status/1296995475330076672",
+  "image_url": "https://pbs.twimg.com/media/Ef_acwYWoAE5io9?format=png&name=small",
+  "image_width": 680,
+  "image_height": 402,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Truncated axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

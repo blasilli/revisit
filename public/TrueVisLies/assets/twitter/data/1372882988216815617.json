@@ -1,0 +1,17 @@
+{
+  "id": "1372882988216815617",
+  "author": "Carl Quintanilla",
+  "date": "2021-03-19T12:09:45.000Z",
+  "text": "Lotta eyes on Michigan and New Jersey.\n\n(via \n@PantheonMacro\n) ",
+  "tweet_url": "https://x.com/i/web/status/1372882988216815617",
+  "image_url": "https://pbs.twimg.com/media/Ew11zN9WQAAf8bu?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 425,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

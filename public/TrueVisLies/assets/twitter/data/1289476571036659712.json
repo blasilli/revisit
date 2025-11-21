@@ -1,0 +1,17 @@
+{
+  "id": "1289476571036659712",
+  "author": "Ian McGorian",
+  "date": "2020-08-01T08:22:26.000Z",
+  "text": "Can you call the peak for South Africa? Confirmed cases by day certainly looks positive.",
+  "tweet_url": "https://x.com/i/web/status/1289476571036659712",
+  "image_url": "https://pbs.twimg.com/media/EeUiiIBWoAATwVz?format=png&name=small",
+  "image_width": 602,
+  "image_height": 330,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

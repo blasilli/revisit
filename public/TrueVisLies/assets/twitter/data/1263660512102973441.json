@@ -1,0 +1,19 @@
+{
+  "id": "1263660512102973441",
+  "author": "Ethical Skeptic ",
+  "date": "2020-05-22T02:38:38.000Z",
+  "text": "'Nuff Said.....",
+  "tweet_url": "https://x.com/i/web/status/1263660512102973441",
+  "image_url": "https://pbs.twimg.com/media/EYlsbgjXYAE4mZ5?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 383,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Unclear encoding"
+    ],
+    "ReasoningErrors": [
+      "Misrepresentation of scientific studies"
+    ]
+  }
+}

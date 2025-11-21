@@ -1,0 +1,18 @@
+{
+  "id": "1425961614809907205",
+  "author": "IsMadeInItaly_IT -AGT-  -",
+  "date": "2021-08-12T23:25:16.000Z",
+  "text": "The increase in new cases in the US and Slovakia using Ivermectin.\nhttps://antoniotraverso.it/ivermectina-un-brevetto-italiano-contro-il-covid/\u2026",
+  "tweet_url": "https://x.com/i/web/status/1425961614809907205",
+  "image_url": "https://pbs.twimg.com/media/E8oIVBqX0AMqULw?format=png&name=small",
+  "image_width": 680,
+  "image_height": 417,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

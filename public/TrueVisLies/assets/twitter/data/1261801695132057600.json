@@ -1,0 +1,17 @@
+{
+  "id": "1261801695132057600",
+  "author": "JoyNews",
+  "date": "2020-05-16T23:32:21.000Z",
+  "text": "COVID-19 UPDATE\n\nGhana's confirmed cases now 5,735 with 1,754 recoveries and 29 deaths.\n\n#JoyNews  #staysafe",
+  "tweet_url": "https://x.com/i/web/status/1261801695132057600",
+  "image_url": "https://pbs.twimg.com/media/EYLR8kYXkAIj3fe?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 454,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

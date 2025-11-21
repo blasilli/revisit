@@ -1,0 +1,15 @@
+{
+  "id": "1314915198524776448",
+  "author": "Prof. Shamika Ravi",
+  "date": "2020-10-10T13:06:27.000Z",
+  "text": "Daily cases & Daily deaths : steady decline.",
+  "tweet_url": "https://x.com/i/web/status/1314915198524776448",
+  "image_url": "https://pbs.twimg.com/media/Ej-EZmAVcAAKwtl?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 593,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

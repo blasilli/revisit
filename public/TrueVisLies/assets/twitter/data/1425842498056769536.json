@@ -1,0 +1,17 @@
+{
+  "id": "1425842498056769536",
+  "author": "Kevin Drum",
+  "date": "2021-08-12T15:31:57.000Z",
+  "text": "Trump counties are no-go areas for vaccination https://jabberwocking.com/trump-counties-are-no-go-areas-for-vaccination/\u2026",
+  "tweet_url": "https://x.com/i/web/status/1425842498056769536",
+  "image_url": "https://pbs.twimg.com/media/E8mcMEkVIAAQ80h?format=jpg&name=900x900",
+  "image_width": 690,
+  "image_height": 900,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

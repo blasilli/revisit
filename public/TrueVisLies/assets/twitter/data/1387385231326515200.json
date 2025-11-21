@@ -1,0 +1,18 @@
+{
+  "id": "1387385231326515200",
+  "author": "Milhouse Van Houten ",
+  "date": "2021-04-28T12:36:30.000Z",
+  "text": "California and Texas covid deaths (H/T \n@ianmSC\n):",
+  "tweet_url": "https://x.com/i/web/status/1387385231326515200",
+  "image_url": "https://pbs.twimg.com/media/E0D63qHXIAMVrG6?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 383,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

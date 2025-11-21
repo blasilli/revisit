@@ -1,0 +1,17 @@
+{
+  "id": "1325019466011439105",
+  "author": "Konstantin Kisin",
+  "date": "2020-11-07T10:17:13.000Z",
+  "text": "A picture says a thousand words. \n\nThis was the data BEFORE the Government announced lockdown.",
+  "tweet_url": "https://x.com/i/web/status/1325019466011439105",
+  "image_url": "https://pbs.twimg.com/media/EmNqLVLXMAEQ-PP?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 383,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "1371938274302955520",
+  "author": "Max Roser",
+  "date": "2021-03-16T21:35:48.000Z",
+  "text": "COVID deaths have increased very rapidly in Brazil in recent days.\n\nhttp://ourworldindata.org/coronavirus",
+  "tweet_url": "https://x.com/i/web/status/1371938274302955520",
+  "image_url": "https://pbs.twimg.com/media/EwoaIFgWUAEo80I?format=png&name=small",
+  "image_width": 680,
+  "image_height": 480,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

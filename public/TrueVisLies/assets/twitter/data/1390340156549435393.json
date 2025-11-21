@@ -1,0 +1,15 @@
+{
+  "id": "1390340156549435393",
+  "author": "Carl Bildt",
+  "date": "2021-05-06T16:18:19.000Z",
+  "text": "And here we have the \n@ECDC_EU\n numbers for the pandemic situation throughout (most of) Europe this week. No comment.",
+  "tweet_url": "https://x.com/i/web/status/1390340156549435393",
+  "image_url": "https://pbs.twimg.com/media/E0t7AEfWEAIA4dO?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 480,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

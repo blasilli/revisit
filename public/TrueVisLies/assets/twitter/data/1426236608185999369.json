@@ -1,0 +1,17 @@
+{
+  "id": "1426236608185999369",
+  "author": "Heritage DataViz",
+  "date": "2021-08-13T17:38:00.000Z",
+  "text": "Probability of surviving the influenza and COVID, by age. https://heritage.org/public-health/report/statistical-analysis-covid-19-breakthrough-infections-and-deaths\u2026 \n@norbertjmichel\n \n@kdd0211\n #COVID19",
+  "tweet_url": "https://x.com/i/web/status/1426236608185999369",
+  "image_url": "https://pbs.twimg.com/media/E8q_vbuXoAItK86?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 506,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

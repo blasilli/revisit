@@ -1,0 +1,17 @@
+{
+  "id": "1375443234185428993",
+  "author": "Prof Alice Roberts",
+  "date": "2021-03-26T13:43:16.000Z",
+  "text": "Cases rising in school-age cohort, \n@Kit_Yates_Maths\n reports at the \n@IndependentSage\n Friday Briefing",
+  "tweet_url": "https://x.com/i/web/status/1375443234185428993",
+  "image_url": "https://pbs.twimg.com/media/ExaOThoW8AYQrXp?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 501,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Causal inference"
+    ]
+  }
+}

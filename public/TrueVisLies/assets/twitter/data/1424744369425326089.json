@@ -1,0 +1,17 @@
+{
+  "id": "1424744369425326089",
+  "author": "Prof. Shane Crotty",
+  "date": "2021-08-09T14:48:22.000Z",
+  "text": "COVID-19 cases in America. Vaccines work.\n\nhttps://kff.org/policy-watch/covid-19-vaccine-breakthrough-cases-data-from-the-states/\u2026",
+  "tweet_url": "https://x.com/i/web/status/1424744369425326089",
+  "image_url": "https://pbs.twimg.com/media/E8W1c7VVoAoP5A7?format=jpg&name=medium",
+  "image_width": 592,
+  "image_height": 1200,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Failure to account for statistical nuance"
+    ]
+  }
+}

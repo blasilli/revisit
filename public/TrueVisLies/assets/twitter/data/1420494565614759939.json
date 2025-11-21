@@ -1,0 +1,17 @@
+{
+  "id": "1420494565614759939",
+  "author": "Marga Poza #MakeMusicNoWar #SaveForest/Ocean",
+  "date": "2021-07-28T21:21:10.000Z",
+  "text": "Also you can see viral load (red) active cases (blue) and vaccinated (green). Grey bar indicate Delta appearance.",
+  "tweet_url": "https://x.com/i/web/status/1420494565614759939",
+  "image_url": "https://pbs.twimg.com/media/E7acR4iWEAUQEwQ?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 393,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

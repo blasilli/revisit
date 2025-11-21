@@ -1,0 +1,17 @@
+{
+  "id": "1421516627280121860",
+  "author": "Gil Feldman",
+  "date": "2021-07-31T17:02:29.000Z",
+  "text": "The UK, #DeltaVariant and the #coronavaccin ",
+  "tweet_url": "https://x.com/i/web/status/1421516627280121860",
+  "image_url": "https://pbs.twimg.com/media/E7o9rGBX0AI5q6i?format=png&name=small",
+  "image_width": 680,
+  "image_height": 347,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Causal inference"
+    ]
+  }
+}

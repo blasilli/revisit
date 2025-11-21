@@ -1,0 +1,15 @@
+{
+  "id": "1425078052585762824",
+  "author": "Thomas Betts (ThomasBetts@hachyderm.io)",
+  "date": "2021-08-10T12:54:19.000Z",
+  "text": "Nebraska just proved 5G causes COVID.",
+  "tweet_url": "https://x.com/i/web/status/1425078052585762824",
+  "image_url": "https://pbs.twimg.com/media/E8bk7ySVgAQ21ut?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 569,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

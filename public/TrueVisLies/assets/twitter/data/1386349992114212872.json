@@ -1,0 +1,15 @@
+{
+  "id": "1386349992114212872",
+  "author": "Amit V. Deshmukh",
+  "date": "2021-04-25T16:02:49.000Z",
+  "text": "We are on the road to recovery! #StayHome",
+  "tweet_url": "https://x.com/i/web/status/1386349992114212872",
+  "image_url": "https://pbs.twimg.com/media/Ez1N-EhVkAofaQs?format=jpg&name=900x900",
+  "image_width": 655,
+  "image_height": 900,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

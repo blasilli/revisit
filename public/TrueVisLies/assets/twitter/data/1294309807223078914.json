@@ -1,0 +1,17 @@
+{
+  "id": "1294309807223078914",
+  "author": "Antonello Guerrera",
+  "date": "2020-08-14T16:27:59.000Z",
+  "text": "Look at #Italy. \nAfter appalling suffering, an excellent job. \n(from the \n@guardian\n)\n\n#coronavirus #covid19",
+  "tweet_url": "https://x.com/i/web/status/1294309807223078914",
+  "image_url": "https://pbs.twimg.com/media/EfZPiMsXsAQjEPL?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 665,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

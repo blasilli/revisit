@@ -1,0 +1,15 @@
+{
+  "id": "1267400494546391040",
+  "author": "Beenish Amjad",
+  "date": "2020-06-01T10:19:59.000Z",
+  "text": "Pakistan, as of today, has highest confirmed COVID deaths per million people in the region #COVID19Pakistan",
+  "tweet_url": "https://x.com/i/web/status/1267400494546391040",
+  "image_url": "https://pbs.twimg.com/media/EZa2BQ2XsAIQ7qS?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 480,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

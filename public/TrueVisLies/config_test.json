@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/revisit-studies/study/main/src/parser/StudyConfigSchema.json",
   "studyMetadata": {
-    "title": "TrueVisLies Study -- TEST",
+    "title": "TrueVisLies TEST",
     "version": "pilot",
     "authors": [
       "Graziano Blasilli & Marco Angelini"
@@ -23,18 +23,18 @@
   },
   "baseComponents": {
     "tweet": {
-      "type": "website",
-      "style": {
-        "minHeight": "75vh"
-      },
+      "type": "react-component",
+      "path": "TrueVisLies/assets/Tweet.jsx",
+      "instructionLocation": "aboveStimulus",
       "response": [
         {
           "id": "rhetorics",
           "type": "matrix-radio",
           "location": "belowStimulus",
-          "prompt": "Which **rhetorical techniques** in this visualization **contribute** to its **misleading effect**, and how significant is each one’s contribution?**&nbsp;**",
-          "secondaryText": "If a technique is absent or does not influence the misleading effect, select 'None' in the corresponding row.",
+          "prompt": "**Q1** - Which **rhetorical techniques** may have **contributed** to making this visualization **misleading**, and how significant is each one's contribution?**&nbsp;**",
+          "secondaryText": "Consider both tweet text and visualizations.<br>Select 'None' if a technique does not apply, or 'I don’t know' if you are unsure.",
           "answerOptions": [
+            "I don't know",
             "None",
             "Minimal",
             "Limited",
@@ -52,12 +52,49 @@
           ]
         },
         {
+          "id": "intents",
+          "type": "matrix-radio",
+          "location": "belowStimulus",
+          "prompt": "**Q2** - Which **author's intentions** may have **contributed** to making this visualization **misleading**, and how significant is each one's contribution?**&nbsp;**",
+          "secondaryText": "Consider both tweet text and visualizations.<br>Select 'None' if an intent does not apply, or 'I don’t know' if you are unsure.",
+          "answerOptions": [
+            "I don't know",
+            "None",
+            "Minimal",
+            "Limited",
+            "Moderate",
+            "Considerable",
+            "Strong",
+            "Very Strong"
+          ],
+          "questionOptions": [
+           "Aesthetic-Driven Misrepresentation",
+           "Bias Exploitation",
+           "Claim-Supporting Manipulation",
+           "Context Distortion",
+           "Deliberate Reader Confusion",
+           "Lack of Visualization Literacy",
+           "Selective Reporting",
+           "Space and Format Constraints",
+           "Unintentional Context Omission"
+          ]
+        },
+        {
+          "id": "commentsOnIntents",
+          "prompt": "**Q3** - Are there **other intents**, not listed above, that may have **contributed** to making this visualization misleading? If so, please describe them.",
+          "required": false,
+          "location": "belowStimulus",
+          "type": "longText",
+          "placeholder": "Type your answer here..."
+        },
+        {
           "id": "intentionality",
           "type": "matrix-radio",
           "location": "belowStimulus",
-          "prompt": "How much do you think the **misleading aspects** of this visualization were **intentional** and not just **mistakes**?**&nbsp;**",
-          "secondaryText": "For example, if the author created (or the tweer author shared) the visualization to intentionally mislead and/or lie.",
+          "prompt": "**Q4** - Overall, how much do you think the **misleading aspects** of this visualization may have been **intentional**, rather than **accidental** (unintentional)?**&nbsp;**",
+          "secondaryText": "For example, if the author created (or the tweer author shared) the visualization to intentionally mislead and/or lie.<br>Select 'I don’t know' if you are unsure.",
           "answerOptions": [
+            "I don't know",
             "Highly Unintentional",
             "Mostly Unintentional",
             "Slightly Unintentional",
@@ -72,7 +109,7 @@
         },
         {
           "id": "commentsOnVisualization",
-          "prompt": "Any comments you would like to share about this **visualization**?",
+          "prompt": "**Q5** - Any comments you would like to share about this **visualization**?",
           "required": false,
           "location": "belowStimulus",
           "type": "longText",
@@ -80,29 +117,36 @@
         },
         {
           "id": "commentsOnChoices",
-          "prompt": "Any comments you would like to share about **your choices**?",
+          "prompt": "**Q6** - Any comments you would like to share about **your choices**?",
           "required": false,
           "location": "belowStimulus",
           "type": "longText",
           "placeholder": "Type your answer here..."
         }
-      ],
-      "path": "TrueVisLies/assets/tweet.html",
-      "instructionLocation": "aboveStimulus"
+      ]
     }
   },
   "components": {
-    "introduction": {
+    "intro-01": {
       "type": "markdown",
-      "path": "TrueVisLies/assets/introduction.md",
+      "path": "TrueVisLies/assets/intro-01.md",
       "response": []
     },
-    "profiling-questions": {
+    "intro-02": {
+      "type": "markdown",
+      "path": "TrueVisLies/assets/intro-02.md",
+      "response": []
+    },
+    "intro-03": {
+      "type": "markdown",
+      "path": "TrueVisLies/assets/intro-03.md",
+      "response": []
+    },
+    "profiling": {
       "type": "questionnaire",
-      "responseDividers": true,
       "response": [
         {
-          "id": "q0-age",
+          "id": "age",
           "prompt": "What is your age?",
           "required": true,
           "location": "aboveStimulus",
@@ -112,7 +156,7 @@
           "min": 0
         },
         {
-          "id": "q1-education",
+          "id": "education",
           "prompt": "What is the highest level of education you have completed?",
           "required": true,
           "location": "aboveStimulus",
@@ -128,7 +172,7 @@
           ]
         },
         {
-          "id": "q2-position",
+          "id": "position",
           "prompt": "What is your current position?",
           "required": true,
           "location": "aboveStimulus",
@@ -148,8 +192,8 @@
           ]
         },
         {
-          "id": "q3-expertise-visualization",
-          "prompt": "Rate your expertise in **data visualization** from 1 (very poor) to 7 (excellent).",
+          "id": "expertiseVisualization",
+          "prompt": "Rate your expertise in **data visualization** from 1 (very poor) to 7 (excellent).**&nbsp;**",
           "required": true,
           "location": "aboveStimulus",
           "type": "likert",
@@ -158,8 +202,8 @@
           "numItems": 7
         },
         {
-          "id": "q4-expertise-misleading",
-          "prompt": "Rate your expertise in **misleading visualizations analysis** from 1 (very poor) to 7 (excellent).",
+          "id": "expertiseMisleading",
+          "prompt": "Rate your expertise in **misleading visualizations analysis** from 1 (very poor) to 7 (excellent).**&nbsp;**",
           "required": true,
           "location": "aboveStimulus",
           "type": "likert",
@@ -168,8 +212,8 @@
           "numItems": 7
         },
         {
-          "id": "q5-expertise-rhetoric",
-          "prompt": "Rate your expertise in visualization rhetoric from 1 (very poor) to 7 (excellent).",
+          "id": "expertiseRhetoric",
+          "prompt": "Rate your expertise in **visualization rhetoric** from 1 (very poor) to 7 (excellent).**&nbsp;**",
           "required": true,
           "location": "aboveStimulus",
           "type": "likert",
@@ -181,10 +225,9 @@
     },
     "final-questions": {
       "type": "questionnaire",
-      "responseDividers": true,
       "response": [
         {
-          "id": "q6-comments",
+          "id": "finalComments",
           "prompt": "Do you have any comments or feedback about this study?",
           "required": false,
           "location": "aboveStimulus",
@@ -195,124 +238,39 @@
     },
     "tweet-1261072881343057920": {
       "baseComponent": "tweet",
-      "instructionLocation": "aboveStimulus",
       "meta": {
-        "tweetId": "1261072881343057920"
+        "tweetId": "1261072881343057920",
+        "error": "Unclear encoding"
       },
       "parameters": {
-        "tweetId": "1261072881343057920"
-      },
-      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Value as area/volume**</small>\n\nReasoning errors: <small>None</small>\n"
+        "tweetId": "1261072881343057920",
+        "error": "Unclear encoding"
+      }
     },
     "tweet-1262138687443202048": {
       "baseComponent": "tweet",
-      "instructionLocation": "aboveStimulus",
       "meta": {
-        "tweetId": "1262138687443202048"
+        "tweetId": "1262138687443202048",
+        "error": "Dual axis"
       },
       "parameters": {
-        "tweetId": "1262138687443202048"
-      },
-      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Dual axis**</small>\n\nReasoning errors: <small>None</small>\n"
-    },
-    "tweet-1262471360514752514": {
-      "baseComponent": "tweet",
-      "instructionLocation": "aboveStimulus",
-      "meta": {
-        "tweetId": "1262471360514752514"
-      },
-      "parameters": {
-        "tweetId": "1262471360514752514"
-      },
-      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Setting an arbitrary threshold**</small>\n"
-    },
-    "tweet-1265726148970938368": {
-      "baseComponent": "tweet",
-      "instructionLocation": "aboveStimulus",
-      "meta": {
-        "tweetId": "1265726148970938368"
-      },
-      "parameters": {
-        "tweetId": "1265726148970938368"
-      },
-      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Value as area/volume**</small>\n\nReasoning errors: <small>None</small>\n"
-    },
-    "tweet-1268571080656146432": {
-      "baseComponent": "tweet",
-      "instructionLocation": "aboveStimulus",
-      "meta": {
-        "tweetId": "1268571080656146432"
-      },
-      "parameters": {
-        "tweetId": "1268571080656146432"
-      },
-      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Setting an arbitrary threshold**</small>\n"
-    },
-    "tweet-1268720306316816384": {
-      "baseComponent": "tweet",
-      "instructionLocation": "aboveStimulus",
-      "meta": {
-        "tweetId": "1268720306316816384"
-      },
-      "parameters": {
-        "tweetId": "1268720306316816384"
-      },
-      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Setting an arbitrary threshold**</small>, <small style=\"color: #8C2611;\">**Issues with data validity**</small>\n"
-    },
-    "tweet-1268946960955965442": {
-      "baseComponent": "tweet",
-      "instructionLocation": "aboveStimulus",
-      "meta": {
-        "tweetId": "1268946960955965442"
-      },
-      "parameters": {
-        "tweetId": "1268946960955965442"
-      },
-      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Value as area/volume**</small>\n\nReasoning errors: <small>None</small>\n"
-    },
-    "tweet-1288164037625368576": {
-      "baseComponent": "tweet",
-      "instructionLocation": "aboveStimulus",
-      "meta": {
-        "tweetId": "1288164037625368576"
-      },
-      "parameters": {
-        "tweetId": "1288164037625368576"
-      },
-      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small style=\"color: #8C2611;\">**Value as area/volume**</small>\n\nReasoning errors: <small>None</small>\n"
-    },
-    "tweet-1288718981994512384": {
-      "baseComponent": "tweet",
-      "instructionLocation": "aboveStimulus",
-      "meta": {
-        "tweetId": "1288718981994512384"
-      },
-      "parameters": {
-        "tweetId": "1288718981994512384"
-      },
-      "instruction": "This is a tweet related to COVID-19 that **contains misleading** visualization(s) which are affected by the following following **visualization design violations** and **reasoning errors**.\n\nVisualization design violations: <small>None</small>\n\nReasoning errors: <small style=\"color: #8C2611;\">**Setting an arbitrary threshold**</small>\n"
+        "tweetId": "1262138687443202048",
+        "error": "Dual axis"
+      }
     }
-
-    
   },
   "sequence": {
     "order": "fixed",
     "components": [
-      "introduction",
-      "profiling-questions",
+      "intro-01",
+      "intro-02",
+      "intro-03",
+      "profiling",
       {
-        "order": "latinSquare",
-        "numSamples": 3,
+        "order": "random",
         "components": [
           "tweet-1261072881343057920",
-          "tweet-1262138687443202048",
-          "tweet-1262471360514752514",
-          "tweet-1265726148970938368",
-          "tweet-1268571080656146432",
-          "tweet-1268720306316816384",
-          "tweet-1268946960955965442",
-          "tweet-1288164037625368576",
-          "tweet-1288718981994512384"
+          "tweet-1262138687443202048"
         ]
       },
       "final-questions"

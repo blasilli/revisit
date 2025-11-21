@@ -1,0 +1,17 @@
+{
+  "id": "1297534090908971010",
+  "author": "Alas Babylon",
+  "date": "2020-08-23T14:00:08.000Z",
+  "text": "Worse after June 22nd mask mandate",
+  "tweet_url": "https://x.com/i/web/status/1297534090908971010",
+  "image_url": "https://pbs.twimg.com/media/EgHEYRvXgAE_WHu?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 430,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

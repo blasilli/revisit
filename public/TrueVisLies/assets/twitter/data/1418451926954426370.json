@@ -1,0 +1,17 @@
+{
+  "id": "1418451926954426370",
+  "author": "RAMZPAUL",
+  "date": "2021-07-23T06:04:27.000Z",
+  "text": "To keep things in perspective.",
+  "tweet_url": "https://x.com/i/web/status/1418451926954426370",
+  "image_url": "https://pbs.twimg.com/media/E69agl6WUAAoBlU?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 426,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

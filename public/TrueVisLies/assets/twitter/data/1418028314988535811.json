@@ -1,0 +1,17 @@
+{
+  "id": "1418028314988535811",
+  "author": "The_Real_Fly",
+  "date": "2021-07-22T02:01:10.000Z",
+  "text": "COVID HOT SPOTS IN ISRAEL CLUSTERED IN VAXXED AREAS",
+  "tweet_url": "https://x.com/i/web/status/1418028314988535811",
+  "image_url": "https://pbs.twimg.com/media/E63ZPKhXIAM62qC?format=jpg&name=small",
+  "image_width": 666,
+  "image_height": 680,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Unclear encoding"
+    ],
+    "ReasoningErrors": []
+  }
+}

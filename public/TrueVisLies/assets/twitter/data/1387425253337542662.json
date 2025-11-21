@@ -1,0 +1,17 @@
+{
+  "id": "1387425253337542662",
+  "author": "TTT Live Online",
+  "date": "2021-04-28T15:15:32.000Z",
+  "text": "Active Covid-19 Cases in T&T by County",
+  "tweet_url": "https://x.com/i/web/status/1387425253337542662",
+  "image_url": "https://pbs.twimg.com/media/E0Efw4nWQAILBD_?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 421,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

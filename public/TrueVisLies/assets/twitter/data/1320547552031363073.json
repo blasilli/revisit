@@ -1,0 +1,17 @@
+{
+  "id": "1320547552031363073",
+  "author": "Steve Faguy",
+  "date": "2020-10-26T02:07:25.000Z",
+  "text": "Some Quebec COVID-19 demographic stats https://montrealgazette.com/news/local-news/quebecers-in-their-20s-are-most-affected-by-covid-19-study-finds\u2026",
+  "tweet_url": "https://x.com/i/web/status/1320547552031363073",
+  "image_url": "https://pbs.twimg.com/media/ElOG6iHXgAEH31c?format=jpg&name=medium",
+  "image_width": 650,
+  "image_height": 1200,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

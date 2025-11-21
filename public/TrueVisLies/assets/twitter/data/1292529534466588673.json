@@ -1,0 +1,18 @@
+{
+  "id": "1292529534466588673",
+  "author": "Oh Hi Mark",
+  "date": "2020-08-09T18:33:49.000Z",
+  "text": "Sweden made the best call. Not perfect. But mostly right.",
+  "tweet_url": "https://x.com/i/web/status/1292529534466588673",
+  "image_url": "https://pbs.twimg.com/media/Ee_8wrqU4AIlXl_?format=jpg&name=360x360",
+  "image_width": 287,
+  "image_height": 360,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

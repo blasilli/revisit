@@ -1,0 +1,20 @@
+{
+  "id": "1417821303994781699",
+  "author": "Win Smart, CFA",
+  "date": "2021-07-21T12:18:35.000Z",
+  "text": "Do vaccines work? ",
+  "tweet_url": "https://x.com/i/web/status/1417821303994781699",
+  "image_url": "https://pbs.twimg.com/media/E60c9jYXIAMKfdG?format=png&name=small",
+  "image_width": 564,
+  "image_height": 463,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

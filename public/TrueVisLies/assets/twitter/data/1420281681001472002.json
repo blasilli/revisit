@@ -1,0 +1,15 @@
+{
+  "id": "1420281681001472002",
+  "author": "Martin Kulldorff",
+  "date": "2021-07-28T07:15:14.000Z",
+  "text": "#COVID mortality is now very low in all of Europe except Russia.",
+  "tweet_url": "https://x.com/i/web/status/1420281681001472002",
+  "image_url": "https://pbs.twimg.com/media/E7XY7ydWUAAXgpI?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 371,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

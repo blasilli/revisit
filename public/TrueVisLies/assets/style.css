@@ -1,5 +1,11 @@
 .main {
+  /* background-color: #f5f7fa; */
   background-color: #f5f7fa;
+}
+
+.markdown-body {
+  font-size: 18px;
+  line-height: 1.6;
 }
 
 .image {
@@ -32,7 +38,13 @@
   margin-top: 20px;
 }
 
+.response .matrix-input-label:first-child {
+ color: gray;
+}
 
+.response .matrix-input-x {
+  font-size: 0.7em;
+}
 
 label {
   margin-bottom: 10px;

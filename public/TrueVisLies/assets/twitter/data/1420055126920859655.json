@@ -1,0 +1,17 @@
+{
+  "id": "1420055126920859655",
+  "author": "Kohei Kurihara - Privacy for all together ",
+  "date": "2021-07-27T16:15:00.000Z",
+  "text": "The Race Towards Full Vaccination https://statista.com/chart/24663/share-of-the-population-fully-vaccinated-against-covid-19/\u2026 #tech #digital #data #business",
+  "tweet_url": "https://x.com/i/web/status/1420055126920859655",
+  "image_url": "https://pbs.twimg.com/media/E7TY8zrVgAYoJpH?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 680,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

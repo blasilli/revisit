@@ -1,0 +1,17 @@
+{
+  "id": "1288659275104030720",
+  "author": "Josh Marshall",
+  "date": "2020-07-30T02:14:47.000Z",
+  "text": "COVID case and fatalities trend for the US, excluding NY and NJ.",
+  "tweet_url": "https://x.com/i/web/status/1288659275104030720",
+  "image_url": "https://pbs.twimg.com/media/EeI8vc8XsAEaanT?format=png&name=small",
+  "image_width": 680,
+  "image_height": 387,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

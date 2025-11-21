@@ -1,0 +1,17 @@
+{
+  "id": "1295538773825073153",
+  "author": "Strider Elass",
+  "date": "2020-08-18T01:51:28.000Z",
+  "text": "Coumo \"Our way worked in New York\" Seriously?!?! I don't want any part of that way...",
+  "tweet_url": "https://x.com/i/web/status/1295538773825073153",
+  "image_url": "https://pbs.twimg.com/media/EfqtaOMXkAAtKmm?format=png&name=small",
+  "image_width": 598,
+  "image_height": 424,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Causal inference"
+    ]
+  }
+}

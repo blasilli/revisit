@@ -1,0 +1,15 @@
+{
+  "id": "1290405712535855104",
+  "author": "Dana Nuccitelli",
+  "date": "2020-08-03T21:45:14.000Z",
+  "text": "\"Countries where there have been very significant [COVID] flare-ups\":",
+  "tweet_url": "https://x.com/i/web/status/1290405712535855104",
+  "image_url": "https://pbs.twimg.com/media/EehxI8EVAAA5YGq?format=png&name=small",
+  "image_width": 680,
+  "image_height": 480,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

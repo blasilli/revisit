@@ -1,0 +1,17 @@
+{
+  "id": "1262586274818461698",
+  "author": "Ninja Economics",
+  "date": "2020-05-19T03:30:00.000Z",
+  "text": "The number of new U.S. coronavirus cases has declined in recent days. https://nytimes.com/interactive/2020/us/coronavirus-us-cases.html?campaign_id=9&emc=edit_nn_20200517&instance_id=18563&nl=the-morning&regi_id=108129796&segment_id=28165&te=1&user_id=1d197e3e9da72d12709af78708e7b26f\u2026",
+  "tweet_url": "https://x.com/i/web/status/1262586274818461698",
+  "image_url": "https://pbs.twimg.com/media/EYWXHmmUcAAR80s?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 428,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

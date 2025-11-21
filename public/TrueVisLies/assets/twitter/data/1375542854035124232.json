@@ -1,0 +1,17 @@
+{
+  "id": "1375542854035124232",
+  "author": "COVID-19 SA Stats",
+  "date": "2021-03-26T20:19:07.000Z",
+  "text": "Correction: 40 000 more J&J vaccines arrived this morning. Here is a correction.\nTotal vaccines delivered: 300 000",
+  "tweet_url": "https://x.com/i/web/status/1375542854035124232",
+  "image_url": "https://pbs.twimg.com/media/ExbowS_W8AM_hwF?format=png&name=small",
+  "image_width": 680,
+  "image_height": 441,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

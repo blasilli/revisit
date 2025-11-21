@@ -1,0 +1,20 @@
+{
+  "id": "1417837987115773952",
+  "author": "Farzana R Hossain MD",
+  "date": "2021-07-21T13:24:52.000Z",
+  "text": "Vaccine effectiveness in one chart:\n\nSource: Lvieweconomics/ \n@SoberLook",
+  "tweet_url": "https://x.com/i/web/status/1417837987115773952",
+  "image_url": "https://pbs.twimg.com/media/E60sIiEX0AAGuoM?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 558,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

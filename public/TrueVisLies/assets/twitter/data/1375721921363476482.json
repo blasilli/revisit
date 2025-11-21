@@ -1,0 +1,18 @@
+{
+  "id": "1375721921363476482",
+  "author": "DJSharpieD",
+  "date": "2021-03-27T08:10:40.000Z",
+  "text": "What pandemic?",
+  "tweet_url": "https://x.com/i/web/status/1375721921363476482",
+  "image_url": "https://pbs.twimg.com/media/ExeLyuZWQAAt3WJ?format=jpg&name=small",
+  "image_width": 362,
+  "image_height": 680,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1369700030131617792",
+  "author": "Bruno Ma\u00e7\u00e3es",
+  "date": "2021-03-10T17:21:49.000Z",
+  "text": "The vaccine dividend",
+  "tweet_url": "https://x.com/i/web/status/1369700030131617792",
+  "image_url": "https://pbs.twimg.com/media/EwIm6YjXAAM6xNm?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 634,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Causal inference"
+    ]
+  }
+}

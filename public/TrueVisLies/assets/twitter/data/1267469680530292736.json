@@ -1,0 +1,15 @@
+{
+  "id": "1267469680530292736",
+  "author": "Alistair Haimes",
+  "date": "2020-06-01T14:54:54.000Z",
+  "text": "UK: #COVID\u30fc19 deaths in English hospitals",
+  "tweet_url": "https://x.com/i/web/status/1267469680530292736",
+  "image_url": "https://pbs.twimg.com/media/EZb07WvXQAMxcob?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 450,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

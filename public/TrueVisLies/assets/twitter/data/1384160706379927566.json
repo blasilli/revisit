@@ -1,0 +1,15 @@
+{
+  "id": "1384160706379927566",
+  "author": "Tim Walker",
+  "date": "2021-04-19T15:03:23.000Z",
+  "text": "This isn\u2019t encouraging.",
+  "tweet_url": "https://x.com/i/web/status/1384160706379927566",
+  "image_url": "https://pbs.twimg.com/media/EzWG0rdUUAob3hD?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 419,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

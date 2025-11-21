@@ -1,0 +1,15 @@
+{
+  "id": "1381454502977474565",
+  "author": "Patrick Chovanec",
+  "date": "2021-04-12T03:49:54.000Z",
+  "text": "The number of people hospitalized in the US due to COVID-19 is up +3.8% over the past week.",
+  "tweet_url": "https://x.com/i/web/status/1381454502977474565",
+  "image_url": "https://pbs.twimg.com/media/Eyvpfn9WgAUabMt?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 333,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

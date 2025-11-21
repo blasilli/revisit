@@ -1,0 +1,15 @@
+{
+  "id": "1385359743393406980",
+  "author": "Winston Smith",
+  "date": "2021-04-22T22:27:56.000Z",
+  "text": "\"ICUs are overrun\"\n\nOttawa as of today",
+  "tweet_url": "https://x.com/i/web/status/1385359743393406980",
+  "image_url": "https://pbs.twimg.com/media/EznJUuHWYAQ5pxz?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 138,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

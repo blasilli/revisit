@@ -1,0 +1,18 @@
+{
+  "id": "1383760757876088832",
+  "author": "Hold2",
+  "date": "2021-04-18T12:34:08.000Z",
+  "text": "FYI, 0 measures in Florida (yellow line) since September.",
+  "tweet_url": "https://x.com/i/web/status/1383760757876088832",
+  "image_url": "https://pbs.twimg.com/media/EzQbEk4VoAQFXsH?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 386,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

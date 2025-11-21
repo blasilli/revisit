@@ -1,0 +1,15 @@
+{
+  "id": "1418134033276538881",
+  "author": "Fr\u00e9d\u00e9ric Piccavet",
+  "date": "2021-07-22T09:01:15.000Z",
+  "text": "Belgium surpasses the United States in the share of the population who is fully vaccinated against Covid-19!",
+  "tweet_url": "https://x.com/i/web/status/1418134033276538881",
+  "image_url": "https://pbs.twimg.com/media/E644wcvWUAEkS1E?format=png&name=small",
+  "image_width": 680,
+  "image_height": 486,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

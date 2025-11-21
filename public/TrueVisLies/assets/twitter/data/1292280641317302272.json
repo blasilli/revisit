@@ -1,0 +1,15 @@
+{
+  "id": "1292280641317302272",
+  "author": "Jonathan Nez",
+  "date": "2020-08-09T02:04:48.000Z",
+  "text": "6,810 recoveries, 36 new cases, and two more deaths related to COVID-19 as 32-hour weekend lockdown begins",
+  "tweet_url": "https://x.com/i/web/status/1292280641317302272",
+  "image_url": "https://pbs.twimg.com/media/Ee8aWDiUcAAEgsg?format=jpg&name=small",
+  "image_width": 518,
+  "image_height": 680,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

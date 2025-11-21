@@ -1,0 +1,19 @@
+{
+  "id": "1314527518544797697",
+  "author": "Joel ",
+  "date": "2020-10-09T11:25:57.000Z",
+  "text": "Three charts to help you understand the actual state of COVID in the UK. Free to use.",
+  "tweet_url": "https://x.com/i/web/status/1314527518544797697",
+  "image_url": "https://pbs.twimg.com/media/Ej4ji65WoAEhmNL?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 444,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis",
+      "Value as area/volume",
+      "Inverted axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

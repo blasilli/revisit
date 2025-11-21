@@ -1,0 +1,17 @@
+{
+  "id": "1261388871633231872",
+  "author": "Fuad Ghaffar Soomro",
+  "date": "2020-05-15T20:11:57.000Z",
+  "text": "Daily Situation Report (COVID-19)\nDated: 15th May 2020",
+  "tweet_url": "https://x.com/i/web/status/1261388871633231872",
+  "image_url": "https://pbs.twimg.com/media/EYFaYTIXkAAExPR?format=jpg&name=360x360",
+  "image_width": 282,
+  "image_height": 360,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

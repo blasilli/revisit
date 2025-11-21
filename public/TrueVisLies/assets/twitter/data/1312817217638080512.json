@@ -1,0 +1,15 @@
+{
+  "id": "1312817217638080512",
+  "author": "Athens City-County Health Department",
+  "date": "2020-10-04T18:09:50.000Z",
+  "text": "Here are the updated COVID-19 cases as of 2:00 PM today, as posted by the Ohio Department of Health.",
+  "tweet_url": "https://x.com/i/web/status/1312817217638080512",
+  "image_url": "https://pbs.twimg.com/media/EjgQOb4UYAILny_?format=png&name=small",
+  "image_width": 525,
+  "image_height": 680,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

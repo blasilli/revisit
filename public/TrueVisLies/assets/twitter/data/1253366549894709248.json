@@ -1,0 +1,15 @@
+{
+  "id": "1253366549894709248",
+  "author": "COVID-19 Clinical Trial Tracker",
+  "date": "2020-04-23T16:54:06.000Z",
+  "text": "Expected enrolment in #COVID19 clinical trials by treatment. #covidtrials",
+  "tweet_url": "https://x.com/i/web/status/1253366549894709248",
+  "image_url": "https://pbs.twimg.com/media/EWTaOf-UYAQ9Cyf?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 406,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

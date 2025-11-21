@@ -1,0 +1,15 @@
+{
+  "id": "1420358676955553794",
+  "author": "Kim Siever",
+  "date": "2021-07-28T12:21:12.000Z",
+  "text": "Alberta has the second highest number of active COVID-19 cases in Canada.\n\nhttps://canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html#a1\u2026",
+  "tweet_url": "https://x.com/i/web/status/1420358676955553794",
+  "image_url": "https://pbs.twimg.com/media/E7Ygg1ZUcAcQsxO?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 563,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

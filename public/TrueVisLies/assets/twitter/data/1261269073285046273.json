@@ -1,0 +1,15 @@
+{
+  "id": "1261269073285046273",
+  "author": "Nicolas Vandewalle",
+  "date": "2020-05-15T12:15:54.000Z",
+  "text": "Situation #covid19 by province in #Belgium.",
+  "tweet_url": "https://x.com/i/web/status/1261269073285046273",
+  "image_url": "https://pbs.twimg.com/media/EYDtWIpXYAEkIuU?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 378,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

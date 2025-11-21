@@ -1,0 +1,19 @@
+{
+  "id": "1261926324396077056",
+  "author": "Daniel Lacalle",
+  "date": "2020-05-17T07:47:35.000Z",
+  "text": "Complete lockdown and confinement  vs targeted policies #COVID #OpenAmericaNOW \n\nAcemoglu et al",
+  "tweet_url": "https://x.com/i/web/status/1261926324396077056",
+  "image_url": "https://pbs.twimg.com/media/EYNDS6gXkAA9GBL?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 570,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference",
+      "Misrepresentation of scientific studies"
+    ]
+  }
+}

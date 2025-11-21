@@ -1,0 +1,15 @@
+{
+  "id": "1391582931773165569",
+  "author": "Patrick Chovanec",
+  "date": "2021-05-10T02:36:39.000Z",
+  "text": "The number of Americans receiving their first vaccine shots is now well below 1 million per day.",
+  "tweet_url": "https://x.com/i/web/status/1391582931773165569",
+  "image_url": "https://pbs.twimg.com/media/E0_lQIMXEAEuf5E?format=png&name=small",
+  "image_width": 680,
+  "image_height": 452,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

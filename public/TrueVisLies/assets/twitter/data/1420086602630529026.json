@@ -1,0 +1,17 @@
+{
+  "id": "1420086602630529026",
+  "author": "The Serfs (youtube.com/theserftimes)",
+  "date": "2021-07-27T18:20:04.000Z",
+  "text": "The numbers absolutely speak for themselves. \n\nGet vaccinated!",
+  "tweet_url": "https://x.com/i/web/status/1420086602630529026",
+  "image_url": "https://pbs.twimg.com/media/E7UpAu4UcAI3PlG?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 320,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Failure to account for statistical nuance"
+    ]
+  }
+}

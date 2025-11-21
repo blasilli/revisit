@@ -1,0 +1,17 @@
+{
+  "id": "1421499504486883330",
+  "author": "Eric Topol",
+  "date": "2021-07-31T15:54:26.000Z",
+  "text": "Pretty damn impressive\nThanks Darren Lu \n@Reddit",
+  "tweet_url": "https://x.com/i/web/status/1421499504486883330",
+  "image_url": "https://pbs.twimg.com/media/E7otfnqUYAMSKuG?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 510,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Failure to account for statistical nuance"
+    ]
+  }
+}

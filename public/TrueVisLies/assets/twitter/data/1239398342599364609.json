@@ -1,0 +1,17 @@
+{
+  "id": "1239398342599364609",
+  "author": "Charries",
+  "date": "2020-03-16T03:49:26.000Z",
+  "text": "Corona Virus Interactive Map. Click it.\nhttps://gisaid.org/epiflu-applications/global-cases-covid-19/\u2026",
+  "tweet_url": "https://x.com/i/web/status/1239398342599364609",
+  "image_url": "https://pbs.twimg.com/media/ETM6N3GWsAAXXjN?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 384,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

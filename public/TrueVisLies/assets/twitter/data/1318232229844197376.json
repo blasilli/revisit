@@ -1,0 +1,19 @@
+{
+  "id": "1318232229844197376",
+  "author": "Mi`kal Kaffir ",
+  "date": "2020-10-19T16:47:09.000Z",
+  "text": "#CovidCuresFlu, apparently?",
+  "tweet_url": "https://x.com/i/web/status/1318232229844197376",
+  "image_url": "https://pbs.twimg.com/media/EktNNMLVkAAKC8M?format=jpg&name=360x360",
+  "image_width": 322,
+  "image_height": 360,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference",
+      "Issues with data validity"
+    ]
+  }
+}

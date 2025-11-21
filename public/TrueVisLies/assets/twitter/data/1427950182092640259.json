@@ -1,0 +1,18 @@
+{
+  "id": "1427950182092640259",
+  "author": "James Melville ",
+  "date": "2021-08-18T11:07:08.000Z",
+  "text": "Sweden's 7-day average of Covid deaths has been at zero for a month.\n",
+  "tweet_url": "https://x.com/i/web/status/1427950182092640259",
+  "image_url": "https://pbs.twimg.com/media/E9EZHxBWYAM6qd8?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 440,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

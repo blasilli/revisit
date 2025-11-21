@@ -1,0 +1,17 @@
+{
+  "id": "1389911635008045061",
+  "author": "Liz Ann Sonders",
+  "date": "2021-05-05T11:55:31.000Z",
+  "text": "Still a very healthy trend for new COVID cases & deaths in U.S. \u2026 both moving sideways/slightly lower #EvercoreISI",
+  "tweet_url": "https://x.com/i/web/status/1389911635008045061",
+  "image_url": "https://pbs.twimg.com/media/E0n1Q-NXMAICqT1?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 349,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

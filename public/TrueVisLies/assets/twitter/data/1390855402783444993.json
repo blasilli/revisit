@@ -1,0 +1,15 @@
+{
+  "id": "1390855402783444993",
+  "author": "Canadian COVID Vaccination Progress",
+  "date": "2021-05-08T02:25:43.000Z",
+  "text": "Canada's COVID vaccination progress as of May 7 at 22:25 ET",
+  "tweet_url": "https://x.com/i/web/status/1390855402783444993",
+  "image_url": "https://pbs.twimg.com/media/E01PnkZWEAABWAO?format=png&name=small",
+  "image_width": 680,
+  "image_height": 371,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

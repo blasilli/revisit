@@ -1,0 +1,17 @@
+{
+  "id": "1420791606735671309",
+  "author": "The Tennessee Holler",
+  "date": "2021-07-29T17:01:30.000Z",
+  "text": " TN HOSPITALIZATIONS QUADRUPLE in 24 days, since July 4th\n\nJuly 4th: 195 hospitalized \nJuly 28th 890 hospitalized",
+  "tweet_url": "https://x.com/i/web/status/1420791606735671309",
+  "image_url": "https://pbs.twimg.com/media/E7eqb5hX0AEW79w?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 478,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

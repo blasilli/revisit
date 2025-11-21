@@ -1,0 +1,17 @@
+{
+  "id": "1373060737313116163",
+  "author": "Jen Zhu",
+  "date": "2021-03-19T23:56:04.000Z",
+  "text": "World\u2019s vaccination process as of 19 Mar.",
+  "tweet_url": "https://x.com/i/web/status/1373060737313116163",
+  "image_url": "https://pbs.twimg.com/media/Ew4XdisVkAEKxTm?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 383,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1318080712394838016",
+  "author": "Latimer Alder",
+  "date": "2020-10-19T06:45:05.000Z",
+  "text": "Under 40 and terrified of Covid?\n\nDon't be.",
+  "tweet_url": "https://x.com/i/web/status/1318080712394838016",
+  "image_url": "https://pbs.twimg.com/media/EkrDYCIXgAAdEv0?format=png&name=small",
+  "image_width": 494,
+  "image_height": 429,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

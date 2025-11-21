@@ -1,0 +1,17 @@
+{
+  "id": "1383408916801867778",
+  "author": "Dr Clare Craig",
+  "date": "2021-04-17T13:01:55.000Z",
+  "text": "2020 saw highest death rate since.................2008",
+  "tweet_url": "https://x.com/i/web/status/1383408916801867778",
+  "image_url": "https://pbs.twimg.com/media/EzLbBvsVcAoNAP7?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 428,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

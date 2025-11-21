@@ -1,0 +1,15 @@
+{
+  "id": "1382614485299458053",
+  "author": "Kapil",
+  "date": "2021-04-15T08:39:15.000Z",
+  "text": "Ghaziabad's official COVID death data.\n\nScenes outside Hindon Crematorium.",
+  "tweet_url": "https://x.com/i/web/status/1382614485299458053",
+  "image_url": "https://pbs.twimg.com/media/EzAIiYzVUAMUPxm?format=jpg&name=360x360",
+  "image_width": 360,
+  "image_height": 358,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

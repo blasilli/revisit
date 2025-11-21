@@ -1,0 +1,17 @@
+{
+  "id": "1236331391643779074",
+  "author": "Wolfgang Wodarg",
+  "date": "2020-03-07T16:42:28.000Z",
+  "text": "The #CDC shows the  real dimensions of the the #COVID19 #pandemics but does not recognize it ",
+  "tweet_url": "https://x.com/i/web/status/1236331391643779074",
+  "image_url": "https://pbs.twimg.com/media/EShU0IUWoAANk_0?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 366,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Causal inference"
+    ]
+  }
+}

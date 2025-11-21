@@ -1,0 +1,15 @@
+{
+  "id": "1318192224648237057",
+  "author": "Keith Boykin",
+  "date": "2020-10-19T14:08:11.000Z",
+  "text": "Does this look like the coronavirus pandemic is over in the United States?\n\nhttps://worldometers.info/coronavirus/country/us/\u2026",
+  "tweet_url": "https://x.com/i/web/status/1318192224648237057",
+  "image_url": "https://pbs.twimg.com/media/EksouinX0AUpWZb?format=png&name=small",
+  "image_width": 636,
+  "image_height": 341,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

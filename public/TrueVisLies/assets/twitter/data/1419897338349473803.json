@@ -1,0 +1,20 @@
+{
+  "id": "1419897338349473803",
+  "author": "Latimer Alder",
+  "date": "2021-07-27T05:48:00.000Z",
+  "text": "Your chance of being in hospital 'with Covid' in UK yesterday was 1 in 13,000\n\n68,000,000 people. 5,238 in hospital",
+  "tweet_url": "https://x.com/i/web/status/1419897338349473803",
+  "image_url": "https://pbs.twimg.com/media/E7R9Dr6WQAAHNs_?format=png&name=small",
+  "image_width": 522,
+  "image_height": 464,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Setting an arbitrary threshold"
+    ]
+  }
+}
