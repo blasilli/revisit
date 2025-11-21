@@ -25,7 +25,7 @@ The goal of this study is to:
 
 ## 🧪 Study Methodology
 
-You will evaluate **10 misleading visualizations**, each taken from real Twitter posts.
+You will evaluate **12 misleading visualizations**, each taken from real Twitter posts.
 
 Each visualization was previously **[1]** identified as misleading due to a specific **visual design** or **reasoning error**.
 
