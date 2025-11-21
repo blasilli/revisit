@@ -92,8 +92,8 @@ function Tweet({ parameters }) {
     error
   } = parameters;
 
-  const imgUrl = `/TrueVisLies/assets/twitter/images/${tweetId}.png`;
-  const dataUrl = `/TrueVisLies/assets/twitter/data/${tweetId}.json`;
+  const imgUrl = `../TrueVisLies/assets/twitter/images/${tweetId}.png`;
+  const dataUrl = `../TrueVisLies/assets/twitter/data/${tweetId}.json`;
 
   // ---- Tweet data ----
   const [tweet, setTweet] = useState(null);
