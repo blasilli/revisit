@@ -1,0 +1,18 @@
+{
+  "id": "1381592159837622272",
+  "author": "Dr. Simone Gold",
+  "date": "2021-04-12T12:56:54.000Z",
+  "text": "Interesting data coming out of Switzerland.",
+  "tweet_url": "https://x.com/i/web/status/1381592159837622272",
+  "image_url": "https://pbs.twimg.com/media/EyxmvimWYAAzT3X?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 383,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "1319922073859481606",
+  "author": "Latimer Alder",
+  "date": "2020-10-24T08:42:00.000Z",
+  "text": "Here's a great historical perspective on Covid from NoLockDown (and no 'Second Wave') Sweden.",
+  "tweet_url": "https://x.com/i/web/status/1319922073859481606",
+  "image_url": "https://pbs.twimg.com/media/ElFOBEsXgAAf7Lv?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 352,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Truncated axis"
+    ],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

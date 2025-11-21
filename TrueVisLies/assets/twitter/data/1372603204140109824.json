@@ -1,0 +1,17 @@
+{
+  "id": "1372603204140109824",
+  "author": "Clarity",
+  "date": "2021-03-18T17:38:00.000Z",
+  "text": "On average, more than twice as many children die from the flu each year than from covid-19.\n\nDirectly from the CDC ",
+  "tweet_url": "https://x.com/i/web/status/1372603204140109824",
+  "image_url": "https://pbs.twimg.com/media/Ewxz879WQAQNw3R?format=png&name=small",
+  "image_width": 551,
+  "image_height": 312,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

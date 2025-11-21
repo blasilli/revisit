@@ -1,0 +1,15 @@
+{
+  "id": "1386589397622083592",
+  "author": "Dr Duncan Robertson",
+  "date": "2021-04-26T07:54:08.000Z",
+  "text": "The UK is currently on the highest 'Level 4: COVID-19 Very High' US CDC list.",
+  "tweet_url": "https://x.com/i/web/status/1386589397622083592",
+  "image_url": "https://pbs.twimg.com/media/Ez4nBtJWUAAeco8?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 405,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

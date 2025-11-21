@@ -1,0 +1,17 @@
+{
+  "id": "1323687473701158914",
+  "author": "IGAD Secretariat",
+  "date": "2020-11-03T18:04:21.000Z",
+  "text": "#COVID19 UPDATES for the #IGAD REGION\n                         3 November 2020",
+  "tweet_url": "https://x.com/i/web/status/1323687473701158914",
+  "image_url": "https://pbs.twimg.com/media/El6uunUXYAARkH4?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 526,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

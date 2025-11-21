@@ -1,0 +1,17 @@
+{
+  "id": "1425663849873645568",
+  "author": "Brumby",
+  "date": "2021-08-12T03:42:04.000Z",
+  "text": "Yes even the NYTimes has conceded this, measured with overinflated covid numbers",
+  "tweet_url": "https://x.com/i/web/status/1425663849873645568",
+  "image_url": "https://pbs.twimg.com/media/E8j5tiqVoAcosSH?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 649,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

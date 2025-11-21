@@ -1,0 +1,17 @@
+{
+  "id": "1319666374831075329",
+  "author": "Juergen Amft",
+  "date": "2020-10-23T15:45:56.000Z",
+  "text": "If there is a second wave, where are all the dead?",
+  "tweet_url": "https://x.com/i/web/status/1319666374831075329",
+  "image_url": "https://pbs.twimg.com/media/ElBlQbXVkAATE7m?format=png&name=small",
+  "image_width": 680,
+  "image_height": 342,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1313451393685114880",
+  "author": "DD News",
+  "date": "2020-10-06T12:09:49.000Z",
+  "text": "#IndiaFightsCorona \n\n10 states account for 77% of total active cases; #Maharashtra tops the list: \n@MoHFW_INDIA",
+  "tweet_url": "https://x.com/i/web/status/1313451393685114880",
+  "image_url": "https://pbs.twimg.com/media/EjpQ7MTWAAEl6aU?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 310,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

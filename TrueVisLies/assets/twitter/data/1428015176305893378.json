@@ -1,0 +1,17 @@
+{
+  "id": "1428015176305893378",
+  "author": "Ben",
+  "date": "2021-08-18T15:25:23.000Z",
+  "text": "Same chart, but in different notation.\n\nRead as chance of fatality 1 in ...\n\n#Covid #Covid19 #Corona #Coronavirus",
+  "tweet_url": "https://x.com/i/web/status/1428015176305893378",
+  "image_url": "https://pbs.twimg.com/media/E9FUDmgVEAQJ2RW?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 423,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

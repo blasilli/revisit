@@ -1,0 +1,17 @@
+{
+  "id": "1322128280724660225",
+  "author": "Alistair Haimes",
+  "date": "2020-10-30T10:48:40.000Z",
+  "text": "Madrid & Spain: 1st wave / 2nd wave.\n\nData: https://mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Fallecidos_COVID19.xlsx\u2026",
+  "tweet_url": "https://x.com/i/web/status/1322128280724660225",
+  "image_url": "https://pbs.twimg.com/media/ElkkYw5X0AgnJtW?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 410,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

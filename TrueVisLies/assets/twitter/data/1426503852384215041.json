@@ -1,0 +1,18 @@
+{
+  "id": "1426503852384215041",
+  "author": "Mark Elliott (markmobility@bsky.social)",
+  "date": "2021-08-14T11:19:56.000Z",
+  "text": "U.S. vs Canada:\n1. New COVID cases (per million people)\n2. Proportion of population vaccinated",
+  "tweet_url": "https://x.com/i/web/status/1426503852384215041",
+  "image_url": "https://pbs.twimg.com/media/E8v1RHDXEAIwEjn?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 539,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

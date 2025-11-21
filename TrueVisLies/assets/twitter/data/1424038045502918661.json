@@ -1,0 +1,15 @@
+{
+  "id": "1424038045502918661",
+  "author": "Jamie Dupree",
+  "date": "2021-08-07T16:01:42.000Z",
+  "text": "COVID hotspot maps from NYT.  July 17.  July 21.  July 25.  August 7",
+  "tweet_url": "https://x.com/i/web/status/1424038045502918661",
+  "image_url": "https://pbs.twimg.com/media/E8MyrG_XIAIz9vn?format=jpg&name=360x360",
+  "image_width": 360,
+  "image_height": 208,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

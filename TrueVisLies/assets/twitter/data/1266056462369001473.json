@@ -1,0 +1,15 @@
+{
+  "id": "1266056462369001473",
+  "author": "William Chislett",
+  "date": "2020-05-28T17:19:17.000Z",
+  "text": "Spain the country with the most excess deaths per one million population",
+  "tweet_url": "https://x.com/i/web/status/1266056462369001473",
+  "image_url": "https://pbs.twimg.com/media/EZHvox6WkAAPVoi?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 342,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

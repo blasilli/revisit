@@ -1,0 +1,18 @@
+{
+  "id": "1314929522244874241",
+  "author": "Luigi Warren",
+  "date": "2020-10-10T14:03:22.000Z",
+  "text": "Sweden: Weekly Reported C19 Deaths",
+  "tweet_url": "https://x.com/i/web/status/1314929522244874241",
+  "image_url": "https://pbs.twimg.com/media/Ej-RVsrVoAE6D3c?format=png&name=small",
+  "image_width": 680,
+  "image_height": 481,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

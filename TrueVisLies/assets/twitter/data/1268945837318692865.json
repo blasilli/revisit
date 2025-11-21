@@ -1,0 +1,17 @@
+{
+  "id": "1268945837318692865",
+  "author": "Joy 99.7 FM",
+  "date": "2020-06-05T16:40:38.000Z",
+  "text": "Total Confirmed Covid-19 Cases stand at 9,168 with 3,457 Recoveries and 42 Deaths.\n\nActive cases: 5,669\n\n#JoyNews",
+  "tweet_url": "https://x.com/i/web/status/1268945837318692865",
+  "image_url": "https://pbs.twimg.com/media/EZwzggwWkAAqhNu?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 453,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

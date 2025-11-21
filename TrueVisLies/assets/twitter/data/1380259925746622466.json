@@ -1,0 +1,17 @@
+{
+  "id": "1380259925746622466",
+  "author": "The 9th Floor",
+  "date": "2021-04-08T20:43:04.000Z",
+  "text": "DATA UPDATE: \n\nArizona has administered 3,888,107 vaccine doses to date. 1/",
+  "tweet_url": "https://x.com/i/web/status/1380259925746622466",
+  "image_url": "https://pbs.twimg.com/media/EyerEj_VoAIieGz?format=png&name=small",
+  "image_width": 680,
+  "image_height": 216,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

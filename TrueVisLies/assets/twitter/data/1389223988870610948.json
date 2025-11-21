@@ -1,0 +1,18 @@
+{
+  "id": "1389223988870610948",
+  "author": "Alpha Defense\u2122",
+  "date": "2021-05-03T14:23:04.000Z",
+  "text": "Understand the impact of #lockdown \nWave 1 vs wave 2",
+  "tweet_url": "https://x.com/i/web/status/1389223988870610948",
+  "image_url": "https://pbs.twimg.com/media/E0eD2ucUUAAuL6h?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 544,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

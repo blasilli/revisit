@@ -1,0 +1,17 @@
+{
+  "id": "1425854773841043457",
+  "author": "The Mean Progressive \u2122",
+  "date": "2021-08-12T16:20:43.000Z",
+  "text": "The vaccine seems effective to me. But then I can do math.",
+  "tweet_url": "https://x.com/i/web/status/1425854773841043457",
+  "image_url": "https://pbs.twimg.com/media/E8mnRxTWUAk3g1T?format=jpg&name=small",
+  "image_width": 675,
+  "image_height": 680,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Failure to account for statistical nuance"
+    ]
+  }
+}

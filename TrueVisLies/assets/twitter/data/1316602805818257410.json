@@ -1,0 +1,17 @@
+{
+  "id": "1316602805818257410",
+  "author": "MyGovIndia",
+  "date": "2020-10-15T04:52:24.000Z",
+  "text": "India's recovery rate increases to 87.05%. Take a look! #IndiaFightsCorona",
+  "tweet_url": "https://x.com/i/web/status/1316602805818257410",
+  "image_url": "https://pbs.twimg.com/media/EkWDFItUYAIyNbx?format=jpg&name=small",
+  "image_width": 612,
+  "image_height": 680,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

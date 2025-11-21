@@ -1,0 +1,17 @@
+{
+  "id": "1403623025334009859",
+  "author": "Dr Clare Craig",
+  "date": "2021-06-12T07:59:41.000Z",
+  "text": "999 calls for COVID are also flat.",
+  "tweet_url": "https://x.com/i/web/status/1403623025334009859",
+  "image_url": "https://pbs.twimg.com/media/E3qnlqBWUAAhDav?format=png&name=small",
+  "image_width": 680,
+  "image_height": 239,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Causal inference"
+    ]
+  }
+}

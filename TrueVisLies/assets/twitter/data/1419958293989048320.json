@@ -1,0 +1,18 @@
+{
+  "id": "1419958293989048320",
+  "author": "The Mighty Gunner",
+  "date": "2021-07-27T09:50:13.000Z",
+  "text": "This is the real truth about Covid #Covid_19",
+  "tweet_url": "https://x.com/i/web/status/1419958293989048320",
+  "image_url": "https://pbs.twimg.com/media/E7S0bMLWQBQ_rlw?format=png&name=small",
+  "image_width": 595,
+  "image_height": 475,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

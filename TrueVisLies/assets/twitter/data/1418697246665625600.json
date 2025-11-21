@@ -1,0 +1,17 @@
+{
+  "id": "1418697246665625600",
+  "author": "\ud835\udce1\ud835\udcf8\ud835\udcee\ud835\udcf5\ud835\udcf8\ud835\udcef \ud835\udcd1\ud835\udcf8\ud835\udcee\ud835\udcfb AKA Roy",
+  "date": "2021-07-23T22:19:16.000Z",
+  "text": "Okay Australia, does these graphs look disastrous to you?\n13 million people in lockdown for this???",
+  "tweet_url": "https://x.com/i/web/status/1418697246665625600",
+  "image_url": "https://pbs.twimg.com/media/E7A5IpAVcAAXlO-?format=png&name=small",
+  "image_width": 680,
+  "image_height": 429,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

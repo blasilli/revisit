@@ -1,0 +1,17 @@
+{
+  "id": "1315404169499439104",
+  "author": "Wansoo Im",
+  "date": "2020-10-11T21:29:27.000Z",
+  "text": "COVID-19 Death Rates per Country\n\nhttp://info.coronavirusmap.site",
+  "tweet_url": "https://x.com/i/web/status/1315404169499439104",
+  "image_url": "https://pbs.twimg.com/media/EkFBBDiUcAAQOrT?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 470,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

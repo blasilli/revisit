@@ -1,0 +1,15 @@
+{
+  "id": "1324402610141581318",
+  "author": "Libby Wiener",
+  "date": "2020-11-05T17:26:03.000Z",
+  "text": "Sir Simon Stevens presents this chart on hospital admissions - the second wave is real and serious",
+  "tweet_url": "https://x.com/i/web/status/1324402610141581318",
+  "image_url": "https://pbs.twimg.com/media/EmE5JyRXEAMv7Kj?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 382,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

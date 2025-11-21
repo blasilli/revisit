@@ -1,0 +1,15 @@
+{
+  "id": "1312278525894774784",
+  "author": "Prof. Shamika Ravi",
+  "date": "2020-10-03T06:29:16.000Z",
+  "text": "Daily tests across states:",
+  "tweet_url": "https://x.com/i/web/status/1312278525894774784",
+  "image_url": "https://pbs.twimg.com/media/EjYluxgVcAAwEJK?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 566,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

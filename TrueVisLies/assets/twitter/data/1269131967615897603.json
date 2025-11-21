@@ -1,0 +1,18 @@
+{
+  "id": "1269131967615897603",
+  "author": "swapnil patil",
+  "date": "2020-06-06T05:00:15.000Z",
+  "text": "Is this the effect of #ivermectin ?????\nRecovery percentage is 78% #Chile",
+  "tweet_url": "https://x.com/i/web/status/1269131967615897603",
+  "image_url": "https://pbs.twimg.com/media/EZzcySrUMAERmDw?format=jpg&name=900x900",
+  "image_width": 625,
+  "image_height": 900,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

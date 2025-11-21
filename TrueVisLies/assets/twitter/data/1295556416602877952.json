@@ -1,0 +1,15 @@
+{
+  "id": "1295556416602877952",
+  "author": "Laurie Garrett",
+  "date": "2020-08-18T03:01:34.000Z",
+  "text": "This",
+  "tweet_url": "https://x.com/i/web/status/1295556416602877952",
+  "image_url": "https://pbs.twimg.com/media/Efq9sJvX0AE6lzj?format=png&name=small",
+  "image_width": 629,
+  "image_height": 676,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

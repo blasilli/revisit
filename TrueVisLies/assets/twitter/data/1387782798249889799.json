@@ -1,0 +1,17 @@
+{
+  "id": "1387782798249889799",
+  "author": "ClownBasket ",
+  "date": "2021-04-29T14:56:17.000Z",
+  "text": "Vaccines or Hope-Simpson?",
+  "tweet_url": "https://x.com/i/web/status/1387782798249889799",
+  "image_url": "https://pbs.twimg.com/media/E0Jk-D0VcAYBjts?format=png&name=small",
+  "image_width": 680,
+  "image_height": 624,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Causal inference"
+    ]
+  }
+}

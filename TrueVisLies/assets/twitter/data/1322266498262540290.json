@@ -1,0 +1,17 @@
+{
+  "id": "1322266498262540290",
+  "author": "Alistair Haimes",
+  "date": "2020-10-30T12:54:46.000Z",
+  "text": "Zoe data shows the growth rate in symptomatic covid cases declining",
+  "tweet_url": "https://x.com/i/web/status/1322266498262540290",
+  "image_url": "https://pbs.twimg.com/media/ElmiQuZW0AEARaE?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 426,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

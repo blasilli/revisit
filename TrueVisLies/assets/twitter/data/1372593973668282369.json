@@ -1,0 +1,17 @@
+{
+  "id": "1372593973668282369",
+  "author": "J Chamie",
+  "date": "2021-03-18T17:01:19.000Z",
+  "text": "Adding COVID-19 fatalities to the COVID-19 chart shows that the improving is even more dramatic\nBel\u00e9m",
+  "tweet_url": "https://x.com/i/web/status/1372593973668282369",
+  "image_url": "https://pbs.twimg.com/media/EwxuWn6WgAA5W4B?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 310,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

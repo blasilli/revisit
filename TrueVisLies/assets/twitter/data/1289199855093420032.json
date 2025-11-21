@@ -1,0 +1,19 @@
+{
+  "id": "1289199855093420032",
+  "author": "Paul Yowell",
+  "date": "2020-07-31T14:02:52.000Z",
+  "text": "Sweden update 31 July. Zero deaths in past 3 days; 5 in the past week. No lockdowns, no masks, no panic.",
+  "tweet_url": "https://x.com/i/web/status/1289199855093420032",
+  "image_url": "https://pbs.twimg.com/media/EeQngtJWsAAioO3?format=png&name=small",
+  "image_width": 680,
+  "image_height": 275,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference",
+      "Issues with data validity"
+    ]
+  }
+}

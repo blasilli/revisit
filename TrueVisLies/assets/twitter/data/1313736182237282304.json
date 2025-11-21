@@ -1,0 +1,18 @@
+{
+  "id": "1313736182237282304",
+  "author": "Adam Creighton",
+  "date": "2020-10-07T07:01:28.000Z",
+  "text": "Pick which Scandinavian country just endured a \"once in a century\" pandemic.\n(And what are the Norwegians drinking?)",
+  "tweet_url": "https://x.com/i/web/status/1313736182237282304",
+  "image_url": "https://pbs.twimg.com/media/EjtUDZOVgAAZd85?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 538,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold",
+      "Issues with data validity"
+    ]
+  }
+}

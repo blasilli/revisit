@@ -1,0 +1,15 @@
+{
+  "id": "1324509504201986048",
+  "author": "molly conger",
+  "date": "2020-11-06T00:30:48.000Z",
+  "text": "they had to add a new digit to the y-axis of the COVID graph this week",
+  "tweet_url": "https://x.com/i/web/status/1324509504201986048",
+  "image_url": "https://pbs.twimg.com/media/EmGaK2OWoAAWwIs?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 511,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

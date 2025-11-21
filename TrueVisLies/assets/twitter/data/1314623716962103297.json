@@ -1,0 +1,18 @@
+{
+  "id": "1314623716962103297",
+  "author": "Alan Poirier",
+  "date": "2020-10-09T17:48:13.000Z",
+  "text": "Oddly, no one talks about daily deaths. Wonder why? Sweden vs Canada. #COVID19 #cdnpoli",
+  "tweet_url": "https://x.com/i/web/status/1314623716962103297",
+  "image_url": "https://pbs.twimg.com/media/Ej57OR1VkAA2tqu?format=png&name=small",
+  "image_width": 680,
+  "image_height": 457,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

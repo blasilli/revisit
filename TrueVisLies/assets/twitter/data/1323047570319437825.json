@@ -1,0 +1,17 @@
+{
+  "id": "1323047570319437825",
+  "author": "Denis Wirtz",
+  "date": "2020-11-01T23:41:36.000Z",
+  "text": "Close to 50,000 Americans have died of COVID-19 in the last two months alone.\n\nSource: Johns Hopkins U.",
+  "tweet_url": "https://x.com/i/web/status/1323047570319437825",
+  "image_url": "https://pbs.twimg.com/media/ElxovdyVkAAA3fN?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 351,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

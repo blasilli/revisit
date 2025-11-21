@@ -1,0 +1,18 @@
+{
+  "id": "1314937401257623558",
+  "author": "Marina Medvin ",
+  "date": "2020-10-10T14:34:41.000Z",
+  "text": "Graph of Wuhan Virus deaths in US, mixed restrictions.",
+  "tweet_url": "https://x.com/i/web/status/1314937401257623558",
+  "image_url": "https://pbs.twimg.com/media/Ej-YlFEWoAYmoDb?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 368,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

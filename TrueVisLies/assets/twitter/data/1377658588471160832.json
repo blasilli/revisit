@@ -1,0 +1,17 @@
+{
+  "id": "1377658588471160832",
+  "author": "Cormac Mac Sweeney",
+  "date": "2021-04-01T16:26:17.000Z",
+  "text": "Here is a map with the total number of COVID vaccine doses delivered to each province & territory #cdnpoli",
+  "tweet_url": "https://x.com/i/web/status/1377658588471160832",
+  "image_url": "https://pbs.twimg.com/media/Ex5tLxlWUAQDD5l?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 314,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

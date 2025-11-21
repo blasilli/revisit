@@ -1,0 +1,17 @@
+{
+  "id": "1288884597594480641",
+  "author": "Josh Marshall",
+  "date": "2020-07-30T17:10:09.000Z",
+  "text": "New York reports 777 new cases, 1.06% positivity. 312 cases in New York City.",
+  "tweet_url": "https://x.com/i/web/status/1288884597594480641",
+  "image_url": "https://pbs.twimg.com/media/EeMJrRGX0AAhVQb?format=png&name=small",
+  "image_width": 680,
+  "image_height": 467,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

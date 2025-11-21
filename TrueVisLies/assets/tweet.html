@@ -3,12 +3,6 @@
 <head>
   <meta charset="UTF-8" />
 
-  <!-- Preload script (makes Revisit available instantly) -->
-  <link rel="preload" href="../../revisitUtilities/revisit-communicate.js" as="script">
-
-  <!-- Preconnect to GitHub and GitHub Pages for faster TLS handshake -->
-  <link rel="preconnect" href="https://raw.githubusercontent.com">
-
   <script src="../../revisitUtilities/revisit-communicate.js"></script>
 
   <style>
@@ -79,14 +73,11 @@
     const tweetId = data.tweetId;
     document.querySelector('.tweet-id').textContent = `TWEET-ID: ${tweetId}`;
 
-    // --- FASTEST POSSIBLE LOADING: Start image load immediately ---
     const imgEl = document.getElementById('tweet-img');
-    const imgUrl = `https://raw.githubusercontent.com/blasilli/TrueVISLies/main/datasets/twitter/images/${tweetId}.png`
+    const imgUrl = `./twitter/images/${tweetId}.png`
     imgEl.src = imgUrl; // High priority request starts instantly
 
-    // --- FAST TEXT LOADING: Fetch the text in parallel ---
-    const textUrl = `https://raw.githubusercontent.com/blasilli/TrueVISLies/main/datasets/twitter/texts/${tweetId}.txt`;
-
+    const textUrl = `./twitter/texts/${tweetId}.txt`;
     try {
       const response = await fetch(textUrl, { cache: "default" }); // allow browser caching
       const text = await response.text();

@@ -1,0 +1,15 @@
+{
+  "id": "1389825893581811714",
+  "author": "Prof. Shamika Ravi",
+  "date": "2021-05-05T06:14:49.000Z",
+  "text": "#COVID19India The growth rate of active cases continues to fall & is now = 2.1%",
+  "tweet_url": "https://x.com/i/web/status/1389825893581811714",
+  "image_url": "https://pbs.twimg.com/media/E0mnR1iVIAI89Z5?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 544,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "1294276317811277824",
+  "author": "nxthompson",
+  "date": "2020-08-14T14:14:55.000Z",
+  "text": "The decline in Covid-related deaths in NYC continues to be striking. Many days now where the number is 0 or 1.",
+  "tweet_url": "https://x.com/i/web/status/1294276317811277824",
+  "image_url": "https://pbs.twimg.com/media/EfYxaOOWoAAgJoB?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 554,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

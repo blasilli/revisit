@@ -1,0 +1,15 @@
+{
+  "id": "1262731015262478336",
+  "author": "Mawusha",
+  "date": "2020-05-19T13:05:09.000Z",
+  "text": "Western Cape (Cape Town) is the epicenter of coronavirus. The red line shows SA daily deaths without Western Cape.",
+  "tweet_url": "https://x.com/i/web/status/1262731015262478336",
+  "image_url": "https://pbs.twimg.com/media/EYYfAOzXsAYHT6G?format=jpg&name=360x360",
+  "image_width": 273,
+  "image_height": 204,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

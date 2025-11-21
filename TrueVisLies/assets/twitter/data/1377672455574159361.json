@@ -1,0 +1,17 @@
+{
+  "id": "1377672455574159361",
+  "author": "Dominic Frisby",
+  "date": "2021-04-01T17:21:23.000Z",
+  "text": "I think this may be one of the of the most ridiculous charts I have ever seen.",
+  "tweet_url": "https://x.com/i/web/status/1377672455574159361",
+  "image_url": "https://pbs.twimg.com/media/Ex55yoXXEAMwM2J?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 350,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Issues with data validity"
+    ]
+  }
+}

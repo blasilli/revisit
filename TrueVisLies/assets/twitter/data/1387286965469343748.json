@@ -1,0 +1,17 @@
+{
+  "id": "1387286965469343748",
+  "author": "Shiv Aroor",
+  "date": "2021-04-28T06:06:01.000Z",
+  "text": "5 cities in UP are seeing about 12 times more cases now than the first #Covid19 peak in Sept 2020:",
+  "tweet_url": "https://x.com/i/web/status/1387286965469343748",
+  "image_url": "https://pbs.twimg.com/media/E0Ch0STVUAE5SNM?format=jpg&name=small",
+  "image_width": 583,
+  "image_height": 680,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Inverted axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

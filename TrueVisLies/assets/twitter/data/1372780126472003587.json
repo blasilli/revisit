@@ -1,0 +1,15 @@
+{
+  "id": "1372780126472003587",
+  "author": "Edson C. Guido",
+  "date": "2021-03-19T05:21:01.000Z",
+  "text": "Number of confirmed cases this 2021:\n\nJanuary = 51,623\nFebruary = 50,801\nMarch 1 to 18 = 64,700 ",
+  "tweet_url": "https://x.com/i/web/status/1372780126472003587",
+  "image_url": "https://pbs.twimg.com/media/Ew0X2P6UYAcNt9r?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 365,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

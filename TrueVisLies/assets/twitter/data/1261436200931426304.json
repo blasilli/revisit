@@ -1,0 +1,15 @@
+{
+  "id": "1261436200931426304",
+  "author": "govserv.ng",
+  "date": "2020-05-15T23:20:01.000Z",
+  "text": "Full update of #COVID19 confirmed cases in Nigeria as at 11:47pm, 15th May, 2020.",
+  "tweet_url": "https://x.com/i/web/status/1261436200931426304",
+  "image_url": "https://pbs.twimg.com/media/EYGFhTuXsAA1K__?format=jpg&name=900x900",
+  "image_width": 670,
+  "image_height": 900,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

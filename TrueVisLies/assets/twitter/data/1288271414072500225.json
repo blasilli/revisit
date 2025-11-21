@@ -1,0 +1,17 @@
+{
+  "id": "1288271414072500225",
+  "author": "Waka_Tono",
+  "date": "2020-07-29T00:33:34.000Z",
+  "text": "The #SecondWave of #Covid-19 in #Japan seems to be bigger than the first wave.",
+  "tweet_url": "https://x.com/i/web/status/1288271414072500225",
+  "image_url": "https://pbs.twimg.com/media/EeDb9vKVoAA_3EB?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 429,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

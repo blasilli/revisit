@@ -1,0 +1,15 @@
+{
+  "id": "1326264749986897920",
+  "author": "Joe Brew",
+  "date": "2020-11-10T20:45:31.000Z",
+  "text": "Confirmed Covid-19 cases (left) and deaths (right) in the USA (black, dashed) and Spain (red, solid).",
+  "tweet_url": "https://x.com/i/web/status/1326264749986897920",
+  "image_url": "https://pbs.twimg.com/media/EmfWfI1XUAUDlDD?format=png&name=small",
+  "image_width": 680,
+  "image_height": 453,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

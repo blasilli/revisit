@@ -1,0 +1,15 @@
+{
+  "id": "1314576394274430979",
+  "author": "Boston.com",
+  "date": "2020-10-09T14:40:10.000Z",
+  "text": "Watch how COVID-19 spread across the U.S. \u2018untamed\u2019 in this time-lapse https://trib.al/3LEwMXG",
+  "tweet_url": "https://x.com/i/web/status/1314576394274430979",
+  "image_url": "https://pbs.twimg.com/media/Ej5QQwEWkAI_4y9?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 356,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

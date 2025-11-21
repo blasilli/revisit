@@ -1,0 +1,17 @@
+{
+  "id": "1297480233671692289",
+  "author": "Dr. David Samadi",
+  "date": "2020-08-23T10:26:08.000Z",
+  "text": "The graph speaks for itself.\n\nLet\u2019s re-open America.",
+  "tweet_url": "https://x.com/i/web/status/1297480233671692289",
+  "image_url": "https://pbs.twimg.com/media/EgGTY5bWsAEmHfh?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 416,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

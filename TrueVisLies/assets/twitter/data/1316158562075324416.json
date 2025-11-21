@@ -1,0 +1,15 @@
+{
+  "id": "1316158562075324416",
+  "author": "The COVID Tracking Project",
+  "date": "2020-10-13T23:27:08.000Z",
+  "text": "Hospitalization numbers are also growing in all but seven states, following the upward trend in case counts.",
+  "tweet_url": "https://x.com/i/web/status/1316158562075324416",
+  "image_url": "https://pbs.twimg.com/media/EkPvMqaX0AAK-k2?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 389,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

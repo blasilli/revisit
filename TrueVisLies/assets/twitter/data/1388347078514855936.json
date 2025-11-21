@@ -1,0 +1,20 @@
+{
+  "id": "1388347078514855936",
+  "author": "Keshav Bedi",
+  "date": "2021-05-01T04:18:32.000Z",
+  "text": "It is vaccine which lead to current spike in cases.\nThank God we went short of it.",
+  "tweet_url": "https://x.com/i/web/status/1388347078514855936",
+  "image_url": "https://pbs.twimg.com/media/E0RmTmIVoAA0j08?format=jpg&name=small",
+  "image_width": 543,
+  "image_height": 338,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

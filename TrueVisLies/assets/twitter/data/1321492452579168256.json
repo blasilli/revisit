@@ -1,0 +1,17 @@
+{
+  "id": "1321492452579168256",
+  "author": "Tom Elliott",
+  "date": "2020-10-28T16:42:07.000Z",
+  "text": "As \n@ThomasEWoods\n has noted, Fauci's predicted spike in Florida hospitalizations never materialized",
+  "tweet_url": "https://x.com/i/web/status/1321492452579168256",
+  "image_url": "https://pbs.twimg.com/media/ElbiL9KW0AkrBDP?format=png&name=small",
+  "image_width": 462,
+  "image_height": 341,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

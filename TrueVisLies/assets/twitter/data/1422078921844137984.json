@@ -1,0 +1,17 @@
+{
+  "id": "1422078921844137984",
+  "author": "Bj\u00f6rn Fri",
+  "date": "2021-08-02T06:16:50.000Z",
+  "text": "Zero deaths from covid in Sweden for a week. Front page news nowhere.",
+  "tweet_url": "https://x.com/i/web/status/1422078921844137984",
+  "image_url": "https://pbs.twimg.com/media/E7w9PfSWEAMB8If?format=jpg&name=900x900",
+  "image_width": 717,
+  "image_height": 900,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Causal inference"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1424784646236160001",
+  "author": "zerohedge",
+  "date": "2021-08-09T17:28:25.000Z",
+  "text": "US daily new cases and deaths",
+  "tweet_url": "https://x.com/i/web/status/1424784646236160001",
+  "image_url": "https://pbs.twimg.com/media/E8XaEtUXEAM2npl?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 368,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

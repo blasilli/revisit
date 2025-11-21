@@ -1,0 +1,17 @@
+{
+  "id": "1387103939317882884",
+  "author": "The Telegraph",
+  "date": "2021-04-27T17:58:44.000Z",
+  "text": "What effect does a national lockdown have on cases?\n\nhttps://telegraph.co.uk/news/2021/04/27/june-21-wont-much-return-normal-thought/\u2026",
+  "tweet_url": "https://x.com/i/web/status/1387103939317882884",
+  "image_url": "https://pbs.twimg.com/media/Ez_7TXHXIAEyFF5?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 381,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Causal inference"
+    ]
+  }
+}

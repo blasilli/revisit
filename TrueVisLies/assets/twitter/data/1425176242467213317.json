@@ -1,0 +1,18 @@
+{
+  "id": "1425176242467213317",
+  "author": "Robert Gergely, MD",
+  "date": "2021-08-10T19:24:29.000Z",
+  "text": "Israel new Covid wave. Most fully vaccinated. That is not \"breakthrough\" cases. It is vaccine failure cases.",
+  "tweet_url": "https://x.com/i/web/status/1425176242467213317",
+  "image_url": "https://pbs.twimg.com/media/E8c9kQFVUAA61Nc?format=png&name=small",
+  "image_width": 636,
+  "image_height": 423,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

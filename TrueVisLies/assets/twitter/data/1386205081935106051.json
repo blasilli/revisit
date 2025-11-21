@@ -1,0 +1,15 @@
+{
+  "id": "1386205081935106051",
+  "author": "Vignesh Radhakrishnan",
+  "date": "2021-04-25T06:27:00.000Z",
+  "text": "State-wise allocation vs utilisation of #Covid19 vaccines. Lot of variance in both.",
+  "tweet_url": "https://x.com/i/web/status/1386205081935106051",
+  "image_url": "https://pbs.twimg.com/media/EzzKLMhUYAISCtG?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 545,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

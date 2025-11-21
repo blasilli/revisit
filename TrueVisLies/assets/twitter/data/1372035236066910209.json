@@ -1,0 +1,18 @@
+{
+  "id": "1372035236066910209",
+  "author": "Eric",
+  "date": "2021-03-17T04:01:06.000Z",
+  "text": "Meanwhile in neighboring Iowa which lifted all COVID-19 restrictions over 5 weeks ago",
+  "tweet_url": "https://x.com/i/web/status/1372035236066910209",
+  "image_url": "https://pbs.twimg.com/media/EwpyxntWQAolF-Q?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 613,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

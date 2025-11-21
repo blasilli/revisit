@@ -1,0 +1,15 @@
+{
+  "id": "1428162266755592202",
+  "author": "casey briggs",
+  "date": "2021-08-19T01:09:53.000Z",
+  "text": "71 of the 82 people in intensive care are not vaccinated",
+  "tweet_url": "https://x.com/i/web/status/1428162266755592202",
+  "image_url": "https://pbs.twimg.com/media/E9HZ853VoAI3gnb?format=png&name=small",
+  "image_width": 680,
+  "image_height": 598,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

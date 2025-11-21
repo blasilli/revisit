@@ -1,0 +1,18 @@
+{
+  "id": "1243022817261568000",
+  "author": "Mithu Storoni",
+  "date": "2020-03-26T03:51:48.000Z",
+  "text": "Many factors at play here,\nbut this is an interesting observation. ",
+  "tweet_url": "https://x.com/i/web/status/1243022817261568000",
+  "image_url": "https://pbs.twimg.com/media/EUAaqMFUMAAKWi6?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 368,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

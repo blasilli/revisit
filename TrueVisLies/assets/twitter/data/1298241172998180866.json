@@ -1,0 +1,18 @@
+{
+  "id": "1298241172998180866",
+  "author": "Bill Spadea",
+  "date": "2020-08-25T12:49:50.000Z",
+  "text": "Another day. More facts. The pandemic is over. And lockdowns were deadly. #reopennow #unmaskAmerica",
+  "tweet_url": "https://x.com/i/web/status/1298241172998180866",
+  "image_url": "https://pbs.twimg.com/media/EgRHdyMXYAggINq?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 429,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "1384950228655218691",
+  "author": "Canada\u2019s BIG BALLS Trump Supporter PPC4Life",
+  "date": "2021-04-21T19:20:40.000Z",
+  "text": "Where\u2019s the crisis? Straight off public health website today. Shove this chart in front of any fear mongers face.",
+  "tweet_url": "https://x.com/i/web/status/1384950228655218691",
+  "image_url": "https://pbs.twimg.com/media/EzhU407XMAEM_jg?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 593,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold",
+      "Issues with data validity"
+    ]
+  }
+}

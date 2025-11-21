@@ -1,0 +1,18 @@
+{
+  "id": "1317995339069202434",
+  "author": "Dr. Stoxx",
+  "date": "2020-10-19T01:05:50.000Z",
+  "text": "Sweden: still at zero deaths\n\nNo lockdown, no job losses, no school closures.",
+  "tweet_url": "https://x.com/i/web/status/1317995339069202434",
+  "image_url": "https://pbs.twimg.com/media/Ekp1xqlWkAAR_Ah?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 672,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

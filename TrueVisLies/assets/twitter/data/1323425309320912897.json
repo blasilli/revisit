@@ -1,0 +1,15 @@
+{
+  "id": "1323425309320912897",
+  "author": "Justin McElroy",
+  "date": "2020-11-03T00:42:36.000Z",
+  "text": "There are now 2,206 active cases of #COVID19 in Fraser Health, or around one in every 816 residents",
+  "tweet_url": "https://x.com/i/web/status/1323425309320912897",
+  "image_url": "https://pbs.twimg.com/media/El2_EmyVgAIg_Ef?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 461,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

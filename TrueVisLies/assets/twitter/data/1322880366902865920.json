@@ -1,0 +1,17 @@
+{
+  "id": "1322880366902865920",
+  "author": "Information Dept GBN",
+  "date": "2020-11-01T12:37:12.000Z",
+  "text": "GB NAGAR as on 01/11/2020",
+  "tweet_url": "https://x.com/i/web/status/1322880366902865920",
+  "image_url": "https://pbs.twimg.com/media/ElvQrkcUYAAWVna?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 574,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1325460347877199874",
+  "author": "Dr. Jennifer Kwan",
+  "date": "2020-11-08T15:29:07.000Z",
+  "text": "#COVID19Ontario: \nDaily new cases vs. daily new tests in #Ontario\nLine = 7 day moving average. #COVID\u30fc19 #onhealth",
+  "tweet_url": "https://x.com/i/web/status/1325460347877199874",
+  "image_url": "https://pbs.twimg.com/media/EmT7KFsXYAUJNlf?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 376,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

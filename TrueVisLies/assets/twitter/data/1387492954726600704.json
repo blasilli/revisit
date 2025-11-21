@@ -1,0 +1,18 @@
+{
+  "id": "1387492954726600704",
+  "author": "Jeffrey A Tucker",
+  "date": "2021-04-28T19:44:33.000Z",
+  "text": "Two open states, two closed states. You still think policy is in charge of this virus?",
+  "tweet_url": "https://x.com/i/web/status/1387492954726600704",
+  "image_url": "https://pbs.twimg.com/media/E0Fdca9XIAY0X3z?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 462,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

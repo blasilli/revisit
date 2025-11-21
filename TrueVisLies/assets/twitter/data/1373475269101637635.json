@@ -1,0 +1,17 @@
+{
+  "id": "1373475269101637635",
+  "author": "Patrick Chovanec",
+  "date": "2021-03-21T03:23:16.000Z",
+  "text": "The positive test rate in the US fell to 3.8% today, its lowest reported rate so far in the pandemic.",
+  "tweet_url": "https://x.com/i/web/status/1373475269101637635",
+  "image_url": "https://pbs.twimg.com/media/Ew-QeOGXAAAnR01?format=png&name=small",
+  "image_width": 680,
+  "image_height": 438,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1263847236590583811",
+  "author": "Allegheny County Health Department",
+  "date": "2020-05-22T15:00:37.000Z",
+  "text": "This is the COVID-19 Daily Update from the Allegheny County Health Department (ACHD) for May 22, 2020.",
+  "tweet_url": "https://x.com/i/web/status/1263847236590583811",
+  "image_url": "https://pbs.twimg.com/media/EYoMJYIXsAI_Iyh?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 567,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

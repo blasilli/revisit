@@ -1,0 +1,18 @@
+{
+  "id": "1377498473734504449",
+  "author": "Sam Oti",
+  "date": "2021-04-01T05:50:03.000Z",
+  "text": "#Israel has so far vaccinated 60% of its population. The results are undeniable. #vaccineswork #COVID19",
+  "tweet_url": "https://x.com/i/web/status/1377498473734504449",
+  "image_url": "https://pbs.twimg.com/media/Ex3bjx0WEAAzo6T?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 480,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1263979598028644354",
+  "author": "David Biller",
+  "date": "2020-05-22T23:46:34.000Z",
+  "text": "Brazil rises to #2 in Johns Hopkins global Covid-19 tally https://coronavirus.jhu.edu/map.html",
+  "tweet_url": "https://x.com/i/web/status/1263979598028644354",
+  "image_url": "https://pbs.twimg.com/media/EYqOZIUWoAIJvLy?format=png&name=small",
+  "image_width": 585,
+  "image_height": 444,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

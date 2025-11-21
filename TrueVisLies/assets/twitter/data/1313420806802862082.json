@@ -1,0 +1,17 @@
+{
+  "id": "1313420806802862082",
+  "author": "Ed",
+  "date": "2020-10-06T10:08:17.000Z",
+  "text": "Key Covid stats for England",
+  "tweet_url": "https://x.com/i/web/status/1313420806802862082",
+  "image_url": "https://pbs.twimg.com/media/Ejo1EBxXsAAyfYL?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 383,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Inverted axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

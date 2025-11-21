@@ -1,0 +1,17 @@
+{
+  "id": "1419862401936150543",
+  "author": "Jeffrey A Tucker",
+  "date": "2021-07-27T03:29:11.000Z",
+  "text": "And here we see why there is yet another round of Covid panic sweeping the US. Wait, what?",
+  "tweet_url": "https://x.com/i/web/status/1419862401936150543",
+  "image_url": "https://pbs.twimg.com/media/E7RdSqzXsAEqh8A?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 407,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

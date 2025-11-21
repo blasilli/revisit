@@ -1,0 +1,17 @@
+{
+  "id": "1295227617138835463",
+  "author": "Greater Chennai Corporation",
+  "date": "2020-08-17T05:15:02.000Z",
+  "text": "Here's the Info Graphic summary of Covid-19 cases in Chennai. \n\n#Covid19Chennai \n#GCC #Chennai \n#ChennaiCorporation",
+  "tweet_url": "https://x.com/i/web/status/1295227617138835463",
+  "image_url": "https://pbs.twimg.com/media/EfmSp0OX0AATaJb?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 510,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

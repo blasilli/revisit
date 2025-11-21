@@ -1,0 +1,18 @@
+{
+  "id": "1291462045741854721",
+  "author": "Trev #CFC ",
+  "date": "2020-08-06T19:52:00.000Z",
+  "text": "Two very interesting graphs #HCQW0RKS #HCQzinc4prevention #COVID__19 #endthelockdown",
+  "tweet_url": "https://x.com/i/web/status/1291462045741854721",
+  "image_url": "https://pbs.twimg.com/media/EewxaIcWoAAI0oa?format=jpg&name=small",
+  "image_width": 600,
+  "image_height": 330,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

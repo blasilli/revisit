@@ -1,0 +1,17 @@
+{
+  "id": "1417951501591449600",
+  "author": "Jordan Schachtel",
+  "date": "2021-07-21T20:55:56.000Z",
+  "text": "Big W for natural immunity here",
+  "tweet_url": "https://x.com/i/web/status/1417951501591449600",
+  "image_url": "https://pbs.twimg.com/media/E62TWsGWUAMIq5P?format=png&name=900x900",
+  "image_width": 685,
+  "image_height": 833,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Failure to account for statistical nuance"
+    ]
+  }
+}

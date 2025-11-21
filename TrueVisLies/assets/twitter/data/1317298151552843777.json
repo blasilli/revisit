@@ -1,0 +1,15 @@
+{
+  "id": "1317298151552843777",
+  "author": "ian bremmer",
+  "date": "2020-10-17T02:55:28.000Z",
+  "text": "Not awesome, have to admit.",
+  "tweet_url": "https://x.com/i/web/status/1317298151552843777",
+  "image_url": "https://pbs.twimg.com/media/Ekf7r6VXUAMS7hC?format=jpg&name=small",
+  "image_width": 654,
+  "image_height": 417,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

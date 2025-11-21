@@ -1,0 +1,18 @@
+{
+  "id": "1427012219603095552",
+  "author": "Ninja Economics",
+  "date": "2021-08-15T21:00:00.000Z",
+  "text": "Delta-variant cases in the United States and Canada.",
+  "tweet_url": "https://x.com/i/web/status/1427012219603095552",
+  "image_url": "https://pbs.twimg.com/media/E8x_AB1VgAMZDsi?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 358,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

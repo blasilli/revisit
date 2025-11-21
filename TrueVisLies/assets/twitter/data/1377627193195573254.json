@@ -1,0 +1,17 @@
+{
+  "id": "1377627193195573254",
+  "author": "City of Memphis",
+  "date": "2021-04-01T14:21:32.000Z",
+  "text": "Vaccine Daily Site Report (3-31-21)",
+  "tweet_url": "https://x.com/i/web/status/1377627193195573254",
+  "image_url": "https://pbs.twimg.com/media/Ex5QkSpWgAEdeka?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 403,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

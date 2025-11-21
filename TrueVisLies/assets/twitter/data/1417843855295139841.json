@@ -1,0 +1,18 @@
+{
+  "id": "1417843855295139841",
+  "author": "Human Condition",
+  "date": "2021-07-21T13:48:12.000Z",
+  "text": "And how are the vaccinated doing \n@BBCHughPym\n?\nNot reporting on that?",
+  "tweet_url": "https://x.com/i/web/status/1417843855295139841",
+  "image_url": "https://pbs.twimg.com/media/E60xeMvWYAIQcME?format=jpg&name=medium",
+  "image_width": 611,
+  "image_height": 1082,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Failure to account for statistical nuance"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "1375717454802980866",
+  "author": "Eretz Israel",
+  "date": "2021-03-27T07:52:55.000Z",
+  "text": "\u201cCOVID-19 has been obliterated in Israel,\u201d says \n@fundstrat\n. Daily cases have plunged from 1,200 .. to just 39.",
+  "tweet_url": "https://x.com/i/web/status/1375717454802980866",
+  "image_url": "https://pbs.twimg.com/media/Exa18oIW8AQN-64?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 555,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

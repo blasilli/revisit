@@ -1,0 +1,15 @@
+{
+  "id": "1322989383549657094",
+  "author": "UK COVID-19",
+  "date": "2020-11-01T19:50:23.000Z",
+  "text": "England COVID-19 Healthcare.\n\n Patients admitted\n Patients in hospital\n Patients in ventilation beds",
+  "tweet_url": "https://x.com/i/web/status/1322989383549657094",
+  "image_url": "https://pbs.twimg.com/media/ElwztRLXIAAApMu?format=png&name=small",
+  "image_width": 680,
+  "image_height": 383,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "1387422243211276291",
+  "author": "Prithvi",
+  "date": "2021-04-28T15:03:34.000Z",
+  "text": "#Ivermectin A Thread !!!",
+  "tweet_url": "https://x.com/i/web/status/1387422243211276291",
+  "image_url": "https://pbs.twimg.com/media/E0EdKJ1VkAUdO8X?format=png&name=360x360",
+  "image_width": 285,
+  "image_height": 360,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

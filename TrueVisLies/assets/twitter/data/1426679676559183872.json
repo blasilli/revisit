@@ -1,0 +1,19 @@
+{
+  "id": "1426679676559183872",
+  "author": "Aaron Ginn",
+  "date": "2021-08-14T22:58:35.000Z",
+  "text": "Minimally-vaxx and unmasked Sweden continues to report near zero daily deaths.",
+  "tweet_url": "https://x.com/i/web/status/1426679676559183872",
+  "image_url": "https://pbs.twimg.com/media/E8yVmsBWQAIMuK8?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 384,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Setting an arbitrary threshold",
+      "Causal inference"
+    ]
+  }
+}

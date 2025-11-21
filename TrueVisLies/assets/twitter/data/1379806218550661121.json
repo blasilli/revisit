@@ -1,0 +1,15 @@
+{
+  "id": "1379806218550661121",
+  "author": "Brian Ferguson",
+  "date": "2021-04-07T14:40:12.000Z",
+  "text": "same data at high sars-cov-2 circulation prevalence",
+  "tweet_url": "https://x.com/i/web/status/1379806218550661121",
+  "image_url": "https://pbs.twimg.com/media/EyYOUt-W8AI2i4B?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 374,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

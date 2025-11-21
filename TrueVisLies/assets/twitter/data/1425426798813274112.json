@@ -1,0 +1,17 @@
+{
+  "id": "1425426798813274112",
+  "author": "James McLeod",
+  "date": "2021-08-11T12:00:06.000Z",
+  "text": "Maaaaaan, this graph. https://cbc.ca/news/health/covid-4th-wave-arrival-1.6136506\u2026",
+  "tweet_url": "https://x.com/i/web/status/1425426798813274112",
+  "image_url": "https://pbs.twimg.com/media/E8giCnAWEAQok2l?format=png&name=small",
+  "image_width": 680,
+  "image_height": 479,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Failure to account for statistical nuance"
+    ]
+  }
+}

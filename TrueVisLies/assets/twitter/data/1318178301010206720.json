@@ -1,0 +1,15 @@
+{
+  "id": "1318178301010206720",
+  "author": "Ian Jones",
+  "date": "2020-10-19T13:12:52.000Z",
+  "text": "Interesting trend in the Covid-19 case rates for big university cities in England. The numbers look to have peaked.",
+  "tweet_url": "https://x.com/i/web/status/1318178301010206720",
+  "image_url": "https://pbs.twimg.com/media/EksbzleWkAIuXWR?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 657,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

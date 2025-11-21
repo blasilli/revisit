@@ -1,0 +1,15 @@
+{
+  "id": "1317197388294066176",
+  "author": "Yahoo News",
+  "date": "2020-10-16T20:15:04.000Z",
+  "text": "Almost all of Wisconsin is classified as a COVID \u2018hotspot,\u2019  government report shows https://yhoo.it/3j27pLT",
+  "tweet_url": "https://x.com/i/web/status/1317197388294066176",
+  "image_url": "https://pbs.twimg.com/media/EkegCzYWkAYpzAc?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 382,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

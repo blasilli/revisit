@@ -1,0 +1,15 @@
+{
+  "id": "1294761143739625472",
+  "author": "Investigate Corporate Crime",
+  "date": "2020-08-15T22:21:26.000Z",
+  "text": "Forty percent of U.S. Covid-19 tests come back too late to be clinically meaningful.\n\nhttps://cnbc.com/2020/08/15/forty-percent-of-us-covid-19-tests-come-back-too-late-to-be-clinically-meaningful-data-show.html\u2026",
+  "tweet_url": "https://x.com/i/web/status/1294761143739625472",
+  "image_url": "https://pbs.twimg.com/media/EffqRIJU8AAz78E?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 368,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

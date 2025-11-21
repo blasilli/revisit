@@ -1,0 +1,18 @@
+{
+  "id": "1385139728970883072",
+  "author": "Jakov Shannah",
+  "date": "2021-04-22T07:53:40.000Z",
+  "text": "After a year, something new happened",
+  "tweet_url": "https://x.com/i/web/status/1385139728970883072",
+  "image_url": "https://pbs.twimg.com/media/EzkA2HKWQAE7_sd?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 430,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

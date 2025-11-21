@@ -1,0 +1,17 @@
+{
+  "id": "1322169903718215682",
+  "author": "Alistair Haimes",
+  "date": "2020-10-30T13:34:04.000Z",
+  "text": "1st and 2nd waves (deaths with covid), Spain and UK",
+  "tweet_url": "https://x.com/i/web/status/1322169903718215682",
+  "image_url": "https://pbs.twimg.com/media/EllKYutXgAEyHUG?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 411,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

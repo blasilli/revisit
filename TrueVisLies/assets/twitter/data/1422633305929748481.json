@@ -1,0 +1,17 @@
+{
+  "id": "1422633305929748481",
+  "author": "Aaron Ginn",
+  "date": "2021-08-03T18:59:46.000Z",
+  "text": "Sweden\u2019s vaccination rate vs new cases which are mostly delta variant.",
+  "tweet_url": "https://x.com/i/web/status/1422633305929748481",
+  "image_url": "https://pbs.twimg.com/media/E741c3MVIAI8L4-?format=jpg&name=360x360",
+  "image_width": 360,
+  "image_height": 352,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Causal inference"
+    ]
+  }
+}

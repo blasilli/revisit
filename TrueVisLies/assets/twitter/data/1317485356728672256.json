@@ -1,0 +1,15 @@
+{
+  "id": "1317485356728672256",
+  "author": "TTT Live Online",
+  "date": "2020-10-17T15:19:21.000Z",
+  "text": "Data provided by Dr. Avery Hinds that shows The Epidemic Curve of Covid-19 Cases.",
+  "tweet_url": "https://x.com/i/web/status/1317485356728672256",
+  "image_url": "https://pbs.twimg.com/media/EkilZ-XXgAEdbnN?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 383,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

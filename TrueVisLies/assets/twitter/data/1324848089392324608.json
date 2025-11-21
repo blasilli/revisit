@@ -1,0 +1,17 @@
+{
+  "id": "1324848089392324608",
+  "author": "City of Rockford",
+  "date": "2020-11-06T22:56:13.000Z",
+  "text": "COVID UPDATE: The Winnebago County Health Department announced an additional 478 confirmed cases and one more death.",
+  "tweet_url": "https://x.com/i/web/status/1324848089392324608",
+  "image_url": "https://pbs.twimg.com/media/EmLOQP0VMAAxDec?format=jpg&name=small",
+  "image_width": 525,
+  "image_height": 680,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

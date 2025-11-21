@@ -1,0 +1,15 @@
+{
+  "id": "1321479198482092034",
+  "author": "Nicholas Fandos",
+  "date": "2020-10-28T15:49:27.000Z",
+  "text": "A thoroughly frightening chart of Covid hospitalizations in Wisconsin.\n\nhttps://nytimes.com/interactive/2020/us/wisconsin-coronavirus-cases.html?action=click&module=Top%20Stories&pgtype=Homepage\u2026",
+  "tweet_url": "https://x.com/i/web/status/1321479198482092034",
+  "image_url": "https://pbs.twimg.com/media/ElbWI7MXUAAJuFc?format=png&name=small",
+  "image_width": 680,
+  "image_height": 427,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

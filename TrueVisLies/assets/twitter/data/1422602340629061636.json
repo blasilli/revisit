@@ -1,0 +1,15 @@
+{
+  "id": "1422602340629061636",
+  "author": "Eric Topol",
+  "date": "2021-08-03T16:56:43.000Z",
+  "text": "Florida covid hospitalizations today are very close to peak pandemic",
+  "tweet_url": "https://x.com/i/web/status/1422602340629061636",
+  "image_url": "https://pbs.twimg.com/media/E74ZGokVEAQ-vcI?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 434,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

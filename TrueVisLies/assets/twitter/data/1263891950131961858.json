@@ -1,0 +1,17 @@
+{
+  "id": "1263891950131961858",
+  "author": "Steve Herman",
+  "date": "2020-05-22T17:58:17.000Z",
+  "text": "\"A dramatic decline across the states\" in percent positive per state, says Dr. Birx. #CoronavirusUSA",
+  "tweet_url": "https://x.com/i/web/status/1263891950131961858",
+  "image_url": "https://pbs.twimg.com/media/EYo--8qWAAAch2s?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 379,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "1382628634532384769",
+  "author": "Bruno Waterfield",
+  "date": "2021-04-15T09:35:29.000Z",
+  "text": "The power of vaccines - and letting the jabs (all of them) do their work",
+  "tweet_url": "https://x.com/i/web/status/1382628634532384769",
+  "image_url": "https://pbs.twimg.com/media/EzAVVUTWgAAPq4u?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 376,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

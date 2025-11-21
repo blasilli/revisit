@@ -1,0 +1,17 @@
+{
+  "id": "1239776019856461824",
+  "author": "Elon Musk",
+  "date": "2020-03-17T04:50:11.000Z",
+  "text": "Hydroxychloroquine probably better\nhttps://m.youtube.com/watch?feature=youtu.be&v=vE4_LsftNKM\u2026",
+  "tweet_url": "https://x.com/i/web/status/1239776019856461824",
+  "image_url": "https://pbs.twimg.com/media/ETSRtPfXgAAwEcH?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 313,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Misrepresentation of scientific studies"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "1426741102305058817",
+  "author": "\u2698JeanVotesBlue ",
+  "date": "2021-08-15T03:02:41.000Z",
+  "text": "Germany has strict mask,vaccine and testing \nUSA vs Germany Delta",
+  "tweet_url": "https://x.com/i/web/status/1426741102305058817",
+  "image_url": "https://pbs.twimg.com/media/E8zNeL_XEAEn57C?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 398,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

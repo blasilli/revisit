@@ -1,0 +1,17 @@
+{
+  "id": "1263893857080508427",
+  "author": "Aaron Rupar",
+  "date": "2020-05-22T18:05:52.000Z",
+  "text": "the coronavirus situation isn't yet noticeably improving in DC",
+  "tweet_url": "https://x.com/i/web/status/1263893857080508427",
+  "image_url": "https://pbs.twimg.com/media/EYpAwHjWAAAoQAA?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 383,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "1269008401272627211",
+  "author": "Andrew Fraser",
+  "date": "2020-06-05T20:49:14.000Z",
+  "text": "The WC graph shows active cases mirroring and then diverging from confirmed cases, as I'd expect.",
+  "tweet_url": "https://x.com/i/web/status/1269008401272627211",
+  "image_url": "https://pbs.twimg.com/media/EZxsYeOWkAE8QU4?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 593,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1324478862995214337",
+  "author": "KFDM News",
+  "date": "2020-11-05T22:29:03.000Z",
+  "text": "DEVELOPING: 29 newly confirmed COVID cases, one additional death in the Beaumont area",
+  "tweet_url": "https://x.com/i/web/status/1324478862995214337",
+  "image_url": "https://pbs.twimg.com/media/EmF-gNQW0AAFdTj?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 474,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

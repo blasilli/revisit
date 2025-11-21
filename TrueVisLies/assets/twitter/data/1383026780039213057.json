@@ -1,0 +1,18 @@
+{
+  "id": "1383026780039213057",
+  "author": "Vincent Rajkumar",
+  "date": "2021-04-16T11:57:34.000Z",
+  "text": "The vaccines are working.",
+  "tweet_url": "https://x.com/i/web/status/1383026780039213057",
+  "image_url": "https://pbs.twimg.com/media/EzF_hfTXMAUx2pa?format=jpg&name=360x360",
+  "image_width": 305,
+  "image_height": 360,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

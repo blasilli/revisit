@@ -1,0 +1,17 @@
+{
+  "id": "1418182897589047296",
+  "author": "Sub Collector, Khordha",
+  "date": "2021-07-22T12:15:26.000Z",
+  "text": "COVID-19(Phase-II) Status as on 22.07.2021.\n\n@DMKhordha",
+  "tweet_url": "https://x.com/i/web/status/1418182897589047296",
+  "image_url": "https://pbs.twimg.com/media/E65l0BVVUAMUKS0?format=jpg&name=900x900",
+  "image_width": 636,
+  "image_height": 900,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

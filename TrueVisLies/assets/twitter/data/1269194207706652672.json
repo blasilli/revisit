@@ -1,0 +1,17 @@
+{
+  "id": "1269194207706652672",
+  "author": "TheShakespeareanApe \u20bf=",
+  "date": "2020-06-06T09:07:34.000Z",
+  "text": "I think this is my best chart yet! #stockholm county #sweden excess deaths 2020 as % of population #COVID19",
+  "tweet_url": "https://x.com/i/web/status/1269194207706652672",
+  "image_url": "https://pbs.twimg.com/media/EZ0VZp3XsAETQP7?format=png&name=small",
+  "image_width": 680,
+  "image_height": 334,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

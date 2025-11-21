@@ -1,0 +1,17 @@
+{
+  "id": "1325733654325325825",
+  "author": "Chrissie",
+  "date": "2020-11-09T09:35:08.000Z",
+  "text": "This is London. 8 million people in the \"surge\" of a second wave.",
+  "tweet_url": "https://x.com/i/web/status/1325733654325325825",
+  "image_url": "https://pbs.twimg.com/media/EmXzu4fXUAEAVPo?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 499,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

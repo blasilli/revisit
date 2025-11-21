@@ -1,0 +1,18 @@
+{
+  "id": "1292184023259844608",
+  "author": "Will",
+  "date": "2020-08-08T19:40:53.000Z",
+  "text": "The #Plandemic is over!",
+  "tweet_url": "https://x.com/i/web/status/1292184023259844608",
+  "image_url": "https://pbs.twimg.com/media/Ee7CWDZXgAAi77k?format=jpg&name=medium",
+  "image_width": 682,
+  "image_height": 1200,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

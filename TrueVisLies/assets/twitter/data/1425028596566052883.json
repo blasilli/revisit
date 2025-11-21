@@ -1,0 +1,20 @@
+{
+  "id": "1425028596566052883",
+  "author": "J Chamie",
+  "date": "2021-08-10T09:37:47.000Z",
+  "text": "Are you afraid of the delta variant?\nPeople in India seem no longer.\nEarly treatment is the only way out!",
+  "tweet_url": "https://x.com/i/web/status/1425028596566052883",
+  "image_url": "https://pbs.twimg.com/media/E8a3alvX0A0Dhiq?format=png&name=small",
+  "image_width": 680,
+  "image_height": 305,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Inverted axis"
+    ],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

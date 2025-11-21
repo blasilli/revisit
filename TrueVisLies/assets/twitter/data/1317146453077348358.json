@@ -1,0 +1,18 @@
+{
+  "id": "1317146453077348358",
+  "author": "RaW InTeLL",
+  "date": "2020-10-16T16:52:40.000Z",
+  "text": "Sweden, no lockdowns, no masks, zero deaths, proof",
+  "tweet_url": "https://x.com/i/web/status/1317146453077348358",
+  "image_url": "https://pbs.twimg.com/media/EkdxtiBWAAA-4U6?format=png&name=small",
+  "image_width": 660,
+  "image_height": 360,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

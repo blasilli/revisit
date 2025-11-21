@@ -1,0 +1,15 @@
+{
+  "id": "1256139663846379526",
+  "author": "Rob Fry",
+  "date": "2020-05-01T08:33:28.000Z",
+  "text": "Explore the number of COVID-19 deaths registered in your local neighbourhood.\n\nhttps://ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsinvolvingcovid19bylocalareasanddeprivation/deathsoccurringbetween1marchand17april#middle-layer-super-output-areas\u2026",
+  "tweet_url": "https://x.com/i/web/status/1256139663846379526",
+  "image_url": "https://pbs.twimg.com/media/EW60TgFXYAEyoyS?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 506,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1424485382381576199",
+  "author": "President Roslin",
+  "date": "2021-08-08T21:39:15.000Z",
+  "text": "Louisiana has more #Covid cases than Botswana. #GetVaccinated #MaskUp",
+  "tweet_url": "https://x.com/i/web/status/1424485382381576199",
+  "image_url": "https://pbs.twimg.com/media/E8TJ52yWQAgQx5H?format=jpg&name=900x900",
+  "image_width": 720,
+  "image_height": 900,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "1417783144552480768",
+  "author": "Andrew Fraser",
+  "date": "2021-07-21T09:46:57.000Z",
+  "text": "\"doesn't essentially work\"  https://https://t.co/3gt33H1Q8f",
+  "tweet_url": "https://x.com/i/web/status/1417783144552480768",
+  "image_url": "https://pbs.twimg.com/media/E6z6K8nWEAY_qW-?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 249,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Inverted axis"
+    ],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

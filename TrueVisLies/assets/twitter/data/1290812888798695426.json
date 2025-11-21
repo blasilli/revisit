@@ -1,0 +1,18 @@
+{
+  "id": "1290812888798695426",
+  "author": "constance",
+  "date": "2020-08-05T00:52:29.000Z",
+  "text": "#HCQworks look at all the countries who allowed #Hydroxychloroquine death rates much much lower!!",
+  "tweet_url": "https://x.com/i/web/status/1290812888798695426",
+  "image_url": "https://pbs.twimg.com/media/EenjerMXgAEmpey?format=jpg&name=medium",
+  "image_width": 675,
+  "image_height": 1200,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "1315280905888464896",
+  "author": "MacIver Institute",
+  "date": "2020-10-11T13:19:39.000Z",
+  "text": "Hospitals throughout the state had a total of 876 inpatients for COVID-19 on Saturday.",
+  "tweet_url": "https://x.com/i/web/status/1315280905888464896",
+  "image_url": "https://pbs.twimg.com/media/EkDQ95iXYAAYmHj?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 324,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "1264975280277467136",
+  "author": "Alfons L\u00f3pez Tena ",
+  "date": "2020-05-25T17:43:03.000Z",
+  "text": "Coronavirus deaths during last 7 days for 1 million people, ending May 24",
+  "tweet_url": "https://x.com/i/web/status/1264975280277467136",
+  "image_url": "https://pbs.twimg.com/media/EY4YSXtXgAEB3re?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 383,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

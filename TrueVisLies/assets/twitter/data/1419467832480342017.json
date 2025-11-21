@@ -1,0 +1,15 @@
+{
+  "id": "1419467832480342017",
+  "author": "marc west",
+  "date": "2021-07-26T01:21:18.000Z",
+  "text": "Banging out the Gompertz model for NSW covid and it's doing a pretty solid job (results are not good)",
+  "tweet_url": "https://x.com/i/web/status/1419467832480342017",
+  "image_url": "https://pbs.twimg.com/media/E7L2WDIUcAASfln?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 442,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

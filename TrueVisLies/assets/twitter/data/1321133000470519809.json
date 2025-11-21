@@ -1,0 +1,15 @@
+{
+  "id": "1321133000470519809",
+  "author": "Kimberley Johnson",
+  "date": "2020-10-27T16:53:47.000Z",
+  "text": "It's weird how the COVID death chart looks like Donald's signature.",
+  "tweet_url": "https://x.com/i/web/status/1321133000470519809",
+  "image_url": "https://pbs.twimg.com/media/ElWbcfLWkAAgudi?format=png&name=small",
+  "image_width": 623,
+  "image_height": 304,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

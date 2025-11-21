@@ -1,0 +1,17 @@
+{
+  "id": "1418615521289908226",
+  "author": "Tired of being politically correct",
+  "date": "2021-07-23T16:54:31.000Z",
+  "text": "This is what they count as Covid cases.  Yes, cancer too ",
+  "tweet_url": "https://x.com/i/web/status/1418615521289908226",
+  "image_url": "https://pbs.twimg.com/media/E6_vTAqXMAQMYhV?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 526,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Issues with data validity"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "1325164755586338816",
+  "author": "Zacki",
+  "date": "2020-11-07T19:54:32.000Z",
+  "text": "Compare Sweden to its nordic neighbor - Denmark.\n\nCorona Season 2020/21",
+  "tweet_url": "https://x.com/i/web/status/1325164755586338816",
+  "image_url": "https://pbs.twimg.com/media/EmPuCkAW4AABiFK?format=png&name=small",
+  "image_width": 680,
+  "image_height": 383,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

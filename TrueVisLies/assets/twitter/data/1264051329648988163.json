@@ -1,0 +1,15 @@
+{
+  "id": "1264051329648988163",
+  "author": "Prof. Shamika Ravi",
+  "date": "2020-05-23T04:31:36.000Z",
+  "text": "COVID death rate per million people, across states of India:\n1) V high: GJ, MH, DL... compared to national average.",
+  "tweet_url": "https://x.com/i/web/status/1264051329648988163",
+  "image_url": "https://pbs.twimg.com/media/EYrP-A_XgAA9r0J?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 599,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

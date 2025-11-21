@@ -1,0 +1,18 @@
+{
+  "id": "1418221269175177216",
+  "author": "Woke Zombie ",
+  "date": "2021-07-22T14:47:54.000Z",
+  "text": "#COVID19 Freedom Day's have a 100% chance of making Covid Peak. \n\nTime for every country to have one.",
+  "tweet_url": "https://x.com/i/web/status/1418221269175177216",
+  "image_url": "https://pbs.twimg.com/media/E66Io3JVoAklUvJ?format=png&name=small",
+  "image_width": 680,
+  "image_height": 513,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}
