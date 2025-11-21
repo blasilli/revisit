@@ -94,6 +94,7 @@ function Tweet({ parameters }) {
 
   const imgUrl = `../TrueVisLies/assets/twitter/images/${tweetId}.png`;
   const dataUrl = `../TrueVisLies/assets/twitter/data/${tweetId}.json`;
+  const docUrl = `../TrueVisLies/assets/TrueVisLiesStudyDoc.pdf`;
 
   // ---- Tweet data ----
   const [tweet, setTweet] = useState(null);
@@ -404,9 +405,9 @@ function Tweet({ parameters }) {
         )}
         { /* Link for open documentation in external tab */}
         {showRhetoric && ( <p>
-          To see these desccriptions in a separate tab, open the &nbsp;
+          To see these descriptions in a separate tab, open the &nbsp;
           <a 
-            href='/TrueVisLies/assets/TrueVisLiesStudyDoc.pdf' 
+            href={docUrl} 
             target='_blank' 
             rel='noopener noreferrer'
             style={{ color: '#1da1f2', textDecoration: 'none' }}
@@ -465,9 +466,9 @@ function Tweet({ parameters }) {
         )}
         { /* Link for open documentation in external tab */}
         {showPurposes && ( <p>
-          To see these desccriptions in a separate tab, open the &nbsp;
+          To see these descriptions in a separate tab, open the &nbsp;
           <a 
-            href='/TrueVisLies/assets/TrueVisLiesStudyDoc.pdf' 
+            href={docUrl} 
             target='_blank' 
             rel='noopener noreferrer'
             style={{ color: '#1da1f2', textDecoration: 'none' }}
