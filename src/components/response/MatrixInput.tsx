@@ -170,7 +170,7 @@ export function MatrixInput({
     <>
       {prompt.length > 0 && <InputLabel prompt={prompt} required={required} index={index} enumerateQuestions={enumerateQuestions} infoText={infoText} />}
       { /* <Text c="dimmed" size="sm" mt={0}>{secondaryText}</Text> */}
-      <Text c="dimmed" size="sm" mt={0} dangerouslySetInnerHTML={{ __html: secondaryText }} />
+      <Text c="dimmed" size="sm" mt={0} dangerouslySetInnerHTML={{ __html: secondaryText ?? '' }} />
       <Box
         className="matrix-input"
         style={{
