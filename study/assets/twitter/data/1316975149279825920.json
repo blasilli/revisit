@@ -1,0 +1,15 @@
+{
+  "id": "1316975149279825920",
+  "author": "Simon Cullen",
+  "date": "2020-10-16T05:31:58.000Z",
+  "text": "Europe\u2019s Covid-19 situation is rapidly getting worse. \n\nHere is the latest chart showing steep rises in new cases:",
+  "tweet_url": "https://x.com/i/web/status/1316975149279825920",
+  "image_url": "https://pbs.twimg.com/media/EkZzJWiWAAMGPRw?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 480,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1319656369398665222",
+  "author": "zerohedge",
+  "date": "2020-10-23T15:06:11.000Z",
+  "text": "Covid deaths in context",
+  "tweet_url": "https://x.com/i/web/status/1319656369398665222",
+  "image_url": "https://pbs.twimg.com/media/ElBcd92XYAExyAw?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 413,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

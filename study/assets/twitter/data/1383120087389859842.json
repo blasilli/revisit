@@ -1,0 +1,17 @@
+{
+  "id": "1383120087389859842",
+  "author": "Deepak S",
+  "date": "2021-04-16T18:08:20.000Z",
+  "text": "Hope this comparative analysis helps everyone. Please check the image.",
+  "tweet_url": "https://x.com/i/web/status/1383120087389859842",
+  "image_url": "https://pbs.twimg.com/media/EzHUY6HUcAMerTY?format=jpg&name=900x900",
+  "image_width": 732,
+  "image_height": 900,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Unclear encoding"
+    ],
+    "ReasoningErrors": []
+  }
+}

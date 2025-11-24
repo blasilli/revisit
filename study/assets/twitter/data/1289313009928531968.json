@@ -1,0 +1,18 @@
+{
+  "id": "1289313009928531968",
+  "author": "Stephen McIntyre",
+  "date": "2020-07-31T21:32:30.000Z",
+  "text": "within Toronto, COVID in institutions, including LTCs, is almost gone.",
+  "tweet_url": "https://x.com/i/web/status/1289313009928531968",
+  "image_url": "https://pbs.twimg.com/media/EeSPV3NU0AAKTLb?format=png&name=small",
+  "image_width": 680,
+  "image_height": 352,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold",
+      "Issues with data validity"
+    ]
+  }
+}

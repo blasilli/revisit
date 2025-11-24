@@ -1,0 +1,15 @@
+{
+  "id": "1427799001743519756",
+  "author": "casey briggs",
+  "date": "2021-08-18T01:06:23.000Z",
+  "text": "NSW COVID-19 hospitalisations",
+  "tweet_url": "https://x.com/i/web/status/1427799001743519756",
+  "image_url": "https://pbs.twimg.com/media/E9CPnazVEAMN6mF?format=png&name=small",
+  "image_width": 680,
+  "image_height": 598,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

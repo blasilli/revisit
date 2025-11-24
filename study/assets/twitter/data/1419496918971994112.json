@@ -1,0 +1,18 @@
+{
+  "id": "1419496918971994112",
+  "author": "Just Keith",
+  "date": "2021-07-26T03:16:53.000Z",
+  "text": "Sweden for example... 0 new cases and never did the mandates/lockdowns.",
+  "tweet_url": "https://x.com/i/web/status/1419496918971994112",
+  "image_url": "https://pbs.twimg.com/media/E7MQ7BOXIAA9pI0?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 482,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "1313866258329239552",
+  "author": "Chris Giles",
+  "date": "2020-10-07T15:38:21.000Z",
+  "text": "The second English Covid-19  wave has now spread to 73% of local areas...",
+  "tweet_url": "https://x.com/i/web/status/1313866258329239552",
+  "image_url": "https://pbs.twimg.com/media/EjvKQY7XgAIlIHl?format=png&name=small",
+  "image_width": 596,
+  "image_height": 599,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

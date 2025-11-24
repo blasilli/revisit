@@ -1,0 +1,18 @@
+{
+  "id": "1313651883475529728",
+  "author": "Real Developments, CFA",
+  "date": "2020-10-07T01:26:30.000Z",
+  "text": "Swe-done\n\nOne country in Europe doesn\u2019t have a 2nd wave.",
+  "tweet_url": "https://x.com/i/web/status/1313651883475529728",
+  "image_url": "https://pbs.twimg.com/media/EjsHbOkVoAI60OG?format=jpg&name=small",
+  "image_width": 575,
+  "image_height": 315,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

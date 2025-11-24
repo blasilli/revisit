@@ -1,0 +1,18 @@
+{
+  "id": "1391567738389377029",
+  "author": "Alec Stapp",
+  "date": "2021-05-10T01:36:17.000Z",
+  "text": "This debate is over, right?",
+  "tweet_url": "https://x.com/i/web/status/1391567738389377029",
+  "image_url": "https://pbs.twimg.com/media/E0_XbyQXoAQFPOR?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 480,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

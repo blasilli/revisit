@@ -1,0 +1,17 @@
+{
+  "id": "1262138687443202048",
+  "author": "Bill McBride",
+  "date": "2020-05-17T21:51:27.000Z",
+  "text": "May 17 Update: US COVID-19 Test Results: Test-and-Trace Success for Smallpox https://calculatedriskblog.com/2020/05/may-17-update-us-covid-19-test-results.html\u2026",
+  "tweet_url": "https://x.com/i/web/status/1262138687443202048",
+  "image_url": "https://pbs.twimg.com/media/EYQEb9JU8AAu58A?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 395,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

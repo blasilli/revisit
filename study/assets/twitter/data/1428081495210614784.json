@@ -1,0 +1,18 @@
+{
+  "id": "1428081495210614784",
+  "author": "Trevor Quinton",
+  "date": "2021-08-18T19:48:55.000Z",
+  "text": "Israel fully jabbed Vs India using Ivermectin.\n\n#ivermectinworks",
+  "tweet_url": "https://x.com/i/web/status/1428081495210614784",
+  "image_url": "https://pbs.twimg.com/media/E9GQjTAWEAUuqnu?format=png&name=small",
+  "image_width": 680,
+  "image_height": 384,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

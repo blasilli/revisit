@@ -1,0 +1,17 @@
+{
+  "id": "1421473934055141377",
+  "author": "\u20e4djcalligraphy",
+  "date": "2021-07-31T14:12:50.000Z",
+  "text": "YOU'RE A LIAR! \n\nJackson County, CO (where you live) has a 7 day average of ZERO cases of COVID-19.",
+  "tweet_url": "https://x.com/i/web/status/1421473934055141377",
+  "image_url": "https://pbs.twimg.com/media/E7oXAn3VgAEbfRd?format=jpg&name=900x900",
+  "image_width": 676,
+  "image_height": 900,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

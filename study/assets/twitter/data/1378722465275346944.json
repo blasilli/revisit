@@ -1,0 +1,18 @@
+{
+  "id": "1378722465275346944",
+  "author": "Faheem Younus, MD",
+  "date": "2021-04-04T14:53:45.000Z",
+  "text": "Treatments and vaccines work",
+  "tweet_url": "https://x.com/i/web/status/1378722465275346944",
+  "image_url": "https://pbs.twimg.com/media/EyI0xn1XAAAWuEB?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 262,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

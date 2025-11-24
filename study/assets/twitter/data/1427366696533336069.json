@@ -1,0 +1,19 @@
+{
+  "id": "1427366696533336069",
+  "author": "Freedom Forever",
+  "date": "2021-08-16T20:28:34.000Z",
+  "text": "1 of these countries has 9% fully vaccinated the other 60% guess which one ",
+  "tweet_url": "https://x.com/i/web/status/1427366696533336069",
+  "image_url": "https://pbs.twimg.com/media/E88Gci2X0A4Jie8?format=jpg&name=small",
+  "image_width": 612,
+  "image_height": 680,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference",
+      "Issues with data validity"
+    ]
+  }
+}

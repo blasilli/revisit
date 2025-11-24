@@ -1,0 +1,18 @@
+{
+  "id": "1314061030239203328",
+  "author": "Violeta Bulc",
+  "date": "2020-10-08T04:32:18.000Z",
+  "text": "The picture tells more than 1000 words. #Covid_19 #lessonslearnt  #togetherweknow #collaboration #trustpeople",
+  "tweet_url": "https://x.com/i/web/status/1314061030239203328",
+  "image_url": "https://pbs.twimg.com/media/Ejx7ioFWkAE8g-K?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 372,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

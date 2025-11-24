@@ -1,0 +1,17 @@
+{
+  "id": "1296552227516153858",
+  "author": "Raul Gonzalez",
+  "date": "2020-08-20T20:58:34.000Z",
+  "text": "Dismiss the lowess smoothing. The SARS-CoV-2 wastewater loading is on the downswing",
+  "tweet_url": "https://x.com/i/web/status/1296552227516153858",
+  "image_url": "https://pbs.twimg.com/media/Ef5GqQvWsAEwZY1?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 340,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

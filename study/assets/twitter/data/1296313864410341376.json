@@ -1,0 +1,17 @@
+{
+  "id": "1296313864410341376",
+  "author": "Latimer Alder",
+  "date": "2020-08-20T05:11:24.000Z",
+  "text": "Still no Second Wave.\n\nSo why are we still restricted?",
+  "tweet_url": "https://x.com/i/web/status/1296313864410341376",
+  "image_url": "https://pbs.twimg.com/media/Ef1uf1JWsAE2hVp?format=png&name=small",
+  "image_width": 680,
+  "image_height": 480,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1318623567932776452",
+  "author": "Daily Nation",
+  "date": "2020-10-20T18:42:12.000Z",
+  "text": "Covid-19: Kenya Today. \n\n#Covid19 #NationNewsplex\n\nhttp://bit.ly/2R8Mk6J",
+  "tweet_url": "https://x.com/i/web/status/1318623567932776452",
+  "image_url": "https://pbs.twimg.com/media/EkyxFE4WkAQOTgS?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 561,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

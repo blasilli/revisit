@@ -1,0 +1,18 @@
+{
+  "id": "1386267658862092288",
+  "author": "Bruno Ma\u00e7\u00e3es",
+  "date": "2021-04-25T10:35:40.000Z",
+  "text": "In February the pandemic took different turns in the US and Europe",
+  "tweet_url": "https://x.com/i/web/status/1386267658862092288",
+  "image_url": "https://pbs.twimg.com/media/Ez0DFWjWUAEjJlr?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 626,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "1322893643749986306",
+  "author": "Ed Hawkins",
+  "date": "2020-11-01T13:29:57.000Z",
+  "text": "Daily COVID-19 hospitalisations in England #dataviz \n\nData: https://coronavirus.data.gov.uk/healthcare",
+  "tweet_url": "https://x.com/i/web/status/1322893643749986306",
+  "image_url": "https://pbs.twimg.com/media/ElvchghWMAIlT6R?format=png&name=small",
+  "image_width": 680,
+  "image_height": 382,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

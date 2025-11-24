@@ -1,0 +1,17 @@
+{
+  "id": "1425432752460075008",
+  "author": "George Monks, M.D.",
+  "date": "2021-08-11T12:23:46.000Z",
+  "text": "The unvaccinated are driving the current Covid-19 surge. https://vox.com/22602039/breakthrough-cases-covid-19-delta-variant-masks-vaccines\u2026",
+  "tweet_url": "https://x.com/i/web/status/1425432752460075008",
+  "image_url": "https://pbs.twimg.com/media/E8gniH1X0AgAClC?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 678,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Failure to account for statistical nuance"
+    ]
+  }
+}

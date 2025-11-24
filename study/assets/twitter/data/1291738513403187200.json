@@ -1,0 +1,18 @@
+{
+  "id": "1291738513403187200",
+  "author": "Matt Margolis",
+  "date": "2020-08-07T14:10:35.000Z",
+  "text": "The impact of left's war on hydroxychloroquine, in one graph. (via http://c19study.com)",
+  "tweet_url": "https://x.com/i/web/status/1291738513403187200",
+  "image_url": "https://pbs.twimg.com/media/Ee0tLwHXkAEjk5p?format=png&name=small",
+  "image_width": 667,
+  "image_height": 482,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

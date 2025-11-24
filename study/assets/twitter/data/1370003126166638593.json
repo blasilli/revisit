@@ -1,0 +1,18 @@
+{
+  "id": "1370003126166638593",
+  "author": "Milhouse Van Houten ",
+  "date": "2021-03-11T13:26:13.000Z",
+  "text": "Mortality in Canada (thread):\n\nHere we have the total number of deaths in Canada over the past five years.",
+  "tweet_url": "https://x.com/i/web/status/1370003126166638593",
+  "image_url": "https://pbs.twimg.com/media/EwM4zuWWEAAyDKB?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 340,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

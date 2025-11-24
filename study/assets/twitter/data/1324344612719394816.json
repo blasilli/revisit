@@ -1,0 +1,15 @@
+{
+  "id": "1324344612719394816",
+  "author": "Teddy Vallee",
+  "date": "2020-11-05T13:35:35.000Z",
+  "text": "Covid cases via FS",
+  "tweet_url": "https://x.com/i/web/status/1324344612719394816",
+  "image_url": "https://pbs.twimg.com/media/EmEEZ1HWMAEGMIq?format=png&name=small",
+  "image_width": 661,
+  "image_height": 517,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

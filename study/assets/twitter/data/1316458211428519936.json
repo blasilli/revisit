@@ -1,0 +1,15 @@
+{
+  "id": "1316458211428519936",
+  "author": "Jeremy Horpedahl ",
+  "date": "2020-10-14T19:17:50.000Z",
+  "text": "The EU has now caught up to the US in confirmed COVID cases (yes, it's adjusted for population)",
+  "tweet_url": "https://x.com/i/web/status/1316458211428519936",
+  "image_url": "https://pbs.twimg.com/media/EkT_db2XsAM_Gtz?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 480,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

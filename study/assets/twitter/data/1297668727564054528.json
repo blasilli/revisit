@@ -1,0 +1,17 @@
+{
+  "id": "1297668727564054528",
+  "author": "COVIDBot",
+  "date": "2020-08-23T22:55:08.000Z",
+  "text": "Evolution of number of cases for Argentina, with a total confirmed of 336,802",
+  "tweet_url": "https://x.com/i/web/status/1297668727564054528",
+  "image_url": "https://pbs.twimg.com/media/EgI-1IwXYAAdb_9?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 352,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

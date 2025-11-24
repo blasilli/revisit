@@ -1,0 +1,15 @@
+{
+  "id": "1371845063781855243",
+  "author": "\u0637\u0644\u0627\u0644",
+  "date": "2021-03-16T15:25:25.000Z",
+  "text": "#G20 countries vaccine rollout (per 100 people) so far.",
+  "tweet_url": "https://x.com/i/web/status/1371845063781855243",
+  "image_url": "https://pbs.twimg.com/media/EwnFwWbW8AEix_C?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 480,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

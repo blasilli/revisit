@@ -1,0 +1,18 @@
+{
+  "id": "1382061286301782020",
+  "author": "James Melville ",
+  "date": "2021-04-13T20:01:02.000Z",
+  "text": "The same applies to lockdown California versus unlocked Florida.",
+  "tweet_url": "https://x.com/i/web/status/1382061286301782020",
+  "image_url": "https://pbs.twimg.com/media/Ey4RaU2WQAQXToZ?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 396,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

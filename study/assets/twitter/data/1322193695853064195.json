@@ -1,0 +1,19 @@
+{
+  "id": "1322193695853064195",
+  "author": "Real Developments, CFA",
+  "date": "2020-10-30T15:08:36.000Z",
+  "text": "Florida wide open since 9/25.  \n\nVisits to the ER with Covid are completely flat.",
+  "tweet_url": "https://x.com/i/web/status/1322193695853064195",
+  "image_url": "https://pbs.twimg.com/media/EllgJa7VoAAahUb?format=jpg&name=medium",
+  "image_width": 675,
+  "image_height": 1200,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Setting an arbitrary threshold",
+      "Causal inference"
+    ]
+  }
+}

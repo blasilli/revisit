@@ -1,0 +1,17 @@
+{
+  "id": "1312857478695129095",
+  "author": "China Daily",
+  "date": "2020-10-04T20:49:49.000Z",
+  "text": "#LATEST Global COVID-19 cases surpassed 35 million on Sunday, according to data from Johns Hopkins University.",
+  "tweet_url": "https://x.com/i/web/status/1312857478695129095",
+  "image_url": "https://pbs.twimg.com/media/Ejg056BXYAAfSRS?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 382,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

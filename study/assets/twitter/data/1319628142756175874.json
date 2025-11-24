@@ -1,0 +1,18 @@
+{
+  "id": "1319628142756175874",
+  "author": "Tom 1876",
+  "date": "2020-10-23T13:14:01.000Z",
+  "text": "Spot the country that failed to lockdown....",
+  "tweet_url": "https://x.com/i/web/status/1319628142756175874",
+  "image_url": "https://pbs.twimg.com/media/ElBCzJDWMAIy3Pq?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 389,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "1290559478472081408",
+  "author": "Sqwii",
+  "date": "2020-08-04T08:05:31.000Z",
+  "text": "Scary second wave",
+  "tweet_url": "https://x.com/i/web/status/1290559478472081408",
+  "image_url": "https://pbs.twimg.com/media/Eej89aLWAAEle_y?format=png&name=small",
+  "image_width": 680,
+  "image_height": 476,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

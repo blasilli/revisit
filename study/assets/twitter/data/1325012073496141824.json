@@ -1,0 +1,15 @@
+{
+  "id": "1325012073496141824",
+  "author": "Dr Duncan Robertson",
+  "date": "2020-11-07T09:47:50.000Z",
+  "text": "Colourblind-safe heatmap of detected Covid-19 cases in England.  Data from @PHE_uk",
+  "tweet_url": "https://x.com/i/web/status/1325012073496141824",
+  "image_url": "https://pbs.twimg.com/media/EmNfENAW4AE74kQ?format=png&name=small",
+  "image_width": 680,
+  "image_height": 324,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

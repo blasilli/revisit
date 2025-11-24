@@ -1,0 +1,17 @@
+{
+  "id": "1387804242258259968",
+  "author": "Juergen Amft",
+  "date": "2021-04-29T16:21:30.000Z",
+  "text": "Canada, Covid, Vax vs ICU",
+  "tweet_url": "https://x.com/i/web/status/1387804242258259968",
+  "image_url": "https://pbs.twimg.com/media/E0J4g6FVIAQV3iq?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 336,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

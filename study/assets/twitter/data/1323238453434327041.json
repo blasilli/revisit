@@ -1,0 +1,17 @@
+{
+  "id": "1323238453434327041",
+  "author": "Mail+",
+  "date": "2020-11-02T12:20:06.000Z",
+  "text": "Apocalyptic forecast of 4,000 coronavirus deaths a day could be FIVE TIMES too high https://trib.al/44F1v7x",
+  "tweet_url": "https://x.com/i/web/status/1323238453434327041",
+  "image_url": "https://pbs.twimg.com/media/El0WXHvXgAAi2Zf?format=jpg&name=small",
+  "image_width": 636,
+  "image_height": 382,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

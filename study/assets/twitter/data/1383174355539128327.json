@@ -1,0 +1,20 @@
+{
+  "id": "1383174355539128327",
+  "author": "Neil Stone",
+  "date": "2021-04-16T21:43:59.000Z",
+  "text": "Vaccines go up.\nCases go down.\n\n#VaccinesWork #Israel",
+  "tweet_url": "https://x.com/i/web/status/1383174355539128327",
+  "image_url": "https://pbs.twimg.com/media/EzIFvlTWYAMBK04?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 363,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

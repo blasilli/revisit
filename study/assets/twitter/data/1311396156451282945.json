@@ -1,0 +1,18 @@
+{
+  "id": "1311396156451282945",
+  "author": "Dave Collum",
+  "date": "2020-09-30T20:03:02.000Z",
+  "text": "Sweden: four days now with zero deaths. Get that vaccine moving because the demand for it might go away!",
+  "tweet_url": "https://x.com/i/web/status/1311396156451282945",
+  "image_url": "https://pbs.twimg.com/media/EjMDz3bWkAQ3oVF?format=png&name=small",
+  "image_width": 680,
+  "image_height": 432,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

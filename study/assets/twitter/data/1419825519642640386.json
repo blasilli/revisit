@@ -1,0 +1,15 @@
+{
+  "id": "1419825519642640386",
+  "author": "10 News Sydney",
+  "date": "2021-07-27T01:02:37.000Z",
+  "text": "#Breaking: NSW has recorded 172 new local cases of COVID-19.",
+  "tweet_url": "https://x.com/i/web/status/1419825519642640386",
+  "image_url": "https://pbs.twimg.com/media/E7Q7isUVoAIWHXT?format=jpg&name=900x900",
+  "image_width": 720,
+  "image_height": 900,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

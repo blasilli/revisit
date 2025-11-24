@@ -1,0 +1,18 @@
+{
+  "id": "1325436173804859394",
+  "author": "Peter Jukes",
+  "date": "2020-11-08T13:53:03.000Z",
+  "text": "While Johnson\u2019s UK remains a Rump Trumpocracy, our Coronavirus infections are now overtaking the US.",
+  "tweet_url": "https://x.com/i/web/status/1325436173804859394",
+  "image_url": "https://pbs.twimg.com/media/EmTlLLFXUAA_e33?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 661,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

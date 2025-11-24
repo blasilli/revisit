@@ -1,0 +1,15 @@
+{
+  "id": "1322967924974518278",
+  "author": "Bliss",
+  "date": "2020-11-01T18:25:07.000Z",
+  "text": "Here\u2019s the % of beds occupied by Covid positive patients in each NHS england trust",
+  "tweet_url": "https://x.com/i/web/status/1322967924974518278",
+  "image_url": "https://pbs.twimg.com/media/ElwgT6dXgAIxXNp?format=jpg&name=small",
+  "image_width": 610,
+  "image_height": 680,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

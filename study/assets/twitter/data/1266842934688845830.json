@@ -1,0 +1,15 @@
+{
+  "id": "1266842934688845830",
+  "author": "omar r quraishi",
+  "date": "2020-05-30T21:24:27.000Z",
+  "text": "Pakistan has the highest mortality rate from COVID-19 per capita in South Asia",
+  "tweet_url": "https://x.com/i/web/status/1266842934688845830",
+  "image_url": "https://pbs.twimg.com/media/EZS67fbXkAQxVUH?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 483,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

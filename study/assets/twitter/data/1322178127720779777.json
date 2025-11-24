@@ -1,0 +1,15 @@
+{
+  "id": "1322178127720779777",
+  "author": "Bill Neidhardt",
+  "date": "2020-10-30T14:06:45.000Z",
+  "text": "today's COVID-19 indicators for NYC",
+  "tweet_url": "https://x.com/i/web/status/1322178127720779777",
+  "image_url": "https://pbs.twimg.com/media/EllR-CtXUAAROn2?format=jpg&name=360x360",
+  "image_width": 360,
+  "image_height": 201,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

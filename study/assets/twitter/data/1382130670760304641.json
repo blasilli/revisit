@@ -1,0 +1,18 @@
+{
+  "id": "1382130670760304641",
+  "author": "Eric",
+  "date": "2021-04-14T00:36:45.000Z",
+  "text": "Iowa ended all COVID restrictions on February 7th, or almost five \u201ctwo weeks\u201des ago",
+  "tweet_url": "https://x.com/i/web/status/1382130670760304641",
+  "image_url": "https://pbs.twimg.com/media/Ey5QhRaWUAMbxtP?format=jpg&name=small",
+  "image_width": 661,
+  "image_height": 680,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

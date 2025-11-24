@@ -1,0 +1,17 @@
+{
+  "id": "1427326592251043846",
+  "author": "Emily A. The Spirit of Jezebel",
+  "date": "2021-08-16T17:49:12.000Z",
+  "text": "17% of people in St. Louis area hospitals who have tested positive for COVID-19 are vaccinated. /end",
+  "tweet_url": "https://x.com/i/web/status/1427326592251043846",
+  "image_url": "https://pbs.twimg.com/media/E87h-F2XMAIrYOu?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 384,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Failure to account for statistical nuance"
+    ]
+  }
+}

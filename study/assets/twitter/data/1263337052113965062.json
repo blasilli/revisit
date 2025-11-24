@@ -1,0 +1,15 @@
+{
+  "id": "1263337052113965062",
+  "author": "Latimer Alder",
+  "date": "2020-05-21T05:13:19.000Z",
+  "text": "Please look at this chart from NHS England\n\nAny comments about UK's Corona strategy?",
+  "tweet_url": "https://x.com/i/web/status/1263337052113965062",
+  "image_url": "https://pbs.twimg.com/media/EYhGT-eWAAIfsCz?format=png&name=small",
+  "image_width": 680,
+  "image_height": 453,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

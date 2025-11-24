@@ -1,0 +1,15 @@
+{
+  "id": "1378005751336214538",
+  "author": "The People's Medicines Alliance",
+  "date": "2021-04-02T15:25:47.000Z",
+  "text": "Global vaccine distribution:\n\nRich countries: 86%\nPoor counties: 0.1%\n\n",
+  "tweet_url": "https://x.com/i/web/status/1378005751336214538",
+  "image_url": "https://pbs.twimg.com/media/Ex-oQVTXMAUuhB0?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 328,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

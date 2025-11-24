@@ -1,0 +1,17 @@
+{
+  "id": "1425954703112871936",
+  "author": "Andrew S - Face! ",
+  "date": "2021-08-12T22:57:48.000Z",
+  "text": "Only if you mean there isn't one single sequence that is \"The Delta Variant\"",
+  "tweet_url": "https://x.com/i/web/status/1425954703112871936",
+  "image_url": "https://pbs.twimg.com/media/E8oCPuzXIAo0fYb?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 506,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Causal inference"
+    ]
+  }
+}

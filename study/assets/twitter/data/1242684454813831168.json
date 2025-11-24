@@ -1,0 +1,17 @@
+{
+  "id": "1242684454813831168",
+  "author": "Revenge of the Ninja",
+  "date": "2020-03-25T05:27:16.000Z",
+  "text": "Have you figured out the #COVID\u30fc19 map and the #sealedindictments map are similar yet?\n#StormIsUponUs\n#Qanon",
+  "tweet_url": "https://x.com/i/web/status/1242684454813831168",
+  "image_url": "https://pbs.twimg.com/media/ET7m63qU4AERCTG?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 523,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

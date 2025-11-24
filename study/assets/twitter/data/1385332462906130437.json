@@ -1,0 +1,15 @@
+{
+  "id": "1385332462906130437",
+  "author": "Scott Lincicome",
+  "date": "2021-04-22T20:39:32.000Z",
+  "text": "This is great: \"Vaccines are working: charts that show the Covid endgame\" https://ft.com/content/d71729a3-72e8-490c-bd7e-757027f9b226\u2026",
+  "tweet_url": "https://x.com/i/web/status/1385332462906130437",
+  "image_url": "https://pbs.twimg.com/media/EzmwdrvWYAsN9o9?format=png&name=360x360",
+  "image_width": 360,
+  "image_height": 198,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

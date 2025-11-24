@@ -1,0 +1,15 @@
+{
+  "id": "1314248600667459584",
+  "author": "Gavan Reilly",
+  "date": "2020-10-08T16:57:38.000Z",
+  "text": "#COVID19ireland cases by county, 14 days up to Tuesday 6 October",
+  "tweet_url": "https://x.com/i/web/status/1314248600667459584",
+  "image_url": "https://pbs.twimg.com/media/Ej0mIqeWoAUEDhR?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 334,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1382706414334963712",
+  "author": "J.P. Tasker",
+  "date": "2021-04-15T14:44:33.000Z",
+  "text": "Based on these graphs, the feds are expecting 3.2 million more vaccine doses will be delivered by month's end.",
+  "tweet_url": "https://x.com/i/web/status/1382706414334963712",
+  "image_url": "https://pbs.twimg.com/media/EzBb1UCXAAEpJ4y?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 383,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

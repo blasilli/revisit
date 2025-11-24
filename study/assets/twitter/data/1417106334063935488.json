@@ -1,0 +1,17 @@
+{
+  "id": "1417106334063935488",
+  "author": "Mark Changizi",
+  "date": "2021-07-19T12:57:33.000Z",
+  "text": "A reminder of the kind of science illiteracy and irresponsibility that led to mass hysteria last March of 2020.",
+  "tweet_url": "https://x.com/i/web/status/1417106334063935488",
+  "image_url": "https://pbs.twimg.com/media/E6qSrs_WQAAP2nF?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 680,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Misrepresentation of scientific studies"
+    ]
+  }
+}

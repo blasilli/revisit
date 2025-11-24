@@ -1,0 +1,20 @@
+{
+  "id": "1317882131729833985",
+  "author": "Alistair Haimes",
+  "date": "2020-10-18T17:35:59.000Z",
+  "text": "Blue is first wave, orange is second wave.  https://x.com/thetimes/statu/thetimes/status/1317881565322579969\u2026",
+  "tweet_url": "https://x.com/i/web/status/1317882131729833985",
+  "image_url": "https://pbs.twimg.com/media/EkoOvd0WkAAygPS?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 352,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

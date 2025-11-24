@@ -1,0 +1,17 @@
+{
+  "id": "1375442021989679105",
+  "author": "Benazir Shah",
+  "date": "2021-03-26T13:38:27.000Z",
+  "text": "Lahore\u2019s positivity 23.2% \nRawalpindi 11.7% \nPeshawar 21.2%\n\nData via WHO on March 25",
+  "tweet_url": "https://x.com/i/web/status/1375442021989679105",
+  "image_url": "https://pbs.twimg.com/media/ExaNOHqXEAA9QwJ?format=jpg&name=small",
+  "image_width": 669,
+  "image_height": 524,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Inverted axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

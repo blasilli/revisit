@@ -1,0 +1,17 @@
+{
+  "id": "1245389809440428033",
+  "author": "Abu Iyaad",
+  "date": "2020-04-01T16:37:23.000Z",
+  "text": "\"Is coronavirus causing the deaths?\" and \"Chances of dying from coronavirus v normal annual risk\" (UK), 1 April 2020",
+  "tweet_url": "https://x.com/i/web/status/1245389809440428033",
+  "image_url": "https://pbs.twimg.com/media/EUh720VX0AU07B2?format=png&name=360x360",
+  "image_width": 331,
+  "image_height": 360,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Misrepresentation of scientific studies"
+    ]
+  }
+}

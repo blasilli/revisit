@@ -1,0 +1,15 @@
+{
+  "id": "1421194838268067845",
+  "author": "Amir Argoetti",
+  "date": "2021-07-30T19:43:48.000Z",
+  "text": "And here is an up to date data from Israel.\nNew severe cases normalized to 1M, by age.",
+  "tweet_url": "https://x.com/i/web/status/1421194838268067845",
+  "image_url": "https://pbs.twimg.com/media/E7kZBteXEAQnezv?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 456,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

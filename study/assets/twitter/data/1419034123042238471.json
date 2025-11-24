@@ -1,0 +1,17 @@
+{
+  "id": "1419034123042238471",
+  "author": "Charles Gaba ",
+  "date": "2021-07-24T20:37:53.000Z",
+  "text": "(sigh)",
+  "tweet_url": "https://x.com/i/web/status/1419034123042238471",
+  "image_url": "https://pbs.twimg.com/media/E7Fr-33XoAEEix-?format=jpg&name=900x900",
+  "image_width": 695,
+  "image_height": 900,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

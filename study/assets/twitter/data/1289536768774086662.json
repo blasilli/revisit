@@ -1,0 +1,17 @@
+{
+  "id": "1289536768774086662",
+  "author": "TruckDriverHiro",
+  "date": "2020-08-01T12:21:38.000Z",
+  "text": "A pandemic of the novel coronavirus has now killed more than 679,000 people worldwide.",
+  "tweet_url": "https://x.com/i/web/status/1289536768774086662",
+  "image_url": "https://pbs.twimg.com/media/EeVa2gyU0AU2sgq?format=jpg&name=360x360",
+  "image_width": 303,
+  "image_height": 360,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

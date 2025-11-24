@@ -1,0 +1,17 @@
+{
+  "id": "1260979813847711745",
+  "author": "Aisi Taisi Democracy",
+  "date": "2020-05-14T17:06:30.000Z",
+  "text": "Covid cases to come down to zero by tomorrow night in #DholeraSmartCity",
+  "tweet_url": "https://x.com/i/web/status/1260979813847711745",
+  "image_url": "https://pbs.twimg.com/media/EX_mcKqU0AE7FPP?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 429,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

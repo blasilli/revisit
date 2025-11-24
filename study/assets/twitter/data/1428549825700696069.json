@@ -1,0 +1,18 @@
+{
+  "id": "1428549825700696069",
+  "author": "The_Real_Fly",
+  "date": "2021-08-20T02:49:54.000Z",
+  "text": "HINT: it\u2019s not the masks",
+  "tweet_url": "https://x.com/i/web/status/1428549825700696069",
+  "image_url": "https://pbs.twimg.com/media/E9M6ftRXIAITS_1?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 384,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

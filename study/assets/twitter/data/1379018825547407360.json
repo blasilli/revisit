@@ -1,0 +1,17 @@
+{
+  "id": "1379018825547407360",
+  "author": "Juergen Amft",
+  "date": "2021-04-05T10:31:23.000Z",
+  "text": "Canada, Covid, Hospitalizations. Certainly nothing like what Dr Tam's doom-and-gloom model said would happen.",
+  "tweet_url": "https://x.com/i/web/status/1379018825547407360",
+  "image_url": "https://pbs.twimg.com/media/EyNCKSeVgAEdKIk?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 339,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

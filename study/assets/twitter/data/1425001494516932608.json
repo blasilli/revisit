@@ -1,0 +1,17 @@
+{
+  "id": "1425001494516932608",
+  "author": "manopsi",
+  "date": "2021-08-10T07:50:06.000Z",
+  "text": "Pandemic of the unvaccinated",
+  "tweet_url": "https://x.com/i/web/status/1425001494516932608",
+  "image_url": "https://pbs.twimg.com/media/E8afTEbVkAMl249?format=jpg&name=900x900",
+  "image_width": 589,
+  "image_height": 900,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Causal inference"
+    ]
+  }
+}

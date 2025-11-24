@@ -1,0 +1,18 @@
+{
+  "id": "1251149393635377152",
+  "author": "Larry Madowo",
+  "date": "2020-04-17T14:03:55.000Z",
+  "text": "The Financial Times is doing the Lord's work with these coronavirus visualizations. We've hit peak nerd",
+  "tweet_url": "https://x.com/i/web/status/1251149393635377152",
+  "image_url": "https://pbs.twimg.com/media/EVz4VlBU0AAwMhq?format=jpg&name=360x360",
+  "image_width": 360,
+  "image_height": 197,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume",
+      "Inverted axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

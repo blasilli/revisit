@@ -1,0 +1,18 @@
+{
+  "id": "1290798344080633857",
+  "author": "The Long View",
+  "date": "2020-08-04T23:54:41.000Z",
+  "text": "Sweden deaths per day....",
+  "tweet_url": "https://x.com/i/web/status/1290798344080633857",
+  "image_url": "https://pbs.twimg.com/media/EenWMHmX0AUbjvb?format=png&name=small",
+  "image_width": 680,
+  "image_height": 447,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

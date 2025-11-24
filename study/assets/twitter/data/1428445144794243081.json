@@ -1,0 +1,18 @@
+{
+  "id": "1428445144794243081",
+  "author": "Dr. Carlos Chaccour ",
+  "date": "2021-08-19T19:53:56.000Z",
+  "text": "Vaccines work.\n\nA Spanish story in three acts.",
+  "tweet_url": "https://x.com/i/web/status/1428445144794243081",
+  "image_url": "https://pbs.twimg.com/media/E9LbK5fXMAMFT0J?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 480,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

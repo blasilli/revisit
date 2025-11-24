@@ -1,0 +1,18 @@
+{
+  "id": "1425592311942205440",
+  "author": "David Windt",
+  "date": "2021-08-11T21:20:27.000Z",
+  "text": "Cool story.\n",
+  "tweet_url": "https://x.com/i/web/status/1425592311942205440",
+  "image_url": "https://pbs.twimg.com/media/E8i4o_nXIAImxsk?format=jpg&name=small",
+  "image_width": 496,
+  "image_height": 680,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

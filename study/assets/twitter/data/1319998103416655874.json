@@ -1,0 +1,17 @@
+{
+  "id": "1319998103416655874",
+  "author": "Mike Padawer",
+  "date": "2020-10-24T13:44:06.000Z",
+  "text": "COVID-19 cured influenza.....",
+  "tweet_url": "https://x.com/i/web/status/1319998103416655874",
+  "image_url": "https://pbs.twimg.com/media/ElGTR0LXIAgDYoE?format=jpg&name=small",
+  "image_width": 625,
+  "image_height": 464,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Issues with data validity"
+    ]
+  }
+}

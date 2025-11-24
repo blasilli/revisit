@@ -1,0 +1,20 @@
+{
+  "id": "1321804455629783040",
+  "author": "Mark Elliott (markmobility@bsky.social)",
+  "date": "2020-10-29T13:21:54.000Z",
+  "text": "Siri, show me a map that illustrates how poorly Trump has managed COVID.",
+  "tweet_url": "https://x.com/i/web/status/1321804455629783040",
+  "image_url": "https://pbs.twimg.com/media/Elf-GrEXgAAVO6F?format=png&name=small",
+  "image_width": 485,
+  "image_height": 282,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume",
+      "Inappropriate encoding"
+    ],
+    "ReasoningErrors": [
+      "Incorrect reading of chart"
+    ]
+  }
+}

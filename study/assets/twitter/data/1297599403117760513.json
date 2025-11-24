@@ -1,0 +1,17 @@
+{
+  "id": "1297599403117760513",
+  "author": "Alistair Haimes",
+  "date": "2020-08-23T18:19:40.000Z",
+  "text": "The chart that should really be front page news.",
+  "tweet_url": "https://x.com/i/web/status/1297599403117760513",
+  "image_url": "https://pbs.twimg.com/media/EgH_sbSWAAEYFhK?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 414,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

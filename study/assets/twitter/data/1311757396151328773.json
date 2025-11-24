@@ -1,0 +1,18 @@
+{
+  "id": "1311757396151328773",
+  "author": "Paul Krugman",
+  "date": "2020-10-01T19:58:29.000Z",
+  "text": "Covid metrics in Wisconsin, where Trump is holding mass rallies. Cases on the left, hospitalizations on the right.",
+  "tweet_url": "https://x.com/i/web/status/1311757396151328773",
+  "image_url": "https://pbs.twimg.com/media/EjRMRVTWsAED8UA?format=png&name=small",
+  "image_width": 509,
+  "image_height": 476,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

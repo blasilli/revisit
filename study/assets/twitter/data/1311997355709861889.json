@@ -1,0 +1,17 @@
+{
+  "id": "1311997355709861889",
+  "author": "Hawksmoor",
+  "date": "2020-10-02T11:51:59.000Z",
+  "text": "Today\u2019s \n@ONS\n survey ",
+  "tweet_url": "https://x.com/i/web/status/1311997355709861889",
+  "image_url": "https://pbs.twimg.com/media/EjUmo6sXcAAkhEq?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 485,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

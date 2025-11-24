@@ -1,0 +1,17 @@
+{
+  "id": "1426301442478919680",
+  "author": "Dr. Kelly Shanahan",
+  "date": "2021-08-13T21:55:37.000Z",
+  "text": "Maybe we need more infographics like this for those in the back. #COVID19 #GetVaccinated #MaskUp",
+  "tweet_url": "https://x.com/i/web/status/1426301442478919680",
+  "image_url": "https://pbs.twimg.com/media/E8s9mj2UUAkPc6S?format=jpg&name=900x900",
+  "image_width": 728,
+  "image_height": 900,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Failure to account for statistical nuance"
+    ]
+  }
+}

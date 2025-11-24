@@ -1,0 +1,17 @@
+{
+  "id": "1428130174298583044",
+  "author": "Kommissar",
+  "date": "2021-08-18T23:02:21.000Z",
+  "text": "Sweden is fine,  no masks, no lockdown, no fascism.",
+  "tweet_url": "https://x.com/i/web/status/1428130174298583044",
+  "image_url": "https://pbs.twimg.com/media/E9G80yvVgAIkMmu?format=png&name=small",
+  "image_width": 680,
+  "image_height": 399,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

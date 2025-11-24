@@ -1,0 +1,18 @@
+{
+  "id": "1419827730682720264",
+  "author": "Woke Zombie ",
+  "date": "2021-07-27T01:11:24.000Z",
+  "text": "#US #COVID19 The narrative and scare mongering is about to fall apart.",
+  "tweet_url": "https://x.com/i/web/status/1419827730682720264",
+  "image_url": "https://pbs.twimg.com/media/E7Q9sUCXsAIVC1f?format=png&name=900x900",
+  "image_width": 694,
+  "image_height": 320,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

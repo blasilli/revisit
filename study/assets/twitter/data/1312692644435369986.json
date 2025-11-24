@@ -1,0 +1,17 @@
+{
+  "id": "1312692644435369986",
+  "author": "Josh tweets Deeds not Words ",
+  "date": "2020-10-04T09:54:49.000Z",
+  "text": "Update on how that infamous Whitty-Vallance projection is faring against actual data.\n\n#Covid19UK | #COVID19",
+  "tweet_url": "https://x.com/i/web/status/1312692644435369986",
+  "image_url": "https://pbs.twimg.com/media/Ejee75_XgAAMbiC?format=jpg&name=small",
+  "image_width": 608,
+  "image_height": 481,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

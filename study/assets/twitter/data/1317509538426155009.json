@@ -1,0 +1,17 @@
+{
+  "id": "1317509538426155009",
+  "author": "MyGovIndia",
+  "date": "2020-10-17T16:55:26.000Z",
+  "text": "India notices a steady rise in the percentage of recovered cases. #Unite2FightCorona #IndiaFightsCorona",
+  "tweet_url": "https://x.com/i/web/status/1317509538426155009",
+  "image_url": "https://pbs.twimg.com/media/Eki7HmbVcAA2naL?format=jpg&name=small",
+  "image_width": 612,
+  "image_height": 680,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Truncated axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

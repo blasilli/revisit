@@ -1,0 +1,17 @@
+{
+  "id": "1294310002262446081",
+  "author": "Jason",
+  "date": "2020-08-14T16:28:46.000Z",
+  "text": "Respiratory deaths at 10 year low!",
+  "tweet_url": "https://x.com/i/web/status/1294310002262446081",
+  "image_url": "https://pbs.twimg.com/media/EfZP42ZX0AMJW0J?format=png&name=small",
+  "image_width": 680,
+  "image_height": 567,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Truncated axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

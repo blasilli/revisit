@@ -1,0 +1,15 @@
+{
+  "id": "1311365749588611079",
+  "author": "Governor Mike DeWine",
+  "date": "2020-09-30T18:02:13.000Z",
+  "text": "Today's updated #COVID19 snapshot. \n\nMore detailed data can be found at http://coronavirus.ohio.gov",
+  "tweet_url": "https://x.com/i/web/status/1311365749588611079",
+  "image_url": "https://pbs.twimg.com/media/EjLn_z4WsAICZVQ?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 386,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

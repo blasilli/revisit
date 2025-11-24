@@ -1,0 +1,18 @@
+{
+  "id": "1424785196033794051",
+  "author": "Ben",
+  "date": "2021-08-09T17:30:36.000Z",
+  "text": "San Francisco, 85% eligible vaxxed is seeing an case all time high!\n\n#Covid #Covid19 #Corona #Coronavirus",
+  "tweet_url": "https://x.com/i/web/status/1424785196033794051",
+  "image_url": "https://pbs.twimg.com/media/E8XacbsVoAEFtBO?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 434,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

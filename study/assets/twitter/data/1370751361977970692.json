@@ -1,0 +1,17 @@
+{
+  "id": "1370751361977970692",
+  "author": "Bruno Ma\u00e7\u00e3es",
+  "date": "2021-03-13T14:59:26.000Z",
+  "text": "Two different pandemics in EU and US since the vaccines",
+  "tweet_url": "https://x.com/i/web/status/1370751361977970692",
+  "image_url": "https://pbs.twimg.com/media/EwXjFyAVcAIjvm-?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 644,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Causal inference"
+    ]
+  }
+}

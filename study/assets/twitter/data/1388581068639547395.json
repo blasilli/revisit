@@ -1,0 +1,17 @@
+{
+  "id": "1388581068639547395",
+  "author": "Hold2",
+  "date": "2021-05-01T19:48:20.000Z",
+  "text": "Same.",
+  "tweet_url": "https://x.com/i/web/status/1388581068639547395",
+  "image_url": "https://pbs.twimg.com/media/E0U7H4cWYAEesJc?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 280,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Causal inference"
+    ]
+  }
+}

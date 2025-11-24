@@ -1,0 +1,18 @@
+{
+  "id": "1376261596415152132",
+  "author": "Seth Dillon",
+  "date": "2021-03-02T20:18:24.000Z",
+  "text": "Update:",
+  "tweet_url": "https://x.com/i/web/status/1376261596415152132",
+  "image_url": "https://pbs.twimg.com/media/Exl2oKEW8Ao41uA?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 383,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

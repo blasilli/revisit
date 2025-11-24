@@ -1,0 +1,17 @@
+{
+  "id": "1428543633020628997",
+  "author": "The_Real_Fly",
+  "date": "2021-08-20T02:25:17.000Z",
+  "text": "COVID CASES AND DEATHS UP WORLDWIDE IN SPITE OF BROADLY DISSEMINATED MRNA VACCINES YEAR OVER YEAR",
+  "tweet_url": "https://x.com/i/web/status/1428543633020628997",
+  "image_url": "https://pbs.twimg.com/media/E9M03MPXoAMb4Hw?format=jpg&name=small",
+  "image_width": 420,
+  "image_height": 680,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Causal inference"
+    ]
+  }
+}

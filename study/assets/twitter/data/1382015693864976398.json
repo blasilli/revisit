@@ -1,0 +1,17 @@
+{
+  "id": "1382015693864976398",
+  "author": "Santa Monica Daily Press (SMDP)",
+  "date": "2021-04-13T16:59:52.000Z",
+  "text": "Covid cases continue downward trend. - https://mailchi.mp/smdp.com/the-latest-news-from-the-smdp-for-1388697v2-1390086\u2026",
+  "tweet_url": "https://x.com/i/web/status/1382015693864976398",
+  "image_url": "https://pbs.twimg.com/media/Ey3n8tRWgAEynNu?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 500,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

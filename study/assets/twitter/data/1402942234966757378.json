@@ -1,0 +1,18 @@
+{
+  "id": "1402942234966757378",
+  "author": "Paul Sax",
+  "date": "2021-06-10T10:54:28.000Z",
+  "text": "Gosh these data are great #VaccinesWork  h/t https://reddit.com/user/oldgrimalkin/\u2026",
+  "tweet_url": "https://x.com/i/web/status/1402942234966757378",
+  "image_url": "https://pbs.twimg.com/media/E3g330NWQAA3Qa9?format=png&name=small",
+  "image_width": 680,
+  "image_height": 450,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

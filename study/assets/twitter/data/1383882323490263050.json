@@ -1,0 +1,17 @@
+{
+  "id": "1383882323490263050",
+  "author": "RuminatorDan",
+  "date": "2021-04-18T20:37:11.000Z",
+  "text": "India is one of several countries who are, sadly, experiencing a rise in Covid cases/deaths recently.",
+  "tweet_url": "https://x.com/i/web/status/1383882323490263050",
+  "image_url": "https://pbs.twimg.com/media/EzSJo02VkAA0cQR?format=png&name=small",
+  "image_width": 680,
+  "image_height": 420,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

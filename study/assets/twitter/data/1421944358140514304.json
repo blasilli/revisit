@@ -1,0 +1,17 @@
+{
+  "id": "1421944358140514304",
+  "author": "Legal Leaks",
+  "date": "2021-08-01T21:22:08.000Z",
+  "text": "Sweden. The Swedish model must be followed not more deprivation of rights and loss of liberty\n\n#Sweden #Covid19",
+  "tweet_url": "https://x.com/i/web/status/1421944358140514304",
+  "image_url": "https://pbs.twimg.com/media/E7vC22MWQAUNPZy?format=jpg&name=small",
+  "image_width": 600,
+  "image_height": 332,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Causal inference"
+    ]
+  }
+}

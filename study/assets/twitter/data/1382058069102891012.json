@@ -1,0 +1,18 @@
+{
+  "id": "1382058069102891012",
+  "author": "Julia Hartley-Brewer",
+  "date": "2021-04-13T19:48:15.000Z",
+  "text": "And here is the same graph for Covid deaths in Sweden.  3/",
+  "tweet_url": "https://x.com/i/web/status/1382058069102891012",
+  "image_url": "https://pbs.twimg.com/media/Ey4OfNLXMAIP2gj?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 670,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

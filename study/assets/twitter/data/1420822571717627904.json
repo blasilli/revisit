@@ -1,0 +1,17 @@
+{
+  "id": "1420822571717627904",
+  "author": "Sean T at RCP",
+  "date": "2021-07-29T19:04:33.000Z",
+  "text": "I mean",
+  "tweet_url": "https://x.com/i/web/status/1420822571717627904",
+  "image_url": "https://pbs.twimg.com/media/E7fGlz1WYAMlRYv?format=png&name=small",
+  "image_width": 680,
+  "image_height": 565,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Causal inference"
+    ]
+  }
+}

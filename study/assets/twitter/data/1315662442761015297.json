@@ -1,0 +1,18 @@
+{
+  "id": "1315662442761015297",
+  "author": "Alistair Haimes",
+  "date": "2020-10-12T14:35:44.000Z",
+  "text": "Swedish ICU shows no 2nd wave.",
+  "tweet_url": "https://x.com/i/web/status/1315662442761015297",
+  "image_url": "https://pbs.twimg.com/media/EkIr-roWAAAfngK?format=png&name=small",
+  "image_width": 680,
+  "image_height": 239,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "1380934888501694465",
+  "author": "Niraj Warikoo",
+  "date": "2021-04-10T17:25:08.000Z",
+  "text": "Michigan is on fire: no other state looks this red. Map of COVID cases per capita: https://nytimes.com/interactive/2020/us/coronavirus-us-cases.html\u2026",
+  "tweet_url": "https://x.com/i/web/status/1380934888501694465",
+  "image_url": "https://pbs.twimg.com/media/EyoQ9P5XIAIjUS2?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 484,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

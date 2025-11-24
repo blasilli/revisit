@@ -1,0 +1,17 @@
+{
+  "id": "1425873636569882630",
+  "author": "Vote Common Good",
+  "date": "2021-08-12T17:35:41.000Z",
+  "text": "Vaccines work.",
+  "tweet_url": "https://x.com/i/web/status/1425873636569882630",
+  "image_url": "https://pbs.twimg.com/media/E8m4XYeXsAQoXp7?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 664,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Failure to account for statistical nuance"
+    ]
+  }
+}

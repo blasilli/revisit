@@ -1,0 +1,19 @@
+{
+  "id": "1424007107808952325",
+  "author": "Eric Topol",
+  "date": "2021-08-07T13:58:45.000Z",
+  "text": "The US Delta wave by county vaccination level: relationship with deaths and cases \nhttps://wsj.com/articles/highly-vaccinated-states-keep-worst-covid-19-outcomes-in-check-as-delta-spreads-wsj-analysis-shows-11628328602\u2026",
+  "tweet_url": "https://x.com/i/web/status/1424007107808952325",
+  "image_url": "https://pbs.twimg.com/media/E8MWmNEUYAAzutS?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 398,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": [
+      "Causal inference"
+    ]
+  }
+}

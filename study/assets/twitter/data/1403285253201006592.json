@@ -1,0 +1,17 @@
+{
+  "id": "1403285253201006592",
+  "author": "Martin Llewellyn",
+  "date": "2021-06-11T09:37:30.000Z",
+  "text": "NHS C19 deaths within 28 days of positive test. Non existent",
+  "tweet_url": "https://x.com/i/web/status/1403285253201006592",
+  "image_url": "https://pbs.twimg.com/media/E3l4QmXXIAAUgUW?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 322,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

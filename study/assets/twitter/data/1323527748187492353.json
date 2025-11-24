@@ -1,0 +1,15 @@
+{
+  "id": "1323527748187492353",
+  "author": "Fraser Nelson",
+  "date": "2020-11-03T07:29:39.000Z",
+  "text": "How fast are confirmed Covid cases growing? Graph from The Spectator's new data hub: http://data.spectator.co.uk",
+  "tweet_url": "https://x.com/i/web/status/1323527748187492353",
+  "image_url": "https://pbs.twimg.com/media/El4dXc2W0AALl-7?format=png&name=small",
+  "image_width": 680,
+  "image_height": 384,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

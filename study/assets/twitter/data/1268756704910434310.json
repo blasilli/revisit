@@ -1,0 +1,17 @@
+{
+  "id": "1268756704910434310",
+  "author": "The Times Of India",
+  "date": "2020-06-05T04:09:05.000Z",
+  "text": "Tracking #Covid19\n\n#CautionYesPanicNo #IndiaFightsCorona #CoronavirusOutbreak Live updates: http://toi.in/2lopMY",
+  "tweet_url": "https://x.com/i/web/status/1268756704910434310",
+  "image_url": "https://pbs.twimg.com/media/EZuHXBAU4AIWWz0?format=jpg&name=small",
+  "image_width": 459,
+  "image_height": 680,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

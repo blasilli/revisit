@@ -1,0 +1,17 @@
+{
+  "id": "1427010001349103618",
+  "author": "Scott Uhl",
+  "date": "2021-08-15T20:51:11.000Z",
+  "text": "MD friend in CA just shared his with me. Why doesn\u2019t State of Texas publish such easy to read graphs ?",
+  "tweet_url": "https://x.com/i/web/status/1427010001349103618",
+  "image_url": "https://pbs.twimg.com/media/E83CB-XWUAETBc-?format=jpg&name=900x900",
+  "image_width": 720,
+  "image_height": 900,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Failure to account for statistical nuance"
+    ]
+  }
+}

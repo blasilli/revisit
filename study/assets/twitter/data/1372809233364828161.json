@@ -1,0 +1,17 @@
+{
+  "id": "1372809233364828161",
+  "author": "Latimer Alder",
+  "date": "2021-03-19T07:16:41.000Z",
+  "text": "Morning Covid SnapShot for UK - 19 March 2021",
+  "tweet_url": "https://x.com/i/web/status/1372809233364828161",
+  "image_url": "https://pbs.twimg.com/media/Ew0yY7qW8AIc5ZL?format=png&name=360x360",
+  "image_width": 360,
+  "image_height": 254,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1422219386996367365",
+  "author": "Ash Paul",
+  "date": "2021-08-02T15:35:00.000Z",
+  "text": "Event likelihood of Covid vaxx",
+  "tweet_url": "https://x.com/i/web/status/1422219386996367365",
+  "image_url": "https://pbs.twimg.com/media/E7y8_q5XoAIO_M9?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 666,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1323339207729958912",
+  "author": "David Rothschild ",
+  "date": "2020-11-02T19:00:28.000Z",
+  "text": "This is what unconditional surrender to a pandemic looks like.",
+  "tweet_url": "https://x.com/i/web/status/1323339207729958912",
+  "image_url": "https://pbs.twimg.com/media/El1x3X8XUAQeqNe?format=png&name=small",
+  "image_width": 680,
+  "image_height": 424,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

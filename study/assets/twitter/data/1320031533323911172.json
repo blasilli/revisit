@@ -1,0 +1,17 @@
+{
+  "id": "1320031533323911172",
+  "author": "Bruce Mehlman",
+  "date": "2020-10-24T15:56:57.000Z",
+  "text": "Compelling chart shows the importance of wearing masks to slow the spread of COVID.\nhttps://washingtonpost.com/business/2020/10/23/pandemic-data-chart-masks/\u2026",
+  "tweet_url": "https://x.com/i/web/status/1320031533323911172",
+  "image_url": "https://pbs.twimg.com/media/ElGxWW5XEAAHgnq?format=png&name=small",
+  "image_width": 658,
+  "image_height": 680,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Truncated axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

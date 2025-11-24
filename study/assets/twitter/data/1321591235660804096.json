@@ -1,0 +1,17 @@
+{
+  "id": "1321591235660804096",
+  "author": "The COVID Tracking Project",
+  "date": "2020-10-28T23:14:39.000Z",
+  "text": "Currently hospitalized figures peaked in 13 states today.",
+  "tweet_url": "https://x.com/i/web/status/1321591235660804096",
+  "image_url": "https://pbs.twimg.com/media/Elc7wGzVkAAxQOv?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 388,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

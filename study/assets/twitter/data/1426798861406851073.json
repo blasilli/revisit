@@ -1,0 +1,17 @@
+{
+  "id": "1426798861406851073",
+  "author": "Stephen Andrews",
+  "date": "2021-08-15T06:52:11.000Z",
+  "text": "#Covid_19 any evidence for efficacy of lockdowns, masks or any intervention?",
+  "tweet_url": "https://x.com/i/web/status/1426798861406851073",
+  "image_url": "https://pbs.twimg.com/media/E80CAI0X0AMjHRk?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 337,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Causal inference"
+    ]
+  }
+}

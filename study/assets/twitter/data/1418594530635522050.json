@@ -1,0 +1,17 @@
+{
+  "id": "1418594530635522050",
+  "author": "John",
+  "date": "2021-07-23T15:31:06.000Z",
+  "text": "Testing is lower so the number of cases are lower, simple really",
+  "tweet_url": "https://x.com/i/web/status/1418594530635522050",
+  "image_url": "https://pbs.twimg.com/media/E6_cNI0X0AUIy9o?format=jpg&name=small",
+  "image_width": 599,
+  "image_height": 680,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Issues with data validity"
+    ]
+  }
+}

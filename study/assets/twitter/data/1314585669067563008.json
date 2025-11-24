@@ -1,0 +1,19 @@
+{
+  "id": "1314585669067563008",
+  "author": "Latimer Alder",
+  "date": "2020-10-09T15:17:01.000Z",
+  "text": "Hot Off The Press\n\nJust 1 UK death in 20 today was 'with Covid'.\n\nPlease share",
+  "tweet_url": "https://x.com/i/web/status/1314585669067563008",
+  "image_url": "https://pbs.twimg.com/media/Ej5YmLUXcAMvYWa?format=png&name=small",
+  "image_width": 502,
+  "image_height": 394,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

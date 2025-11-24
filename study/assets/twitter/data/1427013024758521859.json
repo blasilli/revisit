@@ -1,0 +1,18 @@
+{
+  "id": "1427013024758521859",
+  "author": "AMERICA'S BEST PATRIOT ",
+  "date": "2021-08-15T21:03:12.000Z",
+  "text": "oh look NORMAL countries have their pandemic under control because they fking listened to SCIENCE",
+  "tweet_url": "https://x.com/i/web/status/1427013024758521859",
+  "image_url": "https://pbs.twimg.com/media/E83Eq9_XIAQ_1EP?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 398,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

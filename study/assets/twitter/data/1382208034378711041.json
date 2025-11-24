@@ -1,0 +1,18 @@
+{
+  "id": "1382208034378711041",
+  "author": "creon levit",
+  "date": "2021-04-14T05:44:10.000Z",
+  "text": "It's the LOCKDOWN that did it! Just like in Sweden!",
+  "tweet_url": "https://x.com/i/web/status/1382208034378711041",
+  "image_url": "https://pbs.twimg.com/media/Ey6W39zVcAAHTWr?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 503,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

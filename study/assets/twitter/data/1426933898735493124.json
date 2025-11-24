@@ -1,0 +1,20 @@
+{
+  "id": "1426933898735493124",
+  "author": "Latimer Alder",
+  "date": "2021-08-15T15:48:47.000Z",
+  "text": "Not the Six O'Clock News:\n\n67,999,939 people in UK did NOT die with Covid today",
+  "tweet_url": "https://x.com/i/web/status/1426933898735493124",
+  "image_url": "https://pbs.twimg.com/media/E818tiJXMAEBCJe?format=png&name=small",
+  "image_width": 641,
+  "image_height": 603,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

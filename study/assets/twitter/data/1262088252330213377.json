@@ -1,0 +1,17 @@
+{
+  "id": "1262088252330213377",
+  "author": "Stephen Punwasi ",
+  "date": "2020-05-17T18:31:02.000Z",
+  "text": "I\u2019ve broken down the stages of a pandemic into plain English, for easy reference. \n\nYou\u2019re welcome. \n\n#COVID19",
+  "tweet_url": "https://x.com/i/web/status/1262088252330213377",
+  "image_url": "https://pbs.twimg.com/media/EYPWk9OXsAMcAgS?format=jpg&name=small",
+  "image_width": 483,
+  "image_height": 373,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking"
+    ]
+  }
+}

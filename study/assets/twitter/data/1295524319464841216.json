@@ -1,0 +1,17 @@
+{
+  "id": "1295524319464841216",
+  "author": "Kevin Sorbo",
+  "date": "2020-08-18T00:54:02.000Z",
+  "text": "Reality check.\n\n#COVID\u30fc19 #fear #control #Corruption #Lies",
+  "tweet_url": "https://x.com/i/web/status/1295524319464841216",
+  "image_url": "https://pbs.twimg.com/media/EfqgU6-UwAEm6Q6?format=png&name=small",
+  "image_width": 618,
+  "image_height": 680,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

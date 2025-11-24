@@ -1,0 +1,18 @@
+{
+  "id": "1315052624748535808",
+  "author": "Elon Musk",
+  "date": "2020-10-10T22:12:32.000Z",
+  "text": "Sweden was right",
+  "tweet_url": "https://x.com/i/web/status/1315052624748535808",
+  "image_url": "https://pbs.twimg.com/media/EkABZFiVkAEjIRV?format=jpg&name=900x900",
+  "image_width": 704,
+  "image_height": 900,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

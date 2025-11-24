@@ -1,0 +1,18 @@
+{
+  "id": "1323243801314529282",
+  "author": "Lloyd Warburton",
+  "date": "2020-11-02T12:41:21.000Z",
+  "text": "Good signs coming from Ireland. Their latest lockdown appears to have been effective.",
+  "tweet_url": "https://x.com/i/web/status/1323243801314529282",
+  "image_url": "https://pbs.twimg.com/media/El0bFXsXgAE5oGx?format=png&name=small",
+  "image_width": 680,
+  "image_height": 432,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

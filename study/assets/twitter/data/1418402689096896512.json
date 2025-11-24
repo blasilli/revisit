@@ -1,0 +1,15 @@
+{
+  "id": "1418402689096896512",
+  "author": "Jonathan Nez",
+  "date": "2021-07-23T02:48:48.000Z",
+  "text": "27 new cases, 29,775 recoveries, and one more death related to COVID-19",
+  "tweet_url": "https://x.com/i/web/status/1418402689096896512",
+  "image_url": "https://pbs.twimg.com/media/E68ttlhVIAI1T79?format=jpg&name=small",
+  "image_width": 515,
+  "image_height": 680,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

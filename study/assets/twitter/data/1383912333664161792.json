@@ -1,0 +1,15 @@
+{
+  "id": "1383912333664161792",
+  "author": "Charles Gaba ",
+  "date": "2021-04-18T22:36:26.000Z",
+  "text": "Since he asked, here's Texas per capita cases/deaths overlaid on top of Michigan:",
+  "tweet_url": "https://x.com/i/web/status/1383912333664161792",
+  "image_url": "https://pbs.twimg.com/media/EzSk7LuVEAcHa6V?format=png&name=small",
+  "image_width": 680,
+  "image_height": 680,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

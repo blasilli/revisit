@@ -1,0 +1,15 @@
+{
+  "id": "1318322637869821958",
+  "author": "Mauricio Casillas",
+  "date": "2020-10-19T22:46:24.000Z",
+  "text": "Here are the states with fewer Covid-19 hospitalizations than El Paso County. \n\nData from \n@COVID19Tracking\n.",
+  "tweet_url": "https://x.com/i/web/status/1318322637869821958",
+  "image_url": "https://pbs.twimg.com/media/EkufUBIXEAANw1i?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 484,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

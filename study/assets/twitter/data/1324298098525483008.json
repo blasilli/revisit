@@ -1,0 +1,17 @@
+{
+  "id": "1324298098525483008",
+  "author": "Tom Harwood",
+  "date": "2020-11-05T10:30:45.000Z",
+  "text": "cases and deaths per day - via \n@TheSun",
+  "tweet_url": "https://x.com/i/web/status/1324298098525483008",
+  "image_url": "https://pbs.twimg.com/media/EmDZ_3_XIAYTi9I?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 454,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

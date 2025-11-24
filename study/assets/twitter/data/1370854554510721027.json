@@ -1,0 +1,15 @@
+{
+  "id": "1370854554510721027",
+  "author": "Chris Selley",
+  "date": "2021-03-13T21:49:29.000Z",
+  "text": "Ontario's pandemic in two graphs:",
+  "tweet_url": "https://x.com/i/web/status/1370854554510721027",
+  "image_url": "https://pbs.twimg.com/media/EwZA3aOWEAYnnfg?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 488,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

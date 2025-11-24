@@ -1,0 +1,15 @@
+{
+  "id": "1263534652993798146",
+  "author": "Governor Mike DeWine",
+  "date": "2020-05-21T18:18:31.000Z",
+  "text": "Today's #COVID19 dashboard ",
+  "tweet_url": "https://x.com/i/web/status/1263534652993798146",
+  "image_url": "https://pbs.twimg.com/media/EYj5lVVWAAgpebY?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 394,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1317454005497262084",
+  "author": "MyGovIndia",
+  "date": "2020-10-17T13:14:46.000Z",
+  "text": "India crosses significant milestone: Total recovered COVID-19 cases have crossed 65 lakhs. #IndiaFightsCorona",
+  "tweet_url": "https://x.com/i/web/status/1317454005497262084",
+  "image_url": "https://pbs.twimg.com/media/EkiJbYgVMAARPz9?format=jpg&name=small",
+  "image_width": 612,
+  "image_height": 680,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Truncated axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

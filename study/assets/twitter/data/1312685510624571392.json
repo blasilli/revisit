@@ -1,0 +1,15 @@
+{
+  "id": "1312685510624571392",
+  "author": "Carl Zha",
+  "date": "2020-10-04T09:26:28.000Z",
+  "text": "COVID cases in India occupied \u201cArunachal Pradesh\u201d that China claims as \u201cSouth Tibet\u201d compared with Tibet",
+  "tweet_url": "https://x.com/i/web/status/1312685510624571392",
+  "image_url": "https://pbs.twimg.com/media/EjeYgQwUYAAEgtk?format=jpg&name=360x360",
+  "image_width": 331,
+  "image_height": 360,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

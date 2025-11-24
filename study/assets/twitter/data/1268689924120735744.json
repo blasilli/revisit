@@ -1,0 +1,15 @@
+{
+  "id": "1268689924120735744",
+  "author": "The AZ - abc15 - Data Guru",
+  "date": "2020-06-04T23:43:43.000Z",
+  "text": "Two epi curves. Testing and Cases. Whiles cases are peaking, testing is not.",
+  "tweet_url": "https://x.com/i/web/status/1268689924120735744",
+  "image_url": "https://pbs.twimg.com/media/EZtKRHcUcAAMPU5?format=png&name=small",
+  "image_width": 680,
+  "image_height": 530,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1325054091798654976",
+  "author": "Charlie Bilello",
+  "date": "2020-11-07T12:34:48.000Z",
+  "text": "Covid-19 hospitalizations in the US move above 54k for the 3rd time. Highest since July 31.\n\nChart via \n@ycharts",
+  "tweet_url": "https://x.com/i/web/status/1325054091798654976",
+  "image_url": "https://pbs.twimg.com/media/EmOJot9XYAIn_dE?format=png&name=small",
+  "image_width": 680,
+  "image_height": 402,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Truncated axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

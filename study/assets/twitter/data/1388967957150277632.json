@@ -1,0 +1,19 @@
+{
+  "id": "1388967957150277632",
+  "author": "Joel ",
+  "date": "2021-05-02T21:25:41.000Z",
+  "text": "US States COVID mortality autumn/winter, 2020/21.",
+  "tweet_url": "https://x.com/i/web/status/1388967957150277632",
+  "image_url": "https://pbs.twimg.com/media/E0aZhZNWYAM6RFT?format=png&name=360x360",
+  "image_width": 360,
+  "image_height": 259,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Setting an arbitrary threshold",
+      "Causal inference"
+    ]
+  }
+}

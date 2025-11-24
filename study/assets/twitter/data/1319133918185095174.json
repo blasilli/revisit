@@ -1,0 +1,17 @@
+{
+  "id": "1319133918185095174",
+  "author": "San Francisco Chronicle",
+  "date": "2020-10-22T04:30:09.000Z",
+  "text": "Many Californians aren\u2019t eager to get coronavirus vaccine, poll finds. https://trib.al/EBJFr54",
+  "tweet_url": "https://x.com/i/web/status/1319133918185095174",
+  "image_url": "https://pbs.twimg.com/media/Ek6BTtyXIAAR_19?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 454,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

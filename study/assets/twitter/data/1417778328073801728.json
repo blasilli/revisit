@@ -1,0 +1,20 @@
+{
+  "id": "1417778328073801728",
+  "author": "(((The Daily Shot)))",
+  "date": "2021-07-21T09:27:49.000Z",
+  "text": "Vaccine effectiveness in one chart:\n\nSource: \n@Lvieweconomics",
+  "tweet_url": "https://x.com/i/web/status/1417778328073801728",
+  "image_url": "https://pbs.twimg.com/media/E6z118pXEAE6OTG?format=png&name=small",
+  "image_width": 564,
+  "image_height": 463,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

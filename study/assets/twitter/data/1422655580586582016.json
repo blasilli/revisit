@@ -1,0 +1,15 @@
+{
+  "id": "1422655580586582016",
+  "author": "Jo Ingles",
+  "date": "2021-08-03T20:28:16.000Z",
+  "text": "More than half of Ohioans are not vaccinated right now.",
+  "tweet_url": "https://x.com/i/web/status/1422655580586582016",
+  "image_url": "https://pbs.twimg.com/media/E75JR9tX0As_FHX?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 389,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

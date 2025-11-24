@@ -1,0 +1,18 @@
+{
+  "id": "1319991685733113856",
+  "author": "PoliticalFuzz",
+  "date": "2020-10-24T13:18:36.000Z",
+  "text": "You mean the global pandemic? This one?",
+  "tweet_url": "https://x.com/i/web/status/1319991685733113856",
+  "image_url": "https://pbs.twimg.com/media/ElGNa8CX0AEJmcs?format=png&name=small",
+  "image_width": 680,
+  "image_height": 480,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

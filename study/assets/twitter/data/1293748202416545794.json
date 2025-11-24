@@ -1,0 +1,17 @@
+{
+  "id": "1293748202416545794",
+  "author": "Philip Bump",
+  "date": "2020-08-13T03:16:22.000Z",
+  "text": "How's the U.S.'s effort in combating the virus going? Not great, guys. https://washingtonpost.com/politics/2020/08/12/trump-has-new-metric-by-which-he-wants-evaluate-pandemic-please-update-your-records/\u2026",
+  "tweet_url": "https://x.com/i/web/status/1293748202416545794",
+  "image_url": "https://pbs.twimg.com/media/EfRRB-JXYAUBATE?format=png&name=small",
+  "image_width": 680,
+  "image_height": 520,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}
