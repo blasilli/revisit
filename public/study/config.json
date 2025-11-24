@@ -18254,7 +18254,7 @@
       "intro-03",
       "profiling",
       {
-        "order": "fixed",
+        "order": "latinSquare",
         "components": [
           {
             "order": "latinSquare",
