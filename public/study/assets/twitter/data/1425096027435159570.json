@@ -1,0 +1,17 @@
+{
+  "id": "1425096027435159570",
+  "author": "David Harsanyi",
+  "date": "2021-08-10T14:05:44.000Z",
+  "text": "Seven-day avg deaths from COVID in MoCo, where they've reinstituted a mask mandate, is zero.",
+  "tweet_url": "https://x.com/i/web/status/1425096027435159570",
+  "image_url": "https://pbs.twimg.com/media/E8b0-ZuXoAISlO7?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 319,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

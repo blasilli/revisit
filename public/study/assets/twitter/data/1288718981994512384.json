@@ -1,0 +1,17 @@
+{
+  "id": "1288718981994512384",
+  "author": "Prof. Freedom",
+  "date": "2020-07-29T10:43:25.000Z",
+  "text": "Australia\n\nFlu vs. Covid",
+  "tweet_url": "https://x.com/i/web/status/1288718981994512384",
+  "image_url": "https://pbs.twimg.com/media/EeJzFXZXkAE3DyK?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 424,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

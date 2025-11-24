@@ -1,0 +1,17 @@
+{
+  "id": "1377128074291019777",
+  "author": "Hum",
+  "date": "2021-03-31T05:18:13.000Z",
+  "text": "Are we fighting the wrong pandemic\n\n#UnlockOurCountry",
+  "tweet_url": "https://x.com/i/web/status/1377128074291019777",
+  "image_url": "https://pbs.twimg.com/media/ExyKry2U4AQRcHY?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 443,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

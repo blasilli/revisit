@@ -1,0 +1,15 @@
+{
+  "id": "1371506687505489923",
+  "author": "Alfons L\u00f3pez Tena ",
+  "date": "2021-03-15T17:00:50.000Z",
+  "text": "Weekly coronavirus cases per 100,000 people in European countries",
+  "tweet_url": "https://x.com/i/web/status/1371506687505489923",
+  "image_url": "https://pbs.twimg.com/media/EwiSDiiWgAUDmrt?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 531,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

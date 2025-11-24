@@ -1,0 +1,15 @@
+{
+  "id": "1297874064351125505",
+  "author": "Dr. David Samadi",
+  "date": "2020-08-24T12:31:04.000Z",
+  "text": "This certainly looks like a flattening curve.",
+  "tweet_url": "https://x.com/i/web/status/1297874064351125505",
+  "image_url": "https://pbs.twimg.com/media/EgL5k_7XkAYP1OK?format=jpg&name=small",
+  "image_width": 593,
+  "image_height": 680,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

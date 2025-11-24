@@ -1,0 +1,17 @@
+{
+  "id": "1320462716482498564",
+  "author": "World Economic Forum",
+  "date": "2020-10-25T20:30:19.000Z",
+  "text": "Covid-19 indirectly killed far more older adults than we thought https://bit.ly/37JSPGH #Coronavirus #Health",
+  "tweet_url": "https://x.com/i/web/status/1320462716482498564",
+  "image_url": "https://pbs.twimg.com/media/ElM5182XUAAC7O2?format=png&name=small",
+  "image_width": 680,
+  "image_height": 439,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Truncated axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

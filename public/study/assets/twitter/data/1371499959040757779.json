@@ -1,0 +1,17 @@
+{
+  "id": "1371499959040757779",
+  "author": "Latimer Alder",
+  "date": "2021-03-15T16:34:06.000Z",
+  "text": "'We Lock You Down to Flatten the Curve'\n\nMission Accomplished!\n\nSo Set Us Free!",
+  "tweet_url": "https://x.com/i/web/status/1371499959040757779",
+  "image_url": "https://pbs.twimg.com/media/EwiL6vRXMAgvX31?format=png&name=small",
+  "image_width": 680,
+  "image_height": 480,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

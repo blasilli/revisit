@@ -1,0 +1,15 @@
+{
+  "id": "1313510126616182784",
+  "author": "Patrick Scott",
+  "date": "2020-10-06T16:03:12.000Z",
+  "text": "The speed at which #Covid19UK cases are rising in areas with already high rates is alarming.",
+  "tweet_url": "https://x.com/i/web/status/1313510126616182784",
+  "image_url": "https://pbs.twimg.com/media/EjqGTaCX0AErPXK?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 383,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

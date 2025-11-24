@@ -1,0 +1,15 @@
+{
+  "id": "1318854740529319937",
+  "author": "Radio Free Europe/Radio Liberty",
+  "date": "2020-10-21T10:00:47.000Z",
+  "text": "In the past 24 hours, 317 patients have died of COVID-19 in Russia.",
+  "tweet_url": "https://x.com/i/web/status/1318854740529319937",
+  "image_url": "https://pbs.twimg.com/media/Ek2DZc6XIAIt3q0?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 667,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

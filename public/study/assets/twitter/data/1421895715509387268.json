@@ -1,0 +1,17 @@
+{
+  "id": "1421895715509387268",
+  "author": "Banana for scale ",
+  "date": "2021-08-01T18:08:50.000Z",
+  "text": "Please educate yourselves. The Covid vaccination is saving lives.",
+  "tweet_url": "https://x.com/i/web/status/1421895715509387268",
+  "image_url": "https://pbs.twimg.com/media/E7uWnNpWUAEU3Uy?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 510,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Failure to account for statistical nuance"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1318314506242674692",
+  "author": "Joshua Balling",
+  "date": "2020-10-19T22:14:06.000Z",
+  "text": "Two new #coronavirus cases reported on #Nantucket Monday:\nhttp://ack.net/news/20201019/two-new-coronavirus-cases-reported-on-nantucket-monday?nocache=1\u2026",
+  "tweet_url": "https://x.com/i/web/status/1318314506242674692",
+  "image_url": "https://pbs.twimg.com/media/EkuX_24X0AAvqzI?format=jpg&name=small",
+  "image_width": 611,
+  "image_height": 419,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

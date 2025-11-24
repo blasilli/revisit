@@ -1,0 +1,17 @@
+{
+  "id": "1291184239342493698",
+  "author": "TRADING ECONOMICS",
+  "date": "2020-08-06T01:28:06.000Z",
+  "text": "Republic of the #Congo Coronavirus Cases at 3546 Persons https://tradingeconomics.com/republic-of-the-congo/coronavirus-cases\u2026",
+  "tweet_url": "https://x.com/i/web/status/1291184239342493698",
+  "image_url": "https://pbs.twimg.com/media/Ees1OT5XoAMcdgJ?format=png&name=small",
+  "image_width": 680,
+  "image_height": 317,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Truncated axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

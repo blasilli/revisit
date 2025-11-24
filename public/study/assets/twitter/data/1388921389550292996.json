@@ -1,0 +1,15 @@
+{
+  "id": "1388921389550292996",
+  "author": "datatosee.com",
+  "date": "2021-05-02T18:20:38.000Z",
+  "text": "PHE COVID Deaths within 28 days of a positive test for under 40s and 40+ both on same scale.",
+  "tweet_url": "https://x.com/i/web/status/1388921389550292996",
+  "image_url": "https://pbs.twimg.com/media/E0Zwg8CWUAINkrp?format=png&name=small",
+  "image_width": 680,
+  "image_height": 385,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

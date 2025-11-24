@@ -1,0 +1,17 @@
+{
+  "id": "1234688701114060800",
+  "author": "Laurie Garrett",
+  "date": "2020-03-03T03:55:00.000Z",
+  "text": "The epidemic has exceeded 90,000 official cases.\n#COVID19\n4,335 South Korea\n2,036 Italy\n1,501 Iran",
+  "tweet_url": "https://x.com/i/web/status/1234688701114060800",
+  "image_url": "https://pbs.twimg.com/media/ESJ-mSNWAAAyXAx?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 329,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

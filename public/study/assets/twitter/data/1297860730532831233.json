@@ -1,0 +1,15 @@
+{
+  "id": "1297860730532831233",
+  "author": "Bespoke",
+  "date": "2020-08-24T11:38:05.000Z",
+  "text": "Average number of new daily COVID cases is on pace to drop below the early April high within the next two weeks.",
+  "tweet_url": "https://x.com/i/web/status/1297860730532831233",
+  "image_url": "https://pbs.twimg.com/media/EgLtVDlXgAEjeUa?format=png&name=small",
+  "image_width": 515,
+  "image_height": 312,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

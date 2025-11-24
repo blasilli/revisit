@@ -1,0 +1,18 @@
+{
+  "id": "1386939789975293956",
+  "author": "Chief Health Officer, Victoria",
+  "date": "2021-04-27T07:06:28.000Z",
+  "text": "Here's the UK's trajectory, mostly achieved with AstraZeneca.",
+  "tweet_url": "https://x.com/i/web/status/1386939789975293956",
+  "image_url": "https://pbs.twimg.com/media/Ez9mYr_UYAk5Trw?format=png&name=small",
+  "image_width": 531,
+  "image_height": 327,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

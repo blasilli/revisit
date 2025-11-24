@@ -1,0 +1,18 @@
+{
+  "id": "1290062903538720769",
+  "author": "AZJack65",
+  "date": "2020-08-02T23:12:19.000Z",
+  "text": "California mandates mask wearing June 18 and cases continue to surge for the next 6 weeks.  3/5",
+  "tweet_url": "https://x.com/i/web/status/1290062903538720769",
+  "image_url": "https://pbs.twimg.com/media/Eec5KZWUwAArUWN?format=png&name=small",
+  "image_width": 680,
+  "image_height": 465,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1375177666790354945",
+  "author": "NOLA Ready",
+  "date": "2021-03-25T20:07:59.000Z",
+  "text": "32.1% of #NewOrleanians have received at least 1 dose of the #COVIDVaccine! #SleevesUpNOLA\n\nhttp://ready.nola.gov/data",
+  "tweet_url": "https://x.com/i/web/status/1375177666790354945",
+  "image_url": "https://pbs.twimg.com/media/ExWa_K5UcAABpf1?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 382,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

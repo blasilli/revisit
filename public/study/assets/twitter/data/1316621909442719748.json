@@ -1,0 +1,17 @@
+{
+  "id": "1316621909442719748",
+  "author": "Prof. Shamika Ravi",
+  "date": "2020-10-15T06:08:19.000Z",
+  "text": "Daily confirmed cases <65,000...and continues to fall.",
+  "tweet_url": "https://x.com/i/web/status/1316621909442719748",
+  "image_url": "https://pbs.twimg.com/media/EkWSclyUwAEol8F?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 593,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Truncated axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

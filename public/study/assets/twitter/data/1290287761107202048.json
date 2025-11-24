@@ -1,0 +1,15 @@
+{
+  "id": "1290287761107202048",
+  "author": "Keith Boykin",
+  "date": "2020-08-03T14:05:49.000Z",
+  "text": "More than 150,000 Americans have died from coronavirus.",
+  "tweet_url": "https://x.com/i/web/status/1290287761107202048",
+  "image_url": "https://pbs.twimg.com/media/EegFnLUXoAAW6PJ?format=png&name=small",
+  "image_width": 655,
+  "image_height": 519,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

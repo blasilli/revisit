@@ -1,0 +1,18 @@
+{
+  "id": "1381978948226183170",
+  "author": "Prof. Christina Pagel - @chrischirp.bsky.social",
+  "date": "2021-04-13T14:33:51.000Z",
+  "text": "Sweden seeing another surge (particularly when compared to its nordic neighbours). \n\nhttps://theguardian.com/world/2021/apr/13/sweden-has-highest-new-covid-cases-per-person-in-europe\u2026",
+  "tweet_url": "https://x.com/i/web/status/1381978948226183170",
+  "image_url": "https://pbs.twimg.com/media/Ey3GgFwWgAEAFe9?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 500,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

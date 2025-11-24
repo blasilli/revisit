@@ -1,0 +1,19 @@
+{
+  "id": "1390401791058186243",
+  "author": "Leigh Holloway",
+  "date": "2021-05-06T20:23:14.000Z",
+  "text": "Minimal lockdown and restrictions in SA and no vaccinations to speak about",
+  "tweet_url": "https://x.com/i/web/status/1390401791058186243",
+  "image_url": "https://pbs.twimg.com/media/E0uzDhrWQAAO8w-?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 510,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Setting an arbitrary threshold",
+      "Causal inference"
+    ]
+  }
+}

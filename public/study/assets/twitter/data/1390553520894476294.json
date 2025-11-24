@@ -1,0 +1,15 @@
+{
+  "id": "1390553520894476294",
+  "author": "Viet Nam Government Portal",
+  "date": "2021-05-07T06:26:09.000Z",
+  "text": "Local #COVID19 infections has spread to 15 cities and provinces since April 27",
+  "tweet_url": "https://x.com/i/web/status/1390553520894476294",
+  "image_url": "https://pbs.twimg.com/media/E0w8-1SWYAI_6oi?format=png&name=small",
+  "image_width": 530,
+  "image_height": 619,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

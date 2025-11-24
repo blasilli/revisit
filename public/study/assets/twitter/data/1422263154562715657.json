@@ -1,0 +1,17 @@
+{
+  "id": "1422263154562715657",
+  "author": "Chris Vanderveen (yep\u2026me)",
+  "date": "2021-08-02T18:28:55.000Z",
+  "text": "I'll call this slide... \n\n\"vaccines work\"",
+  "tweet_url": "https://x.com/i/web/status/1422263154562715657",
+  "image_url": "https://pbs.twimg.com/media/E7zkyslXIAYfdvc?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 379,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Failure to account for statistical nuance"
+    ]
+  }
+}

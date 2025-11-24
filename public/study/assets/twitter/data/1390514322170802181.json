@@ -1,0 +1,18 @@
+{
+  "id": "1390514322170802181",
+  "author": "Jaun Blanco",
+  "date": "2021-05-06T18:04:31.000Z",
+  "text": "The dotted line is where Texas dropped their mask mandate",
+  "tweet_url": "https://x.com/i/web/status/1390514322170802181",
+  "image_url": "https://pbs.twimg.com/media/E0wZZ-iXMAA5bvN?format=jpg&name=large",
+  "image_width": 938,
+  "image_height": 2048,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

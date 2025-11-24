@@ -1,0 +1,15 @@
+{
+  "id": "1373194493541818368",
+  "author": "Benazir Shah",
+  "date": "2021-03-20T08:47:34.000Z",
+  "text": "Test positive rate in Lahore on March 18 was 18.8% (data via WHO)",
+  "tweet_url": "https://x.com/i/web/status/1373194493541818368",
+  "image_url": "https://pbs.twimg.com/media/Ew6RHGkWYAMqVnK?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 489,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

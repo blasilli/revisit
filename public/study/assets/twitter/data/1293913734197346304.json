@@ -1,0 +1,18 @@
+{
+  "id": "1293913734197346304",
+  "author": "Phil Kerpen",
+  "date": "2020-08-13T14:14:08.000Z",
+  "text": "and here's DC's coronavirus-like illness from the CDC yesterday. 1.8% of emergency department visits.",
+  "tweet_url": "https://x.com/i/web/status/1293913734197346304",
+  "image_url": "https://pbs.twimg.com/media/EfTnlXIUYAcwUrd?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 288,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

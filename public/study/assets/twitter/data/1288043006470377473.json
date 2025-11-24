@@ -1,0 +1,15 @@
+{
+  "id": "1288043006470377473",
+  "author": "Xavi Ruiz",
+  "date": "2020-07-28T09:25:58.000Z",
+  "text": "Despite recent surge in coronavirus cases, the United States\u2019 recovery in jobs compared to Europe is astonishing.",
+  "tweet_url": "https://x.com/i/web/status/1288043006470377473",
+  "image_url": "https://pbs.twimg.com/media/EeAMSTVX0AAdaGM?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 648,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

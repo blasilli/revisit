@@ -1,0 +1,18 @@
+{
+  "id": "1422290756044197892",
+  "author": "Paul Joseph Watson",
+  "date": "2021-08-02T20:18:35.000Z",
+  "text": "Meanwhile, in (no lockdown) Sweden.",
+  "tweet_url": "https://x.com/i/web/status/1422290756044197892",
+  "image_url": "https://pbs.twimg.com/media/E7z94mqWYAMPsm3?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 379,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

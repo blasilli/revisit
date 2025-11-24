@@ -1,0 +1,15 @@
+{
+  "id": "1382758744229085184",
+  "author": "Governor Mike DeWine",
+  "date": "2021-04-15T18:12:29.000Z",
+  "text": "Today\u2019s #COVID19 data.  More than 2,100 new cases have been reported in Ohio in the last 24 hours.",
+  "tweet_url": "https://x.com/i/web/status/1382758744229085184",
+  "image_url": "https://pbs.twimg.com/media/EzCLdcHW8AQciC5?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 382,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1320068884657995777",
+  "author": "Facts About Africa",
+  "date": "2020-10-24T18:25:22.000Z",
+  "text": "World map showing the number of Covid-19 deaths by country...\n\nCheck out the Motherland\n\n(AFP)",
+  "tweet_url": "https://x.com/i/web/status/1320068884657995777",
+  "image_url": "https://pbs.twimg.com/media/ElHTodxWkAAofO8?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 498,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

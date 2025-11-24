@@ -1,0 +1,18 @@
+{
+  "id": "1384644602557177858",
+  "author": "Eric Topol",
+  "date": "2021-04-20T23:06:13.000Z",
+  "text": "Today Israel's test positivity of 0.3% is their lowest since the pandemic started. ",
+  "tweet_url": "https://x.com/i/web/status/1384644602557177858",
+  "image_url": "https://pbs.twimg.com/media/Ezc-aiZVUAAAQ6n?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 482,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

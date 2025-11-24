@@ -1,0 +1,20 @@
+{
+  "id": "1369473019249192961",
+  "author": "Juergen Amft",
+  "date": "2021-03-10T02:19:46.000Z",
+  "text": "UK, Covid, done as well",
+  "tweet_url": "https://x.com/i/web/status/1369473019249192961",
+  "image_url": "https://pbs.twimg.com/media/EwFYcW8VIAAtUpg?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 339,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Truncated axis",
+      "Dual axis"
+    ],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

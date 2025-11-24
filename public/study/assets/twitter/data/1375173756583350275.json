@@ -1,0 +1,15 @@
+{
+  "id": "1375173756583350275",
+  "author": "Carl Bildt",
+  "date": "2021-03-25T19:52:27.000Z",
+  "text": "The latest map from \n@ECDC_EU\n on the COVID-19 situation throughout most of Europe. It doesn\u2019t look too good.",
+  "tweet_url": "https://x.com/i/web/status/1375173756583350275",
+  "image_url": "https://pbs.twimg.com/media/ExWZOXtXEAA4R25?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 480,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

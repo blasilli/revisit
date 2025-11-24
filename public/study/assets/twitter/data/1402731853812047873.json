@@ -1,0 +1,17 @@
+{
+  "id": "1402731853812047873",
+  "author": "C Ups",
+  "date": "2021-06-09T20:58:30.000Z",
+  "text": "Ontario Covid-19 update, June 9.\n#COVID19ON #COVID19Ontario",
+  "tweet_url": "https://x.com/i/web/status/1402731853812047873",
+  "image_url": "https://pbs.twimg.com/media/E3eA85YXEAYnOtr?format=jpg&name=small",
+  "image_width": 558,
+  "image_height": 325,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

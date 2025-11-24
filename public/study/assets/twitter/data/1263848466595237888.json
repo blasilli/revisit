@@ -1,0 +1,17 @@
+{
+  "id": "1263848466595237888",
+  "author": "MyGovIndia",
+  "date": "2020-05-22T15:05:30.000Z",
+  "text": "Active COVID-19 cases requiring Critical Care. #IndiaFightsCorona",
+  "tweet_url": "https://x.com/i/web/status/1263848466595237888",
+  "image_url": "https://pbs.twimg.com/media/EYoXRplUcA0_cD7?format=jpg&name=small",
+  "image_width": 612,
+  "image_height": 680,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

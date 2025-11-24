@@ -1,0 +1,17 @@
+{
+  "id": "1421209255152177158",
+  "author": "Trish \"the Plate\"",
+  "date": "2021-07-30T20:41:05.000Z",
+  "text": "Your unvaccinated 10 year old is safer than adult vaccinated you:",
+  "tweet_url": "https://x.com/i/web/status/1421209255152177158",
+  "image_url": "https://pbs.twimg.com/media/E7kmSLIWEAENdpj?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 489,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

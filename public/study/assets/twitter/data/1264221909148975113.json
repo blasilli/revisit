@@ -1,0 +1,17 @@
+{
+  "id": "1264221909148975113",
+  "author": "Steven Bognar",
+  "date": "2020-05-23T15:49:25.000Z",
+  "text": "NY curve vs US curve on confirmed #COVID19 cases #nbc4ny",
+  "tweet_url": "https://x.com/i/web/status/1264221909148975113",
+  "image_url": "https://pbs.twimg.com/media/EYtrIDZWoAAsL7d?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 365,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Causal inference"
+    ]
+  }
+}

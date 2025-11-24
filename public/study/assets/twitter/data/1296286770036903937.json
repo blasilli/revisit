@@ -1,0 +1,18 @@
+{
+  "id": "1296286770036903937",
+  "author": "Ethical Skeptic ",
+  "date": "2020-08-20T03:23:44.000Z",
+  "text": "The gaping departure between those at risk of dying, and the piling up of death statistics continues.",
+  "tweet_url": "https://x.com/i/web/status/1296286770036903937",
+  "image_url": "https://pbs.twimg.com/media/Ef1VtneXYAIiXLL?format=png&name=small",
+  "image_width": 661,
+  "image_height": 421,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Truncated axis",
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

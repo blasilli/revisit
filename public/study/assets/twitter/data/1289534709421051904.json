@@ -1,0 +1,17 @@
+{
+  "id": "1289534709421051904",
+  "author": "The Peninsula Qatar",
+  "date": "2020-08-01T12:13:27.000Z",
+  "text": "Latest update on COVID-19 in #Qatar \nhttps://thepeninsulaqatar.com/article/01/08/2020/216-Covid-19-cases-and-201-recoveries-in-Qatar-on-Aug-1\u2026",
+  "tweet_url": "https://x.com/i/web/status/1289534709421051904",
+  "image_url": "https://pbs.twimg.com/media/EeVY8_jXYAAbtJ9?format=png&name=small",
+  "image_width": 586,
+  "image_height": 680,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Truncated axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

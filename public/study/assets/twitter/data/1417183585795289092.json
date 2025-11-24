@@ -1,0 +1,17 @@
+{
+  "id": "1417183585795289092",
+  "author": "Michael McDonough",
+  "date": "2021-07-19T18:04:31.000Z",
+  "text": "U.K. 5D Net Change in Cases & Deaths:",
+  "tweet_url": "https://x.com/i/web/status/1417183585795289092",
+  "image_url": "https://pbs.twimg.com/media/E6rYznTWEAMVpSG?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 389,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

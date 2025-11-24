@@ -1,0 +1,15 @@
+{
+  "id": "1428710953168764936",
+  "author": "Eric Topol",
+  "date": "2021-08-20T13:30:10.000Z",
+  "text": "When there's 93,000 covid patients in US hospitals, it's hard to find any good news. \nA hint here.",
+  "tweet_url": "https://x.com/i/web/status/1428710953168764936",
+  "image_url": "https://pbs.twimg.com/media/E9PM67EVIAUyYh_?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 383,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

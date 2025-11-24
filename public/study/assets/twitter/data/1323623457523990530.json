@@ -1,0 +1,15 @@
+{
+  "id": "1323623457523990530",
+  "author": "Le Monde en cartes",
+  "date": "2020-11-03T13:49:58.000Z",
+  "text": "Situation #COVID19france \n@lemondefr",
+  "tweet_url": "https://x.com/i/web/status/1323623457523990530",
+  "image_url": "https://pbs.twimg.com/media/El50hHGXYAAXbCz?format=jpg&name=900x900",
+  "image_width": 692,
+  "image_height": 900,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

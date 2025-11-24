@@ -1,0 +1,17 @@
+{
+  "id": "1371433461366525956",
+  "author": "Nate Silver",
+  "date": "2021-03-15T12:09:51.000Z",
+  "text": "Meanwhile, the gap between the EU and the US continues to grow as we are much faster to vaccinate.",
+  "tweet_url": "https://x.com/i/web/status/1371433461366525956",
+  "image_url": "https://pbs.twimg.com/media/EwhPXDJWgAM962A?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 504,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Causal inference"
+    ]
+  }
+}

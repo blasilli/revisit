@@ -1,0 +1,15 @@
+{
+  "id": "1263319460967923712",
+  "author": "Malou Tiquia",
+  "date": "2020-05-21T04:03:25.000Z",
+  "text": "There you are. Modeling is all about interpretation but there is just a single pandemic curve! ",
+  "tweet_url": "https://x.com/i/web/status/1263319460967923712",
+  "image_url": "https://pbs.twimg.com/media/EYg2VH9VAAARYXC?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 475,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

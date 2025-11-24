@@ -1,0 +1,17 @@
+{
+  "id": "1384770418377035780",
+  "author": "Abhay Singh",
+  "date": "2021-04-21T07:26:10.000Z",
+  "text": "India Exported Nearly 9,300 Metric Tonnes of Oxygen in FY21 Despite Pandemic Rolling on\n\n#IndiaNeedsOxygen",
+  "tweet_url": "https://x.com/i/web/status/1384770418377035780",
+  "image_url": "https://pbs.twimg.com/media/EzexWX-VkAInjy3?format=jpg&name=360x360",
+  "image_width": 360,
+  "image_height": 360,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Truncated axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

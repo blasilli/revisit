@@ -1,0 +1,17 @@
+{
+  "id": "1326220102967177218",
+  "author": "David Rothschild ",
+  "date": "2020-11-10T17:48:07.000Z",
+  "text": "Head of Trump's COVID-19 taskforce takes vacation same day as hospitalizations reach all-time high.",
+  "tweet_url": "https://x.com/i/web/status/1326220102967177218",
+  "image_url": "https://pbs.twimg.com/media/EmetzR1XIAEjWjP?format=png&name=small",
+  "image_width": 680,
+  "image_height": 419,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

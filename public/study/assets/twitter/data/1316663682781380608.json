@@ -1,0 +1,18 @@
+{
+  "id": "1316663682781380608",
+  "author": "Alistair Haimes",
+  "date": "2020-10-15T08:54:19.000Z",
+  "text": "No Swedish 2nd wave in deaths or ICU admissions. A fraction of the damage to their society and economy.",
+  "tweet_url": "https://x.com/i/web/status/1316663682781380608",
+  "image_url": "https://pbs.twimg.com/media/EkW6TRUXcAAAbEJ?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 480,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

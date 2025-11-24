@@ -1,0 +1,15 @@
+{
+  "id": "1369100121179365378",
+  "author": "Caleb Watney",
+  "date": "2021-03-09T01:38:00.000Z",
+  "text": "Vaccinations in absolute terms ",
+  "tweet_url": "https://x.com/i/web/status/1369100121179365378",
+  "image_url": "https://pbs.twimg.com/media/EwAFTSzXMAoBOJj?format=jpg&name=900x900",
+  "image_width": 567,
+  "image_height": 900,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

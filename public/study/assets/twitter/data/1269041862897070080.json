@@ -1,0 +1,17 @@
+{
+  "id": "1269041862897070080",
+  "author": "Bill McBride",
+  "date": "2020-06-05T23:02:12.000Z",
+  "text": "June 5 COVID-19 Test Results, Over 500,000 Tests, Most Positive in Over a Month https://calculatedriskblog.com/2020/06/june-5-covid-19-test-results-over.html\u2026",
+  "tweet_url": "https://x.com/i/web/status/1269041862897070080",
+  "image_url": "https://pbs.twimg.com/media/EZyKzmhUcAIVgpi?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 399,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

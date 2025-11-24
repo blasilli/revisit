@@ -1,0 +1,15 @@
+{
+  "id": "1289557528435666944",
+  "author": "UK COVID-19",
+  "date": "2020-08-01T13:44:08.000Z",
+  "text": "United Kingdom coronavirus (COVID-19) infections reported each Saturday.",
+  "tweet_url": "https://x.com/i/web/status/1289557528435666944",
+  "image_url": "https://pbs.twimg.com/media/EeVs9xvXkAI73WP?format=png&name=small",
+  "image_width": 680,
+  "image_height": 383,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

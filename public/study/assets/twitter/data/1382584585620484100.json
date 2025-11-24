@@ -1,0 +1,18 @@
+{
+  "id": "1382584585620484100",
+  "author": "James Melville ",
+  "date": "2021-04-15T06:40:27.000Z",
+  "text": "Compare and contrast.\n\nLockdown California & unlocked Florida.",
+  "tweet_url": "https://x.com/i/web/status/1382584585620484100",
+  "image_url": "https://pbs.twimg.com/media/Ey_tWYrWgAEX_pL?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 396,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

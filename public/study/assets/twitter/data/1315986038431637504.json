@@ -1,0 +1,15 @@
+{
+  "id": "1315986038431637504",
+  "author": "Liz Ann Sonders",
+  "date": "2020-10-13T12:01:36.000Z",
+  "text": "Unfortunately, percentage of #COVID19 patients in ICU starting to tick up in some midwestern states #EvercoreISI",
+  "tweet_url": "https://x.com/i/web/status/1315986038431637504",
+  "image_url": "https://pbs.twimg.com/media/EkNSUzDXkAAGn0L?format=jpg&name=small",
+  "image_width": 640,
+  "image_height": 319,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

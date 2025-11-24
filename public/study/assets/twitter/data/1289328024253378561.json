@@ -1,0 +1,17 @@
+{
+  "id": "1289328024253378561",
+  "author": "Femi",
+  "date": "2020-07-31T22:32:10.000Z",
+  "text": "Interesting....\n#SecondWave\n\nhttps://coronavirus-staging.data.gov.uk/cases?areaType=overview&areaName=United%20Kingdom\u2026",
+  "tweet_url": "https://x.com/i/web/status/1289328024253378561",
+  "image_url": "https://pbs.twimg.com/media/EeSc3WBWoAEmPQe?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 493,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Causal inference"
+    ]
+  }
+}

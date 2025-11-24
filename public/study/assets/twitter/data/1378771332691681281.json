@@ -1,0 +1,15 @@
+{
+  "id": "1378771332691681281",
+  "author": "Scienceflare",
+  "date": "2021-04-04T18:07:56.000Z",
+  "text": "Vaccine supply administered\n\nHighest: WI, NH, ND\nLowest: AL, GA, AK",
+  "tweet_url": "https://x.com/i/web/status/1378771332691681281",
+  "image_url": "https://pbs.twimg.com/media/EyJhN2XVEAEtCjR?format=jpg&name=medium",
+  "image_width": 717,
+  "image_height": 1200,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

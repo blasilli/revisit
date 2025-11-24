@@ -1,0 +1,15 @@
+{
+  "id": "1427627032112996354",
+  "author": "Random Critical Analysis",
+  "date": "2021-08-17T13:43:03.000Z",
+  "text": "The cumulative share of covid-19 deaths by age",
+  "tweet_url": "https://x.com/i/web/status/1427627032112996354",
+  "image_url": "https://pbs.twimg.com/media/E8_yzFBX0Awlzf0?format=png&name=small",
+  "image_width": 572,
+  "image_height": 559,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

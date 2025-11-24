@@ -1,0 +1,18 @@
+{
+  "id": "1426674747614531584",
+  "author": "Creativity is a quiet mind and disciplined eye.",
+  "date": "2021-08-14T22:39:00.000Z",
+  "text": "Interesting. PhDs are the most vaccine hesitant in this poll.",
+  "tweet_url": "https://x.com/i/web/status/1426674747614531584",
+  "image_url": "https://pbs.twimg.com/media/E8yQFnHVcAAkv3R?format=jpg&name=small",
+  "image_width": 634,
+  "image_height": 529,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Causal inference",
+      "Misrepresentation of scientific studies"
+    ]
+  }
+}

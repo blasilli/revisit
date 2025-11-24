@@ -1,0 +1,17 @@
+{
+  "id": "1321587457733746688",
+  "author": "Bill McBride",
+  "date": "2020-10-28T22:59:38.000Z",
+  "text": "October 28 COVID-19 Test Results https://calculatedriskblog.com/2020/10/october-28-covid-19-test-results.html\u2026 All bad news",
+  "tweet_url": "https://x.com/i/web/status/1321587457733746688",
+  "image_url": "https://pbs.twimg.com/media/Elc4v-vU8AEA9M1?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 416,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

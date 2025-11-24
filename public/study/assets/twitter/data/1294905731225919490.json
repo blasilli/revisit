@@ -1,0 +1,19 @@
+{
+  "id": "1294905731225919490",
+  "author": "Wendy. notonetzero. antieverythingcovid",
+  "date": "2020-08-16T07:55:59.000Z",
+  "text": "However they\u2019ve counted it. Look at this. Covid is tiny compared all deaths by other causes!",
+  "tweet_url": "https://x.com/i/web/status/1294905731225919490",
+  "image_url": "https://pbs.twimg.com/media/Efht5gRWkAAiJGk?format=jpg&name=small",
+  "image_width": 429,
+  "image_height": 367,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

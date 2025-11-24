@@ -1,0 +1,17 @@
+{
+  "id": "1420627915310460939",
+  "author": "Philippines Vaccine Tracker",
+  "date": "2021-07-29T06:11:03.000Z",
+  "text": "Current total supply is enough to fully vaccinate 25.79% of the 70M herd immunity target.",
+  "tweet_url": "https://x.com/i/web/status/1420627915310460939",
+  "image_url": "https://pbs.twimg.com/media/E7cVT0pUUAQRKUx?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 430,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

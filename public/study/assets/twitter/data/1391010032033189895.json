@@ -1,0 +1,15 @@
+{
+  "id": "1391010032033189895",
+  "author": "Pranesh Prakash (bsky.pranesh.in)",
+  "date": "2021-05-08T12:40:10.000Z",
+  "text": "The largest producer as well as the largest exporter of Covid-19 vaccines is China.",
+  "tweet_url": "https://x.com/i/web/status/1391010032033189895",
+  "image_url": "https://pbs.twimg.com/media/E03cQERVoAEHWXS?format=jpg&name=small",
+  "image_width": 458,
+  "image_height": 670,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

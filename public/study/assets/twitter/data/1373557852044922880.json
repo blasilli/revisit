@@ -1,0 +1,17 @@
+{
+  "id": "1373557852044922880",
+  "author": "Kevin Hague",
+  "date": "2021-03-21T08:51:26.000Z",
+  "text": "superb bit of coronavirus data visualisation in today\u2019s @thesundaytimes",
+  "tweet_url": "https://x.com/i/web/status/1373557852044922880",
+  "image_url": "https://pbs.twimg.com/media/Ew_bld9WgAEjHDj?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 455,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Inappropriate encoding"
+    ],
+    "ReasoningErrors": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1292302141671927808",
+  "author": "Steve Sailer",
+  "date": "2020-08-09T03:30:15.000Z",
+  "text": "But the virus _is_ receding in August. From the New York Times:",
+  "tweet_url": "https://x.com/i/web/status/1292302141671927808",
+  "image_url": "https://pbs.twimg.com/media/Ee8t4lRU4AY_l50?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 406,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

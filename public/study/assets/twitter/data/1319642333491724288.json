@@ -1,0 +1,17 @@
+{
+  "id": "1319642333491724288",
+  "author": "NathanBenefield",
+  "date": "2020-10-23T14:10:24.000Z",
+  "text": "Especially troubling since @GovernorTomWolf's own data doesn't show restaurants as a major factor in new COVID cases",
+  "tweet_url": "https://x.com/i/web/status/1319642333491724288",
+  "image_url": "https://pbs.twimg.com/media/ElBPsKLXYAYSkPR?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 381,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Causal inference"
+    ]
+  }
+}

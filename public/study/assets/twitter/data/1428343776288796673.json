@@ -1,0 +1,18 @@
+{
+  "id": "1428343776288796673",
+  "author": "Teryn Clarke MD",
+  "date": "2021-08-19T13:11:08.000Z",
+  "text": "Hotspot?  Oh you mean like any area where the use of Ivermectin is prohibited??",
+  "tweet_url": "https://x.com/i/web/status/1428343776288796673",
+  "image_url": "https://pbs.twimg.com/media/E9J_F1kVoAEQhU7?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 371,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

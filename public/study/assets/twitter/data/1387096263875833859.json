@@ -1,0 +1,18 @@
+{
+  "id": "1387096263875833859",
+  "author": "Dave Collum",
+  "date": "2021-04-27T17:28:14.000Z",
+  "text": "OMG! Those nitwits in Texas opened up too early. They dropped their guard on covid. The horror. The horror.",
+  "tweet_url": "https://x.com/i/web/status/1387096263875833859",
+  "image_url": "https://pbs.twimg.com/media/Ez_0sfLXEAE0ew8?format=png&name=small",
+  "image_width": 680,
+  "image_height": 404,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

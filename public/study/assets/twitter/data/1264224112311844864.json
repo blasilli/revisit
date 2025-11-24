@@ -1,0 +1,17 @@
+{
+  "id": "1264224112311844864",
+  "author": "Noah Smith ",
+  "date": "2020-05-23T15:58:11.000Z",
+  "text": "Taking HCQ is as strongly associated with increased coronavirus death risk as  DIABETES.\n\nhttps://thelancet.com/journals/lancet/article/PIIS0140-6736(20)31180-6/fulltext\u2026",
+  "tweet_url": "https://x.com/i/web/status/1264224112311844864",
+  "image_url": "https://pbs.twimg.com/media/EYttIRdVAAE5FTN?format=png&name=small",
+  "image_width": 577,
+  "image_height": 680,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Misrepresentation of scientific studies"
+    ]
+  }
+}

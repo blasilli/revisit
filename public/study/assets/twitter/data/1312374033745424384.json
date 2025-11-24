@@ -1,0 +1,17 @@
+{
+  "id": "1312374033745424384",
+  "author": "Andrew Neil",
+  "date": "2020-10-03T12:48:47.000Z",
+  "text": "Update on how that infamous Whitty-Vallance projection is faring against actual data. H/t \u2066\n@RogTallbloke\n\u2069",
+  "tweet_url": "https://x.com/i/web/status/1312374033745424384",
+  "image_url": "https://pbs.twimg.com/media/EjZ9ObdWkAArvpk?format=jpg&name=small",
+  "image_width": 608,
+  "image_height": 481,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

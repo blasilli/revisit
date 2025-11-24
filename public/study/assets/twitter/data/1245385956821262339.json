@@ -1,0 +1,15 @@
+{
+  "id": "1245385956821262339",
+  "author": "Scott Gottlieb, MD ",
+  "date": "2020-04-01T16:22:04.000Z",
+  "text": "#COVID19 cases by city, excluding New York.",
+  "tweet_url": "https://x.com/i/web/status/1245385956821262339",
+  "image_url": "https://pbs.twimg.com/media/EUh_7REWAAAA_15?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 426,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

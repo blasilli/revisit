@@ -1,0 +1,18 @@
+{
+  "id": "1381659052527255556",
+  "author": " Conquer COVID-19 ",
+  "date": "2021-04-12T17:22:42.000Z",
+  "text": "The positive impact of the UK\u2019s vaccination efforts in one graph:",
+  "tweet_url": "https://x.com/i/web/status/1381659052527255556",
+  "image_url": "https://pbs.twimg.com/media/EyyjlXHWgAoYoZe?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 479,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

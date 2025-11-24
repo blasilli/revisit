@@ -1,0 +1,17 @@
+{
+  "id": "1291518908961157120",
+  "author": "Real Developments, CFA",
+  "date": "2020-08-06T23:37:57.000Z",
+  "text": "Not a national pandemic.  \n\nOnly 68 US counties have more than 500 deaths.",
+  "tweet_url": "https://x.com/i/web/status/1291518908961157120",
+  "image_url": "https://pbs.twimg.com/media/EexlWuZVoAEnb1j?format=png&name=small",
+  "image_width": 680,
+  "image_height": 471,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

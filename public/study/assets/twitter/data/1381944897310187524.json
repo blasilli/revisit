@@ -1,0 +1,17 @@
+{
+  "id": "1381944897310187524",
+  "author": "Milhouse Van Houten ",
+  "date": "2021-04-13T12:18:33.000Z",
+  "text": "Ontario update.\n\n#covid19ontario #COVID19 #covid19Canada\n\nOntario covid-19 cases, deaths, and testing.",
+  "tweet_url": "https://x.com/i/web/status/1381944897310187524",
+  "image_url": "https://pbs.twimg.com/media/Ey2mGRwXAAcTDyS?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 340,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

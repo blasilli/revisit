@@ -1,0 +1,17 @@
+{
+  "id": "1425451876762402822",
+  "author": "Eric ",
+  "date": "2021-08-11T13:39:45.000Z",
+  "text": "The vaccines work.",
+  "tweet_url": "https://x.com/i/web/status/1425451876762402822",
+  "image_url": "https://pbs.twimg.com/media/E8g45ZHWQAQ3vW0?format=jpg&name=small",
+  "image_width": 639,
+  "image_height": 680,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Failure to account for statistical nuance"
+    ]
+  }
+}

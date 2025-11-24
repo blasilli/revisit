@@ -1,0 +1,20 @@
+{
+  "id": "1384543881090330634",
+  "author": "Juergen Amft",
+  "date": "2021-04-20T16:25:59.000Z",
+  "text": "Israel, vaccine vs covid deaths.",
+  "tweet_url": "https://x.com/i/web/status/1384543881090330634",
+  "image_url": "https://pbs.twimg.com/media/EzbjRgiUcAQK8_K?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 338,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

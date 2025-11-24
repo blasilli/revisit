@@ -1,0 +1,15 @@
+{
+  "id": "1295705058777149440",
+  "author": "James Todaro, MD",
+  "date": "2020-08-18T12:52:13.000Z",
+  "text": "Denmark is just about to pass Sweden in daily new cases of COVID-19 after adjusting for population size differences.",
+  "tweet_url": "https://x.com/i/web/status/1295705058777149440",
+  "image_url": "https://pbs.twimg.com/media/EftE4bqXsAEtUfu?format=jpg&name=360x360",
+  "image_width": 335,
+  "image_height": 360,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "1375207908628123649",
+  "author": "Bruno Ma\u00e7\u00e3es",
+  "date": "2021-03-25T22:08:10.000Z",
+  "text": "Last week in vaccines. UAE going strong. US will soon overtake the UK. EU with a flat curve",
+  "tweet_url": "https://x.com/i/web/status/1375207908628123649",
+  "image_url": "https://pbs.twimg.com/media/ExW4TEbWUAMvmKx?format=jpg&name=small",
+  "image_width": 655,
+  "image_height": 680,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

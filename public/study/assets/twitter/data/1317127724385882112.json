@@ -1,0 +1,19 @@
+{
+  "id": "1317127724385882112",
+  "author": "Latimer Alder",
+  "date": "2020-10-16T15:38:15.000Z",
+  "text": "Just 1 death in 13 in UK today was 'with Covid'",
+  "tweet_url": "https://x.com/i/web/status/1317127724385882112",
+  "image_url": "https://pbs.twimg.com/media/Ekdgp-rX0AEowWS?format=png&name=small",
+  "image_width": 502,
+  "image_height": 394,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

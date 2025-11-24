@@ -1,0 +1,15 @@
+{
+  "id": "1317785876219502593",
+  "author": "N\u00efck Brown",
+  "date": "2020-10-18T11:13:30.000Z",
+  "text": "People are now getting confirmed tests for COVID-19 worldwide at the same rate as babies are being born.",
+  "tweet_url": "https://x.com/i/web/status/1317785876219502593",
+  "image_url": "https://pbs.twimg.com/media/Ekm25f8WkAAyED4?format=png&name=900x900",
+  "image_width": 683,
+  "image_height": 247,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

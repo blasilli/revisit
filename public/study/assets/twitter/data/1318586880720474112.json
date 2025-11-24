@@ -1,0 +1,15 @@
+{
+  "id": "1318586880720474112",
+  "author": "David H. Montgomery",
+  "date": "2020-10-20T16:16:25.000Z",
+  "text": "The worst sign in today\u2019s data: A record number of newly reported #COVID19 hospital admissions.",
+  "tweet_url": "https://x.com/i/web/status/1318586880720474112",
+  "image_url": "https://pbs.twimg.com/media/EkyPuMaVMAEo_nv?format=png&name=small",
+  "image_width": 680,
+  "image_height": 510,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

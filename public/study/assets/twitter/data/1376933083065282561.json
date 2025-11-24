@@ -1,0 +1,15 @@
+{
+  "id": "1376933083065282561",
+  "author": "Adam Willis",
+  "date": "2021-03-30T16:23:23.000Z",
+  "text": "North Dakota's active Covid cases have almost doubled in March. Back over 1,000 today:",
+  "tweet_url": "https://x.com/i/web/status/1376933083065282561",
+  "image_url": "https://pbs.twimg.com/media/ExvWWwMWEAIbmXZ?format=png&name=small",
+  "image_width": 513,
+  "image_height": 297,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

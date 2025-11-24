@@ -1,0 +1,18 @@
+{
+  "id": "1427307226264489991",
+  "author": "No One ",
+  "date": "2021-08-16T16:32:15.000Z",
+  "text": "New daily covid cases this time last year (pre-vaccination) vs this year (post-vaccination)",
+  "tweet_url": "https://x.com/i/web/status/1427307226264489991",
+  "image_url": "https://pbs.twimg.com/media/E87QWySXMAA2Y8c?format=jpg&name=360x360",
+  "image_width": 292,
+  "image_height": 360,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

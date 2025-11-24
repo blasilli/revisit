@@ -1,0 +1,20 @@
+{
+  "id": "1323163079824285696",
+  "author": "Alistair Haimes",
+  "date": "2020-11-02T07:20:36.000Z",
+  "text": "Awkward?",
+  "tweet_url": "https://x.com/i/web/status/1323163079824285696",
+  "image_url": "https://pbs.twimg.com/media/ElzRzSrXgAE5PFb?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 319,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Inappropriate encoding"
+    ],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold",
+      "Issues with data validity"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "1296237155094876166",
+  "author": "Brooks A. Mick",
+  "date": "2020-08-20T00:06:35.000Z",
+  "text": "We're talking about real, honest numbers, Sonny.",
+  "tweet_url": "https://x.com/i/web/status/1296237155094876166",
+  "image_url": "https://pbs.twimg.com/media/Ef0oumdWoAEuVQx?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 448,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold",
+      "Issues with data validity"
+    ]
+  }
+}

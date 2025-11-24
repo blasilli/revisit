@@ -1,0 +1,15 @@
+{
+  "id": "1287822731623489541",
+  "author": "Matt Margolis",
+  "date": "2020-07-27T18:50:40.000Z",
+  "text": "Daily COVID-19 tests per thousand people.",
+  "tweet_url": "https://x.com/i/web/status/1287822731623489541",
+  "image_url": "https://pbs.twimg.com/media/Ed9Dy4hWoAEwhb5?format=png&name=small",
+  "image_width": 680,
+  "image_height": 450,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1291585992659546112",
+  "author": "madmick1",
+  "date": "2020-08-07T04:04:31.000Z",
+  "text": "Countries using HCQ and results..\nAustralia has banned it ... WTF..\nCheck the results...  https://x.com/TreforJones2/s/TreforJones2/status/1291557682126532610\u2026",
+  "tweet_url": "https://x.com/i/web/status/1291585992659546112",
+  "image_url": "https://pbs.twimg.com/media/EeyihpWUMAACmKg?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 373,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Causal inference"
+    ]
+  }
+}

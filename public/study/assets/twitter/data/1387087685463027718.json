@@ -1,0 +1,17 @@
+{
+  "id": "1387087685463027718",
+  "author": "University of Oxford",
+  "date": "2021-04-27T16:54:09.000Z",
+  "text": "COMPARISON: UK disease cases in the 1900s vs UK disease cases in 2018\n\n#VaccinesWork #WorldImmunisationWeek",
+  "tweet_url": "https://x.com/i/web/status/1387087685463027718",
+  "image_url": "https://pbs.twimg.com/media/Ez_s5gPWEAIuRkl?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 383,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

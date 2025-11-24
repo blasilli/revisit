@@ -1,0 +1,17 @@
+{
+  "id": "1418679993681334272",
+  "author": "Paul Branin",
+  "date": "2021-07-23T21:10:42.000Z",
+  "text": "Calling it a pandemic is absurd at this point.",
+  "tweet_url": "https://x.com/i/web/status/1418679993681334272",
+  "image_url": "https://pbs.twimg.com/media/E7Ap72zVoAgf6H2?format=jpg&name=medium",
+  "image_width": 675,
+  "image_height": 1200,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

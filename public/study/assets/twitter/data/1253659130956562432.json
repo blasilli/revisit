@@ -1,0 +1,18 @@
+{
+  "id": "1253659130956562432",
+  "author": "Labour Left",
+  "date": "2020-04-24T12:16:43.000Z",
+  "text": "The political class are wrong to push for an end to lockdown. We run the risk of a second wave and more death.",
+  "tweet_url": "https://x.com/i/web/status/1253659130956562432",
+  "image_url": "https://pbs.twimg.com/media/EWXkUtYXgAE8s5E?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 650,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

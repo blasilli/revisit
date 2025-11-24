@@ -1,0 +1,19 @@
+{
+  "id": "1374794913800355840",
+  "author": "PLC",
+  "date": "2021-03-24T18:47:04.000Z",
+  "text": "Here's a version which mirrors the NY Times graph (showing declines from start of vaccination).",
+  "tweet_url": "https://x.com/i/web/status/1374794913800355840",
+  "image_url": "https://pbs.twimg.com/media/ExRAiRFVoAQzKTo?format=png&name=small",
+  "image_width": 680,
+  "image_height": 381,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Unclear encoding"
+    ],
+    "ReasoningErrors": [
+      "Causal inference"
+    ]
+  }
+}

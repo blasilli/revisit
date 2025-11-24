@@ -1,0 +1,18 @@
+{
+  "id": "1391569704922193922",
+  "author": "Jalil Rasheed",
+  "date": "2021-05-10T01:44:06.000Z",
+  "text": "Vaccination is safe. Follow the science, not hearsay. Encourage those around you to register.",
+  "tweet_url": "https://x.com/i/web/status/1391569704922193922",
+  "image_url": "https://pbs.twimg.com/media/E0_ZRF9VkAIO0LE?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 675,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

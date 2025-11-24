@@ -1,0 +1,17 @@
+{
+  "id": "1370323419158482944",
+  "author": "Neelendra Nath",
+  "date": "2021-03-12T10:38:57.000Z",
+  "text": "These two images are sufficient to display how incompetent media is. \n\n#COVID19",
+  "tweet_url": "https://x.com/i/web/status/1370323419158482944",
+  "image_url": "https://pbs.twimg.com/media/EwRd4q_XMAQuRTl?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 510,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Unclear encoding"
+    ],
+    "ReasoningErrors": []
+  }
+}

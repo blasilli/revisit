@@ -2,7 +2,8 @@
   "$schema": "https://raw.githubusercontent.com/revisit-studies/study/v2.3.2/src/parser/GlobalConfigSchema.json",
   "configsList": [
     "TrueVisLies",
-    "TrueVisLies_TEST"
+    "TrueVisLies_TEST",
+    "study"
   ],
   "configsListOriginal": [
     "tutorial",
@@ -56,6 +57,9 @@
     "test-step-logic"
   ],
   "configs": {
+    "study": {
+      "path": "study/config.json"
+    },
     "TrueVisLies": {
       "path": "TrueVisLies/config.json"
     },

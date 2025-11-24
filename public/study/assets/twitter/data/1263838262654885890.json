@@ -1,0 +1,15 @@
+{
+  "id": "1263838262654885890",
+  "author": "Jim Murphy",
+  "date": "2020-05-22T14:24:57.000Z",
+  "text": "Proportion in each country of total Covid-19 deaths taking place in care homes/care home settings. 3/5",
+  "tweet_url": "https://x.com/i/web/status/1263838262654885890",
+  "image_url": "https://pbs.twimg.com/media/EYoOMpAWsAA2ZVJ?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 510,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

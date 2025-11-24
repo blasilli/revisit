@@ -1,0 +1,17 @@
+{
+  "id": "1352471585651879937",
+  "author": "Milhouse Van Houten ",
+  "date": "2021-01-22T04:22:08.000Z",
+  "text": "Threads for week ending Jan. 23:\n\n#covid19Canada #COVID19Ontario #covid19qc #COVID19toronto #covid19ottawa #COVID19",
+  "tweet_url": "https://x.com/i/web/status/1352471585651879937",
+  "image_url": "https://pbs.twimg.com/media/EsTxPvDW4AIyxyZ?format=jpg&name=360x360",
+  "image_width": 360,
+  "image_height": 180,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "1322461003209166849",
+  "author": "susan richardson",
+  "date": "2020-10-31T08:50:47.000Z",
+  "text": "Spot the country that didn\u2019t lockdown.",
+  "tweet_url": "https://x.com/i/web/status/1322461003209166849",
+  "image_url": "https://pbs.twimg.com/media/ElpTRarXUAAh5HH?format=jpg&name=small",
+  "image_width": 567,
+  "image_height": 680,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

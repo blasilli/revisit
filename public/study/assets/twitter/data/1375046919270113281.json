@@ -1,0 +1,17 @@
+{
+  "id": "1375046919270113281",
+  "author": "Marina Della Giusta, EconProf@Unito, European",
+  "date": "2021-03-25T11:28:27.000Z",
+  "text": "No evidence of association between schools and SARS-CoV-2 second wave in Italy https://medrxiv.org/content/10.1101/2020.12.16.20248134v1\u2026 \n@monacelt",
+  "tweet_url": "https://x.com/i/web/status/1375046919270113281",
+  "image_url": "https://pbs.twimg.com/media/ExUl0r-XMAQsl-d?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 389,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Causal inference"
+    ]
+  }
+}

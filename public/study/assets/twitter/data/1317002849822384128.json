@@ -1,0 +1,19 @@
+{
+  "id": "1317002849822384128",
+  "author": "Francis Hoar",
+  "date": "2020-10-16T07:22:02.000Z",
+  "text": "What second wave?",
+  "tweet_url": "https://x.com/i/web/status/1317002849822384128",
+  "image_url": "https://pbs.twimg.com/media/EkbvG_-XEAIeqNn?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 382,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

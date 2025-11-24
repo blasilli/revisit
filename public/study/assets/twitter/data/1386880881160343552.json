@@ -1,0 +1,15 @@
+{
+  "id": "1386880881160343552",
+  "author": "BenoitMD",
+  "date": "2021-04-27T03:12:23.000Z",
+  "text": "VAERS covid vaccine reported deaths, by age (as of April 27, 2021)",
+  "tweet_url": "https://x.com/i/web/status/1386880881160343552",
+  "image_url": "https://pbs.twimg.com/media/Ez8wzAPXsAE6U6i?format=png&name=900x900",
+  "image_width": 602,
+  "image_height": 900,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1289848486377058304",
+  "author": "DM Sambalpur",
+  "date": "2020-08-02T09:00:18.000Z",
+  "text": "Covid Bulletin for 2nd August, 2020 \n@HFWOdisha\n \n@CMO_Odisha\n \n@rvineel_krishna\n \n@SRC_Odisha",
+  "tweet_url": "https://x.com/i/web/status/1289848486377058304",
+  "image_url": "https://pbs.twimg.com/media/EeZ2W4IUwAYbkHz?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 383,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1419312208152911880",
+  "author": "Eric Topol",
+  "date": "2021-07-25T15:02:54.000Z",
+  "text": "Los Angeles County (largest in the US, population nearly 10 million people)",
+  "tweet_url": "https://x.com/i/web/status/1419312208152911880",
+  "image_url": "https://pbs.twimg.com/media/E7JorF1VUAk4pq1?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 369,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Failure to account for statistical nuance"
+    ]
+  }
+}

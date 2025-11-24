@@ -1,0 +1,15 @@
+{
+  "id": "1316776665385754625",
+  "author": "Lawrence Dunhill",
+  "date": "2020-10-15T16:23:16.000Z",
+  "text": "NEW:\n\nNorth West hospital beds occupied by covid+ patients up to around 1,540",
+  "tweet_url": "https://x.com/i/web/status/1316776665385754625",
+  "image_url": "https://pbs.twimg.com/media/EkYhK8WXcAMIJpY?format=png&name=small",
+  "image_width": 599,
+  "image_height": 409,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

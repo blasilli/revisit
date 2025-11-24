@@ -1,0 +1,15 @@
+{
+  "id": "1387676596006424576",
+  "author": "PerpetualValue",
+  "date": "2021-04-29T07:54:16.000Z",
+  "text": "I updated (April 16, 2021) the VAERS reported vaccine deaths graph.\n\nhttps://vaers.hhs.gov\nhttps://openvaers.com/covid-data",
+  "tweet_url": "https://x.com/i/web/status/1387676596006424576",
+  "image_url": "https://pbs.twimg.com/media/E0IEKIYXEAAbcQ2?format=png&name=small",
+  "image_width": 495,
+  "image_height": 285,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1428240449651855361",
+  "author": "Ajaxfriend2",
+  "date": "2021-08-19T06:20:33.000Z",
+  "text": "#klaarmetRutte\nIn case you haven't noticed yet, Covid19(84) cured the annual flu.\n\nConnect the Dots",
+  "tweet_url": "https://x.com/i/web/status/1428240449651855361",
+  "image_url": "https://pbs.twimg.com/media/E9IhHeNWQAYznmG?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 350,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Issues with data validity"
+    ]
+  }
+}

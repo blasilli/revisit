@@ -1,0 +1,17 @@
+{
+  "id": "1294920708875857921",
+  "author": "StopDeLockdown",
+  "date": "2020-08-16T08:55:30.000Z",
+  "text": "Same overhere in holland. I used hospitalizations as 2nd\n#secondwave is bullshit so far.",
+  "tweet_url": "https://x.com/i/web/status/1294920708875857921",
+  "image_url": "https://pbs.twimg.com/media/Efh7b4ZWsAAfvBX?format=png&name=small",
+  "image_width": 680,
+  "image_height": 633,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

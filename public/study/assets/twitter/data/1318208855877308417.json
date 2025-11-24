@@ -1,0 +1,15 @@
+{
+  "id": "1318208855877308417",
+  "author": "Alistair Haimes",
+  "date": "2020-10-19T15:14:17.000Z",
+  "text": "First reduction in 7-day average of cases (by specimen date) in UK's \"2nd wave\"\n\nhttps://coronavirus.data.gov.uk/cases",
+  "tweet_url": "https://x.com/i/web/status/1318208855877308417",
+  "image_url": "https://pbs.twimg.com/media/Eks351GWMAE-JD7?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 288,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

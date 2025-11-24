@@ -1,0 +1,17 @@
+{
+  "id": "1325226404691075073",
+  "author": "Bill McBride",
+  "date": "2020-11-07T23:59:31.000Z",
+  "text": "November 7 COVID-19 Test Results; Record Cases; Hospitalizations almost 56,000 https://calculatedriskblog.com/2020/11/november-7-covid-19-test-results-record.html\u2026",
+  "tweet_url": "https://x.com/i/web/status/1325226404691075073",
+  "image_url": "https://pbs.twimg.com/media/EmQmVO4UcAAA29F?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 419,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

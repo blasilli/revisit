@@ -1,0 +1,18 @@
+{
+  "id": "1261749263018659845",
+  "author": "Brian Wesbury",
+  "date": "2020-05-16T20:04:01.000Z",
+  "text": "New York State COVID-19 deaths and cases peaked a month ago...why are they staying locked down?",
+  "tweet_url": "https://x.com/i/web/status/1261749263018659845",
+  "image_url": "https://pbs.twimg.com/media/EYKiQDsXgAEQGQl?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 408,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold",
+      "Issues with data validity"
+    ]
+  }
+}

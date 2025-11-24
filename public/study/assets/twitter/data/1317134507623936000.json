@@ -1,0 +1,15 @@
+{
+  "id": "1317134507623936000",
+  "author": "David H. Montgomery",
+  "date": "2020-10-16T16:05:12.000Z",
+  "text": "I\u2019ve got the new #COVID19 case data for Minnesota, but first, make sure you\u2019re sitting down.\n\nReady?",
+  "tweet_url": "https://x.com/i/web/status/1317134507623936000",
+  "image_url": "https://pbs.twimg.com/media/Ekdm1bMUUAAi-3Q?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 510,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

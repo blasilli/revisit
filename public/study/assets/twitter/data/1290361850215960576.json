@@ -1,0 +1,18 @@
+{
+  "id": "1290361850215960576",
+  "author": "Climate Dispatch",
+  "date": "2020-08-03T19:00:13.000Z",
+  "text": "#Lockdown And #Mask Mandate In #Peru | Real Climate Science https://realclimatescience.com/2020/08/lockdown-and-mask-mandate-in-peru/\u2026",
+  "tweet_url": "https://x.com/i/web/status/1290361850215960576",
+  "image_url": "https://pbs.twimg.com/media/EehJQ8YWsAAeiB6?format=png&name=small",
+  "image_width": 680,
+  "image_height": 434,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

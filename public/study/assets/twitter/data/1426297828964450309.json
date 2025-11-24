@@ -1,0 +1,17 @@
+{
+  "id": "1426297828964450309",
+  "author": "Aaron Ginn",
+  "date": "2021-08-13T21:41:16.000Z",
+  "text": "Note continuous excess mortality in the low-risk COVID age group.",
+  "tweet_url": "https://x.com/i/web/status/1426297828964450309",
+  "image_url": "https://pbs.twimg.com/media/E8s6UL8XsAYHS6N?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 417,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

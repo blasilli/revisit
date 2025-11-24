@@ -1,0 +1,15 @@
+{
+  "id": "1261102411957010438",
+  "author": "Paul Farhi",
+  "date": "2020-05-15T01:13:39.000Z",
+  "text": "Statistics that boggle the mind:\n\nU.S. coronavirus deaths: 86,541. \n\nSouth Korea coronavirus deaths: 260.",
+  "tweet_url": "https://x.com/i/web/status/1261102411957010438",
+  "image_url": "https://pbs.twimg.com/media/EYBV9UcXsAEnzl0?format=jpg&name=small",
+  "image_width": 369,
+  "image_height": 680,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

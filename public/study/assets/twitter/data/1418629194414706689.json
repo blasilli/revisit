@@ -1,0 +1,17 @@
+{
+  "id": "1418629194414706689",
+  "author": "Garrett Watson",
+  "date": "2021-07-23T17:48:51.000Z",
+  "text": "Here is a better visual. https://reddit.com/r/dataisbeautiful/comments/olvh4p/covid19_among_fully_vaccinated_people_in_la/\u2026",
+  "tweet_url": "https://x.com/i/web/status/1418629194414706689",
+  "image_url": "https://pbs.twimg.com/media/E6_7snLXoAUDDLh?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 383,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Failure to account for statistical nuance"
+    ]
+  }
+}

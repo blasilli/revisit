@@ -1,0 +1,15 @@
+{
+  "id": "1313892523149086720",
+  "author": "Chris Masterjohn",
+  "date": "2020-10-07T17:22:43.000Z",
+  "text": "A daily reminder of how bad it's getting for COVID deaths in NYC:",
+  "tweet_url": "https://x.com/i/web/status/1313892523149086720",
+  "image_url": "https://pbs.twimg.com/media/EjviQsMXcAY_ZhS?format=png&name=small",
+  "image_width": 680,
+  "image_height": 399,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

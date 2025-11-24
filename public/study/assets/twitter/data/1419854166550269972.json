@@ -1,0 +1,17 @@
+{
+  "id": "1419854166550269972",
+  "author": "FungalDoc: moved to bluesky",
+  "date": "2021-07-27T02:56:27.000Z",
+  "text": "COVID vaccines aren't perfect, but they are damn good. Wonder illustration from DarrenLu on Reddit.",
+  "tweet_url": "https://x.com/i/web/status/1419854166550269972",
+  "image_url": "https://pbs.twimg.com/media/E7RV1mOXMAEggdi?format=png&name=small",
+  "image_width": 680,
+  "image_height": 551,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Failure to account for statistical nuance"
+    ]
+  }
+}

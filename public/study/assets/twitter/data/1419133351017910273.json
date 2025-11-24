@@ -1,0 +1,17 @@
+{
+  "id": "1419133351017910273",
+  "author": "StrongFormidableConvincing  #GlazersOut",
+  "date": "2021-07-25T03:12:11.000Z",
+  "text": "Malaysia Vaccination Statistics \n\n24 July 2021 - Updated Weekly\nData from: \n@MYVaccineCount",
+  "tweet_url": "https://x.com/i/web/status/1419133351017910273",
+  "image_url": "https://pbs.twimg.com/media/E7HFFqXVkAIvI0W?format=jpg&name=900x900",
+  "image_width": 900,
+  "image_height": 406,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

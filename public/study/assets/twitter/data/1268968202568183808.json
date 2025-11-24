@@ -1,0 +1,17 @@
+{
+  "id": "1268968202568183808",
+  "author": "NighSide",
+  "date": "2020-06-05T18:09:30.000Z",
+  "text": "Remember when we were all horrified at the thought of 20,000 Coronavirus deaths in the UK? \n#BorisHasFailedTheNation",
+  "tweet_url": "https://x.com/i/web/status/1268968202568183808",
+  "image_url": "https://pbs.twimg.com/media/EZxHxoyWoAMfCDv?format=jpg&name=360x360",
+  "image_width": 360,
+  "image_height": 360,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

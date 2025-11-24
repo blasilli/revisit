@@ -1,0 +1,15 @@
+{
+  "id": "1389262468631826437",
+  "author": "Erin Clouse, MPH",
+  "date": "2021-05-03T16:55:58.000Z",
+  "text": "Percentage of each age group with at least one #vaccine completed.",
+  "tweet_url": "https://x.com/i/web/status/1389262468631826437",
+  "image_url": "https://pbs.twimg.com/media/E0ejk-8VoAAVXwi?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 469,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

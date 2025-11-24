@@ -1,0 +1,18 @@
+{
+  "id": "1426304531722391557",
+  "author": "Kenny",
+  "date": "2021-08-13T22:07:54.000Z",
+  "text": "MOST Vaccine Hesitant are PhDs ! W",
+  "tweet_url": "https://x.com/i/web/status/1426304531722391557",
+  "image_url": "https://pbs.twimg.com/media/E8tAaT5WUAAMnvc?format=jpg&name=small",
+  "image_width": 607,
+  "image_height": 680,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Causal inference",
+      "Misrepresentation of scientific studies"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "1425848042041876484",
+  "author": "MR. Michael",
+  "date": "2021-08-12T15:53:58.000Z",
+  "text": "August 12, 2020\nCovid cases= 95\n\nAugust 12, 2021\nCovid cases =513 with over 72% of all ON fully \u2018vaccinated\u2019 ",
+  "tweet_url": "https://x.com/i/web/status/1425848042041876484",
+  "image_url": "https://pbs.twimg.com/media/E8mhPIHXsAcxV6e?format=jpg&name=900x900",
+  "image_width": 657,
+  "image_height": 900,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

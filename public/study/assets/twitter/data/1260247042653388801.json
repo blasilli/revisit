@@ -1,0 +1,15 @@
+{
+  "id": "1260247042653388801",
+  "author": "Steve Edwards",
+  "date": "2020-05-12T16:34:43.000Z",
+  "text": "This is a helpful graphic considering characteristics of typical flu versus COVID-19.",
+  "tweet_url": "https://x.com/i/web/status/1260247042653388801",
+  "image_url": "https://pbs.twimg.com/media/EX1MALwWAAAYZuY?format=jpg&name=small",
+  "image_width": 616,
+  "image_height": 680,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

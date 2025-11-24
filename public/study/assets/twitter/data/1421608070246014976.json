@@ -1,0 +1,15 @@
+{
+  "id": "1421608070246014976",
+  "author": "Samuel Ramani",
+  "date": "2021-07-31T23:05:50.000Z",
+  "text": "Sinovac leads the way in global vaccine deliveries.\n\nSputnik V is second from the bottom.",
+  "tweet_url": "https://x.com/i/web/status/1421608070246014976",
+  "image_url": "https://pbs.twimg.com/media/E7qOwx4XIAAOd-G?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 372,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1384984908066664450",
+  "author": "Joel ",
+  "date": "2021-04-21T21:38:28.000Z",
+  "text": "COVID-19 vaccinations by date of administration and deaths, USA. Open to interpretation.",
+  "tweet_url": "https://x.com/i/web/status/1384984908066664450",
+  "image_url": "https://pbs.twimg.com/media/Ezh0NBRWEAgZalv?format=png&name=small",
+  "image_width": 680,
+  "image_height": 445,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

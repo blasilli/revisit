@@ -1,0 +1,17 @@
+{
+  "id": "1376236776570904577",
+  "author": "ArmedAlabama FM1065",
+  "date": "2021-03-28T18:16:31.000Z",
+  "text": "Focus on history. Here is the current pandemic in world history.",
+  "tweet_url": "https://x.com/i/web/status/1376236776570904577",
+  "image_url": "https://pbs.twimg.com/media/ExlgCboWQAAE9ey?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 680,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

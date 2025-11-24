@@ -1,0 +1,19 @@
+{
+  "id": "1289792632676261888",
+  "author": "Robert Gergely, MD",
+  "date": "2020-08-02T05:18:21.000Z",
+  "text": "\"Evidence based Medicine\" Just died!",
+  "tweet_url": "https://x.com/i/web/status/1289792632676261888",
+  "image_url": "https://pbs.twimg.com/media/EeZDbTHVAAEY6wR?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 545,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference",
+      "Issues with data validity"
+    ]
+  }
+}

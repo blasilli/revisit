@@ -1,0 +1,17 @@
+{
+  "id": "1295799738697048064",
+  "author": "Chris Anderson",
+  "date": "2020-08-18T19:08:27.000Z",
+  "text": "Declines in US daily cases and deaths continue",
+  "tweet_url": "https://x.com/i/web/status/1295799738697048064",
+  "image_url": "https://pbs.twimg.com/media/Efua6jDVoAAb1Bu?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 418,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

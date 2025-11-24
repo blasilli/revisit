@@ -1,0 +1,17 @@
+{
+  "id": "1261403781985497090",
+  "author": "Lucknow Post",
+  "date": "2020-05-15T21:11:12.000Z",
+  "text": "Corona Watch : Situation in India at 11:55 pm on May 15\n#CoronaAlert #India #IndependentTracker #LucknowPost",
+  "tweet_url": "https://x.com/i/web/status/1261403781985497090",
+  "image_url": "https://pbs.twimg.com/media/EYFoCPTUwAAcBhC?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 680,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

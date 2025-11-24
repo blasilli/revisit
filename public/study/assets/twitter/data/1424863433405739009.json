@@ -1,0 +1,15 @@
+{
+  "id": "1424863433405739009",
+  "author": "Paul Graham",
+  "date": "2021-08-09T22:41:29.000Z",
+  "text": "Thanks to Delta, more people are hospitalized with Covid-19 in Florida than at any previous point in the epidemic.",
+  "tweet_url": "https://x.com/i/web/status/1424863433405739009",
+  "image_url": "https://pbs.twimg.com/media/E8Yhq7iX0AIZrfm?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 440,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "1317127961104056321",
+  "author": "Brian Wesbury",
+  "date": "2020-10-16T15:39:11.000Z",
+  "text": "First Trust COVID-Tracker, October 15, 2020 Edition (Check out the bottom chart, great new edition!) #COVID19Tracker",
+  "tweet_url": "https://x.com/i/web/status/1317127961104056321",
+  "image_url": "https://pbs.twimg.com/media/Ekdg5iRXgAM0-uv?format=jpg&name=900x900",
+  "image_width": 695,
+  "image_height": 900,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

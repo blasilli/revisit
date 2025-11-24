@@ -1,0 +1,17 @@
+{
+  "id": "1324258215337578496",
+  "author": "Zacki",
+  "date": "2020-11-05T07:52:16.000Z",
+  "text": "Germany\u00b4s second wave: \nAsymptomatic vs. Symptomatic vs. Tests\n\n#zweitewelle \n#WhyAreTheyDoingThis",
+  "tweet_url": "https://x.com/i/web/status/1324258215337578496",
+  "image_url": "https://pbs.twimg.com/media/EmC1Kl7XgAEWL9A?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 367,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

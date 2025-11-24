@@ -1,0 +1,15 @@
+{
+  "id": "1263441462877806603",
+  "author": "Trinh",
+  "date": "2020-05-21T11:51:28.000Z",
+  "text": "Covid deaths per state in America. Look what stands out. New York, New York.",
+  "tweet_url": "https://x.com/i/web/status/1263441462877806603",
+  "image_url": "https://pbs.twimg.com/media/EYilO9iVAAEMriZ?format=png&name=small",
+  "image_width": 680,
+  "image_height": 418,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "1382033950432894983",
+  "author": "Michael Pereira",
+  "date": "2021-04-13T18:12:25.000Z",
+  "text": "The province of Manitoba reports 138 COVID-19 cases in hospital including 33 in ICU. \n\n#wfp",
+  "tweet_url": "https://x.com/i/web/status/1382033950432894983",
+  "image_url": "https://pbs.twimg.com/media/Ey323HyVIAkl6u7?format=png&name=small",
+  "image_width": 680,
+  "image_height": 471,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

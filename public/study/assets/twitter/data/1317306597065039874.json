@@ -1,0 +1,17 @@
+{
+  "id": "1317306597065039874",
+  "author": "Milhouse Van Houten ",
+  "date": "2020-10-17T03:29:01.000Z",
+  "text": "October 17 \u2013Ontario daily update\n\nData is 100% public and official, and fully cited.\n\n#COVID19Canada #COVID19Ontario",
+  "tweet_url": "https://x.com/i/web/status/1317306597065039874",
+  "image_url": "https://pbs.twimg.com/media/EkgCvgpXUAAURhx?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 340,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Inverted axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

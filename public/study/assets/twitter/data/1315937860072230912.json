@@ -1,0 +1,15 @@
+{
+  "id": "1315937860072230912",
+  "author": "datatosee.com",
+  "date": "2020-10-13T08:50:09.000Z",
+  "text": "Flu & Pneumonia deaths v COVID-19 deaths up to week 40 (28/9) with the 5 year average for Flu & Pneumonia (red line)",
+  "tweet_url": "https://x.com/i/web/status/1315937860072230912",
+  "image_url": "https://pbs.twimg.com/media/EkMmHPrXYAEJJdt?format=png&name=small",
+  "image_width": 680,
+  "image_height": 335,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

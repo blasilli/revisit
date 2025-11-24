@@ -1,0 +1,15 @@
+{
+  "id": "1313361370587500544",
+  "author": "Nicolas Vandewalle",
+  "date": "2020-10-06T06:12:06.000Z",
+  "text": "#covid19 in the hospitals of #Belgium. No model is perfect, be careful with numbers.",
+  "tweet_url": "https://x.com/i/web/status/1313361370587500544",
+  "image_url": "https://pbs.twimg.com/media/Ejn_K2qWAAAgn9o?format=jpg&name=360x360",
+  "image_width": 360,
+  "image_height": 323,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

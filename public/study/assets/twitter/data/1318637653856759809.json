@@ -1,0 +1,15 @@
+{
+  "id": "1318637653856759809",
+  "author": "KRQE Live",
+  "date": "2020-10-20T19:38:10.000Z",
+  "text": "\"This curve is chilling,\" said Dr. Scrase of New Mexico's 7-day average of daily COVID-19 positive cases.",
+  "tweet_url": "https://x.com/i/web/status/1318637653856759809",
+  "image_url": "https://pbs.twimg.com/media/Eky9xxSX0AAn6P7?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 383,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

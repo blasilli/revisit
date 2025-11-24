@@ -1,0 +1,18 @@
+{
+  "id": "1314937085137235968",
+  "author": "Marina Medvin ",
+  "date": "2020-10-10T14:33:26.000Z",
+  "text": "Graph of Wuhan Virus deaths in Sweden, no restrictions.",
+  "tweet_url": "https://x.com/i/web/status/1314937085137235968",
+  "image_url": "https://pbs.twimg.com/media/Ej-YI0nX0AErN-q?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 362,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

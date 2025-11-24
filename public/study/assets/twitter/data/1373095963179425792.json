@@ -1,0 +1,15 @@
+{
+  "id": "1373095963179425792",
+  "author": "Noah Smith ",
+  "date": "2021-03-20T02:16:03.000Z",
+  "text": "Vaccination fell today. That's worrying.",
+  "tweet_url": "https://x.com/i/web/status/1373095963179425792",
+  "image_url": "https://pbs.twimg.com/media/Ew43d7VVEAAKEv6?format=png&name=small",
+  "image_width": 628,
+  "image_height": 342,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

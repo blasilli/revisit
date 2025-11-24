@@ -1,0 +1,18 @@
+{
+  "id": "1422204978685489158",
+  "author": "Kyle Becker",
+  "date": "2021-08-02T14:37:44.000Z",
+  "text": "By comparison, COVID is now only 1/10th as deadly. It's at around 362 deaths per day.",
+  "tweet_url": "https://x.com/i/web/status/1422204978685489158",
+  "image_url": "https://pbs.twimg.com/media/E7yv47SXIAQssjI?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 415,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1382241150573109249",
+  "author": "Naugh Mc'Oloz",
+  "date": "2021-04-14T07:55:45.000Z",
+  "text": "Mwananchi has spoken.\n\n Reasons for not desiring Covid-19 vaccination\n#MwananchiEconomy \n\n@CoRGAfrica",
+  "tweet_url": "https://x.com/i/web/status/1382241150573109249",
+  "image_url": "https://pbs.twimg.com/media/Ey61ACNWEAIoygd?format=jpg&name=small",
+  "image_width": 600,
+  "image_height": 483,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}
