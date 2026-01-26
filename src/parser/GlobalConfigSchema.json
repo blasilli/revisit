@@ -38,20 +38,12 @@
             "type": "string"
           },
           "type": "array"
-        },
-        "configsListOriginal": {
-          "description": "A copy of the original full list of configs for reference.",
-          "items": {
-            "type": "string"
-          },
-          "type": "array"
         }
       },
       "required": [
         "$schema",
         "configs",
-        "configsList",
-        "configsListOriginal"
+        "configsList"
       ],
       "type": "object"
     }

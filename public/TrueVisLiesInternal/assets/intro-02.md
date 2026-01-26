@@ -2,8 +2,8 @@
 
 Please familiarize yourself with the concepts of:
 
- 
-- **Author Intent and Factors Behind the Misleading Effect**
+1. **Rhetorical Techniques**  
+2. **Author Intent and Factors Behind the Misleading Effect**
 
 These definitions are shown in the interface inside collapsible panels, and you can consult them **at any time during the study** if you are unsure.
 
@@ -14,7 +14,24 @@ These definitions are shown in the interface inside collapsible panels, and you 
 
 ---
 
-### Author Intent and Factors Behind the Misleading Effect
+### 1. Rhetorical Techniques
+
+Rhetorical techniques describe ways in which visualizations or accompanying text can guide the design and presentation of the visualization.
+
+The study uses the following five categories:
+
+- Information Access Rhetoric  
+- Provenance Rhetoric
+- Mapping Rhetoric
+- Linguistic-Based Rhetoric
+- Procedural Rhetoric
+
+These **complete definitions** will appear in a collapsible panel titled **“Rhetorical Techniques”** during the study.
+
+
+---
+
+### 2. Author Intent and Factors Behind the Misleading Effect
 
 These categories describe possible **intentional** or **unintentional** reasons why the visualization may be misleading.
 
@@ -39,7 +56,7 @@ These **complete definitions** will appear in a collapsible panel titled **“Au
 
 ### Collapsed panel example:
 <p>
-  <img src="./study/assets/guide-definitions-closed.png"
+  <img src="./TrueVisLies/assets/guide-definitions-closed.png"
        style="width:50%; border:1px solid black; padding:4px; border-radius:4px;">
 </p>
 
@@ -49,7 +66,7 @@ These **complete definitions** will appear in a collapsible panel titled **“Au
 
 ### Open panel example:
 <p>
-  <img src="./study/assets/guide-definitions-opened.png"
+  <img src="./TrueVisLies/assets/guide-definitions-opened.png"
        style="width:50%; border:1px solid black; padding:4px; border-radius:4px;">
 </p>
 

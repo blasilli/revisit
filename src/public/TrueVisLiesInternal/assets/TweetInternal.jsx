@@ -89,12 +89,12 @@ function Tweet({ parameters }) {
 
   const {
     tweetId,
-    error
+    errors
   } = parameters;
 
-  const imgUrl = `../study/assets/twitter/images/${tweetId}.png`;
-  const dataUrl = `../study/assets/twitter/data/${tweetId}.json`;
-  const docUrl = `../study/assets/TrueVisLiesStudyDoc.pdf`;
+  const imgUrl = `../TrueVisLiesInternal/assets/twitter/images/${tweetId}.png`;
+  const dataUrl = `../TrueVisLiesInternal/assets/twitter/data/${tweetId}.json`;
+  const docUrl = `../TrueVisLiesInternal/assets/TrueVisLiesStudyDoc.pdf`;
 
   // ---- Tweet data ----
   const [tweet, setTweet] = useState(null);
@@ -199,30 +199,41 @@ function Tweet({ parameters }) {
           }}
         >
           <span>
-            This is a tweet that contains <b>misleading visualization(s)</b> affected by the following error:&nbsp;
+            This is a tweet that contains <b>misleading visualization(s)</b> affected by the following error(s):&nbsp;
           </span>
-          <span
+        </p>
+        {/* Descriptions of the errors */
+        errors.map((errorType) => (
+          <p 
+            key={errorType}
             style={{
-              fontWeight: 700,
-              color: '#ae2105',
+              fontSize: '0.9em',
+              textAlign: 'left',
+              marginTop: 4,
+              paddingTop: 0,
+              marginBottom: 10,
             }}
           >
-            {error ? error : '...'}
-          </span>
-        </p>
-        <p
-          style={{
-            textAlign: 'center',
-            fontStyle: 'italic',
-            fontSize: '0.9em',
-            color: '#51565aff',
-            marginTop: 4,
-            paddingTop: 0,
-            marginBottom: 4,
-          }}
-        >
-          {error ? getErrorDescription(error) : '...'}
-        </p>
+            <span
+              style={{
+                fontWeight: 700,
+                color: '#ae2105',
+                marginRight: 6,
+              }}
+            >
+              {errorType + ':'}
+            </span>
+
+            <span
+              style={{
+                fontStyle: 'italic',
+                color: '#51565aff'
+              }}
+            >
+              {getErrorDescription(errorType)}
+            </span>
+          </p>   
+        ))}
       </div>
 
       <div
@@ -356,7 +367,66 @@ function Tweet({ parameters }) {
         Drag up/down the handle above to resize the image
       </div>
 
-      
+      {/* Rhetoric overview (collapsible) */}
+      <div
+        className='rhetoricOverview'
+        style={{
+          fontSize: '0.9em',
+          background: '#ffffff',
+          padding: '20px 30px',
+          borderRadius: 8,
+          border: '1px solid #e1e8ed',
+          boxShadow: '0 2px 4px rgba(0,0,0,0.04)',
+          marginTop: 20,
+          marginBottom: 10,
+        }}
+      >
+        <div
+          onClick={() => setShowRhetoric((v) => !v)}
+          style={{
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'space-between',
+            cursor: 'pointer',
+            marginBottom: showRhetoric ? 12 : 0,
+          }}
+        >
+          <span style={{ fontWeight: 600 }}>Rhetorical Techniques</span>
+          <div style={{ display: 'flex', alignItems: 'center', gap: 8, lineHeight: '35px'}}>
+            <span style={{ fontSize: '0.8em', color: '#51565aff' }}>{showRhetoric ? '[COLLAPSE]' : '[EXPAND]'}</span>
+            <span style={{ fontSize: 30 }}>{showRhetoric ? '▾' : '▸'}</span>
+          </div>
+        </div>
+
+        {showRhetoric && (
+          <ul
+            style={{
+              fontSize: '0.9em',
+              paddingLeft: 20,
+              marginTop: 0,
+            }}
+          >
+            {Object.entries(rhetorics).map(([rhetoric, description]) => (
+              <li key={rhetoric} style={{paddingBottom: '6px'}}>
+                <b>{rhetoric}</b>:&nbsp;
+                <span>{description}</span>
+              </li>
+            ))}
+          </ul>
+        )}
+        { /* Link for open documentation in external tab */}
+        {showRhetoric && ( <p>
+          To see these descriptions in a separate tab, open the &nbsp;
+          <a 
+            href={docUrl} 
+            target='_blank' 
+            rel='noopener noreferrer'
+            style={{ color: '#1da1f2', textDecoration: 'none' }}
+          >
+            documentation
+          </a>.
+        </p>)}
+      </div>
 
       {/* Purposes overview (collapsible) */}
       <div

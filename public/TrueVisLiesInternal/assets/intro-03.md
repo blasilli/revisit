@@ -15,7 +15,7 @@ Below that, you will see the original tweet embedded.
 Example:
 
 <p>
-  <img src="./study/assets/guide-tweet.png"
+  <img src="./TrueVisLies/assets/guide-tweet.png"
        style="width:50%; border:2px solid black; padding:4px; border-radius:4px;">
 </p>
 
@@ -31,15 +31,20 @@ After reviewing the definitions, you will answer three mandatory questions. And 
 
 ---
 
+#### Q1 — Rhetorical Techniques
 
-#### Q1 — Author Intent and Factors
-
-> **Q1** - Which **author's intentions** may have **contributed** to making this visualization **misleading**, and how significant is each one's contribution?  
+> **Q1** - Which **rhetorical techniques** may have **contributed** to making this visualization **misleading**, and how significant is each one's contribution?
 
 ---
 
-#### Q2 — Overall Intentionality Judgment
+#### Q2 — Author Intent and Factors
 
-> **Q2** - Overall, how much do you think the **misleading aspects** of this visualization may have been **intentional**, rather than **accidental** (unintentional)?
+> **Q2** - Which **author's intentions** may have **contributed** to making this visualization **misleading**, and how significant is each one's contribution?  
+
+---
+
+#### Q4 — Overall Intentionality Judgment
+
+> **Q4** - Overall, how much do you think the **misleading aspects** of this visualization may have been **intentional**, rather than **accidental** (unintentional)?
 
 
