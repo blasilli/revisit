@@ -1,0 +1,17 @@
+{
+  "id": "1322646251939287043",
+  "author": "Scott Gottlieb, MD ",
+  "date": "2020-10-31T21:06:54.000Z",
+  "text": "As Covid cases rise sharply around the nation, hospitalizations and Covid deaths are also starting to increase.",
+  "tweet_url": "https://x.com/i/web/status/1322646251939287043",
+  "image_url": "https://pbs.twimg.com/media/Elr7Yh1XUAAk_Cf?format=png&name=small",
+  "image_width": 556,
+  "image_height": 337,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

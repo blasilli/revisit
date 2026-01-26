@@ -1,0 +1,20 @@
+{
+  "id": "1318260190706388993",
+  "author": "Pensjonerad",
+  "date": "2020-10-19T18:38:16.000Z",
+  "text": "3/8 Thirdly adding chart comparing flu season to flu season. As noticed, 2019 had very few deaths. +",
+  "tweet_url": "https://x.com/i/web/status/1318260190706388993",
+  "image_url": "https://pbs.twimg.com/media/Ektmp79WAAAYBe6?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 492,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Truncated axis"
+    ],
+    "ReasoningErrors": [
+      "Causal inference",
+      "Issues with data validity"
+    ]
+  }
+}

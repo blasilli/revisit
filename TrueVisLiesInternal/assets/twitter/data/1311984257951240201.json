@@ -1,0 +1,15 @@
+{
+  "id": "1311984257951240201",
+  "author": "Niko Speybroeck",
+  "date": "2020-10-02T10:59:57.000Z",
+  "text": "#COVID19 cases per 100k in #Belgium: fromto pattern.",
+  "tweet_url": "https://x.com/i/web/status/1311984257951240201",
+  "image_url": "https://pbs.twimg.com/media/EjUahSaXkAAynEL?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 317,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

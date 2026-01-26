@@ -1,0 +1,19 @@
+{
+  "id": "1295033843020435456",
+  "author": "Openyoureyes",
+  "date": "2020-08-16T16:25:03.000Z",
+  "text": "Enough",
+  "tweet_url": "https://x.com/i/web/status/1295033843020435456",
+  "image_url": "https://pbs.twimg.com/media/Efjiai_WAAMUUBa?format=jpg&name=medium",
+  "image_width": 675,
+  "image_height": 1200,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Inverted axis"
+    ],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

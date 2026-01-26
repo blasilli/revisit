@@ -1,0 +1,17 @@
+{
+  "id": "1388901929036750848",
+  "author": "Andrew Hob",
+  "date": "2021-05-02T17:03:19.000Z",
+  "text": "Looking at it by age group is another way to visualize it",
+  "tweet_url": "https://x.com/i/web/status/1388901929036750848",
+  "image_url": "https://pbs.twimg.com/media/E0Ze8O1WQAgwBOu?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 383,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

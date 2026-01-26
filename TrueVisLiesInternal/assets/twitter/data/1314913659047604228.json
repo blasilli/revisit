@@ -1,0 +1,15 @@
+{
+  "id": "1314913659047604228",
+  "author": "LongTongueSilver",
+  "date": "2020-10-10T13:00:20.000Z",
+  "text": "This chart tracks the progression from infection to death.",
+  "tweet_url": "https://x.com/i/web/status/1314913659047604228",
+  "image_url": "https://pbs.twimg.com/media/Ej-DAJTXkAI1USh?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 432,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

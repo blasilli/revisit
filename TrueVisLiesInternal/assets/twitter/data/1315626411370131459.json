@@ -1,0 +1,15 @@
+{
+  "id": "1315626411370131459",
+  "author": "Welsh Government",
+  "date": "2020-10-12T12:12:34.000Z",
+  "text": "Here\u2019s the map and the graphs shown at today\u2019s press conference ",
+  "tweet_url": "https://x.com/i/web/status/1315626411370131459",
+  "image_url": "https://pbs.twimg.com/media/EkILMKNXsAI57dr?format=jpg&name=small",
+  "image_width": 481,
+  "image_height": 680,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

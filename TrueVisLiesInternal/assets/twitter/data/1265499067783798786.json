@@ -1,0 +1,15 @@
+{
+  "id": "1265499067783798786",
+  "author": "Jonathan Nez",
+  "date": "2020-05-27T04:24:24.000Z",
+  "text": "48 new cases of COVID-19, one more death, and 1,585 recoveries reported",
+  "tweet_url": "https://x.com/i/web/status/1265499067783798786",
+  "image_url": "https://pbs.twimg.com/media/EY_0qQAXYAMxBnv?format=jpg&name=small",
+  "image_width": 526,
+  "image_height": 680,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

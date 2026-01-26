@@ -1,0 +1,17 @@
+{
+  "id": "1417513819484606466",
+  "author": "Latimer Alder",
+  "date": "2021-07-20T15:56:45.000Z",
+  "text": "Overwhelmed?\n\nThere are 260 NHS staff for every 1 'with Covid' patient in their care today",
+  "tweet_url": "https://x.com/i/web/status/1417513819484606466",
+  "image_url": "https://pbs.twimg.com/media/E6wE5bjXsAMbi4Z?format=png&name=small",
+  "image_width": 522,
+  "image_height": 464,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

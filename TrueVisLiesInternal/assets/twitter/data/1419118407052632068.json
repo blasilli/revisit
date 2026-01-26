@@ -1,0 +1,18 @@
+{
+  "id": "1419118407052632068",
+  "author": "Prof",
+  "date": "2021-07-25T02:12:48.000Z",
+  "text": "Public Health: We need NPIs to stop the spread. It is in our control.\n\nSARS COV2:",
+  "tweet_url": "https://x.com/i/web/status/1419118407052632068",
+  "image_url": "https://pbs.twimg.com/media/E7G4qFiXEAIzm2B?format=png&name=small",
+  "image_width": 608,
+  "image_height": 361,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

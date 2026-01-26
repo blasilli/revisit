@@ -1,0 +1,15 @@
+{
+  "id": "1263449416914153472",
+  "author": "Scott Gottlieb, MD ",
+  "date": "2020-05-21T12:39:49.000Z",
+  "text": "This is a cut of the national covid hospitalization data for states outside the New York tristate region.",
+  "tweet_url": "https://x.com/i/web/status/1263449416914153472",
+  "image_url": "https://pbs.twimg.com/media/EYisWTKXQAIOjFQ?format=png&name=small",
+  "image_width": 680,
+  "image_height": 399,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

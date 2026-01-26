@@ -1,0 +1,17 @@
+{
+  "id": "1293782666123202561",
+  "author": "#IndiaFightsCorona",
+  "date": "2020-08-13T05:33:19.000Z",
+  "text": "#IndiaFightsCorona:\n\n Increasing number of #COVID19 testing labs in India\n\n\n@ICMRDELHI\n\n\n#StaySafe #IndiaWillWin",
+  "tweet_url": "https://x.com/i/web/status/1293782666123202561",
+  "image_url": "https://pbs.twimg.com/media/EfRvhr-UYAAVhIx?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 383,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

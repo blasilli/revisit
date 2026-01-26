@@ -1,0 +1,15 @@
+{
+  "id": "1288299644838002688",
+  "author": "Jonathan Nez",
+  "date": "2020-07-29T02:25:45.000Z",
+  "text": "6,585 recoveries, 15 new cases, and five more deaths\u00a0related\u00a0to COVID-19",
+  "tweet_url": "https://x.com/i/web/status/1288299644838002688",
+  "image_url": "https://pbs.twimg.com/media/EeD1rXCVoAANb7c?format=jpg&name=360x360",
+  "image_width": 286,
+  "image_height": 360,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

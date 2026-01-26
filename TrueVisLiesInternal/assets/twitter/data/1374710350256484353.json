@@ -1,0 +1,17 @@
+{
+  "id": "1374710350256484353",
+  "author": "Bruno Ma\u00e7\u00e3es",
+  "date": "2021-03-24T13:11:03.000Z",
+  "text": "Vaccines save lives",
+  "tweet_url": "https://x.com/i/web/status/1374710350256484353",
+  "image_url": "https://pbs.twimg.com/media/ExPzxcXW8AE5uau?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 627,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Causal inference"
+    ]
+  }
+}

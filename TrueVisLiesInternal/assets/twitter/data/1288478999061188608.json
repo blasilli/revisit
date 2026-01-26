@@ -1,0 +1,18 @@
+{
+  "id": "1288478999061188608",
+  "author": "Kyle",
+  "date": "2020-07-29T14:18:26.000Z",
+  "text": "Argentina longest and strictest lockdown in the world, cases rising by the day",
+  "tweet_url": "https://x.com/i/web/status/1288478999061188608",
+  "image_url": "https://pbs.twimg.com/media/EeGY0iiXsAMeiE2?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 434,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

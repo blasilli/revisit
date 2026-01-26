@@ -1,0 +1,18 @@
+{
+  "id": "1324532782236880896",
+  "author": "Alan Tomalty",
+  "date": "2020-11-06T02:03:18.000Z",
+  "text": "Sweden had only 5 deaths yesterday. Their pandemic is over.",
+  "tweet_url": "https://x.com/i/web/status/1324532782236880896",
+  "image_url": "https://pbs.twimg.com/media/EmGu_yqXUAAJxj0?format=jpg&name=medium",
+  "image_width": 1200,
+  "image_height": 352,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

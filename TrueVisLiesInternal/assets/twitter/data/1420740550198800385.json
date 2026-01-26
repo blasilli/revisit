@@ -1,0 +1,17 @@
+{
+  "id": "1420740550198800385",
+  "author": "Phil Williams",
+  "date": "2021-07-29T13:38:37.000Z",
+  "text": "THIS MORNING'S NEW DATA: The dramatic surge in #COVID19 hospitalizations in Tennessee continues. #GetVaccinatedNow",
+  "tweet_url": "https://x.com/i/web/status/1420740550198800385",
+  "image_url": "https://pbs.twimg.com/media/E7d7s3jX0AALL5r?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 520,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

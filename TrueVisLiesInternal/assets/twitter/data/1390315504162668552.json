@@ -1,0 +1,15 @@
+{
+  "id": "1390315504162668552",
+  "author": "Institute for Health Metrics and Evaluation (IHME)",
+  "date": "2021-05-06T14:40:21.000Z",
+  "text": "This map reflects what we estimate to be the total COVID-19 death rate through May 3, 2021:",
+  "tweet_url": "https://x.com/i/web/status/1390315504162668552",
+  "image_url": "https://pbs.twimg.com/media/E0tc8WZUcAA0_Gv?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 380,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "1290075951750090755",
+  "author": "Poker and Politics",
+  "date": "2020-08-03T00:04:10.000Z",
+  "text": "Yes, let\u2019s emulate Sweden, the nation that did a real bang up job with COVID.",
+  "tweet_url": "https://x.com/i/web/status/1290075951750090755",
+  "image_url": "https://pbs.twimg.com/media/EedFPYCWoAAHcUb?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 574,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Setting an arbitrary threshold",
+      "Causal inference",
+      "Issues with data validity"
+    ]
+  }
+}

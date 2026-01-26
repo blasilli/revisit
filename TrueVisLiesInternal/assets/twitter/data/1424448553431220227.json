@@ -1,0 +1,18 @@
+{
+  "id": "1424448553431220227",
+  "author": "Prof. Freedom",
+  "date": "2021-08-08T19:12:54.000Z",
+  "text": "Israel Covid ICU \n2020 vs. 2021 (same timeframe)\nNo vax vs. Vax",
+  "tweet_url": "https://x.com/i/web/status/1424448553431220227",
+  "image_url": "https://pbs.twimg.com/media/E8SoaRFWQAEX5Uy?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 191,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

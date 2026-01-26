@@ -1,0 +1,17 @@
+{
+  "id": "1426208260789456896",
+  "author": "PlungeProtectionTeam",
+  "date": "2021-08-13T15:45:21.000Z",
+  "text": "Delta Collapsing on Rate of Change\u2026\n#COVID19 \n\nQuickly becoming yesterday\u2019s news. \nThankfully.",
+  "tweet_url": "https://x.com/i/web/status/1426208260789456896",
+  "image_url": "https://pbs.twimg.com/media/E8ro2o9VkAMMjFt?format=jpg&name=900x900",
+  "image_width": 602,
+  "image_height": 900,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Inappropriate encoding"
+    ],
+    "ReasoningErrors": []
+  }
+}

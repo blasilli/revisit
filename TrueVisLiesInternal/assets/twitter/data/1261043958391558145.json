@@ -1,0 +1,17 @@
+{
+  "id": "1261043958391558145",
+  "author": "Bill McBride",
+  "date": "2020-05-14T21:21:23.000Z",
+  "text": "May 14 Update: US COVID-19 Test Results: Virginia Separates Out Antibody Tests https://calculatedriskblog.com/2020/05/may-14-update-us-covid-19-test-results.html\u2026",
+  "tweet_url": "https://x.com/i/web/status/1261043958391558145",
+  "image_url": "https://pbs.twimg.com/media/EYAgyglVAAA1cig?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 398,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

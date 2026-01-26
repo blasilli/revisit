@@ -1,0 +1,15 @@
+{
+  "id": "1371596624145780736",
+  "author": "Eric Topol",
+  "date": "2021-03-15T22:58:12.000Z",
+  "text": "The upswing in covid among multiple Western European countries, attributable to B.1.1.7",
+  "tweet_url": "https://x.com/i/web/status/1371596624145780736",
+  "image_url": "https://pbs.twimg.com/media/EwjjwraVkAEOKMX?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 434,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

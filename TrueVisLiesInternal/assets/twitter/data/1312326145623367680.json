@@ -1,0 +1,15 @@
+{
+  "id": "1312326145623367680",
+  "author": "TRT World",
+  "date": "2020-10-03T09:38:29.000Z",
+  "text": "Here's a look at active cases of #Covid19, which has killed over a million people worldwide:",
+  "tweet_url": "https://x.com/i/web/status/1312326145623367680",
+  "image_url": "https://pbs.twimg.com/media/EjZRb-XWoAE9y1S?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 415,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

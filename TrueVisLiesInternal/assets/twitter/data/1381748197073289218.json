@@ -1,0 +1,18 @@
+{
+  "id": "1381748197073289218",
+  "author": "J Chamie",
+  "date": "2021-04-12T23:16:56.000Z",
+  "text": "P1 in Manaus Brazil\nFollow up!",
+  "tweet_url": "https://x.com/i/web/status/1381748197073289218",
+  "image_url": "https://pbs.twimg.com/media/Eyz0hphXEAAbxE0?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 454,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "1311348482838536192",
+  "author": "John003",
+  "date": "2020-09-30T16:53:36.000Z",
+  "text": "Even Sweden itself is having a mini 2nd wave....Deaths very low....No lockdown...",
+  "tweet_url": "https://x.com/i/web/status/1311348482838536192",
+  "image_url": "https://pbs.twimg.com/media/EjLYfqZXYAEJCnb?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 430,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

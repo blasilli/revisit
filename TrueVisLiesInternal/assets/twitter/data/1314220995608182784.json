@@ -1,0 +1,15 @@
+{
+  "id": "1314220995608182784",
+  "author": "Michael Cowan",
+  "date": "2020-10-08T15:07:57.000Z",
+  "text": "17,540 confirmed #coronavirus cases today. \nA rise of over 3,000 on yesterday\u2019s figures. #CovidUK",
+  "tweet_url": "https://x.com/i/web/status/1314220995608182784",
+  "image_url": "https://pbs.twimg.com/media/Ej0NByJXgAAqto-?format=jpg&name=900x900",
+  "image_width": 732,
+  "image_height": 900,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

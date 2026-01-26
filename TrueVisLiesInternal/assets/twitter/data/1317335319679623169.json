@@ -1,0 +1,18 @@
+{
+  "id": "1317335319679623169",
+  "author": "L\u1d0f\u0280\u1d05 CopOut26 ",
+  "date": "2020-10-17T05:23:09.000Z",
+  "text": "Exhibit A.",
+  "tweet_url": "https://x.com/i/web/status/1317335319679623169",
+  "image_url": "https://pbs.twimg.com/media/EkgdfX_VMAABXp7?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 619,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

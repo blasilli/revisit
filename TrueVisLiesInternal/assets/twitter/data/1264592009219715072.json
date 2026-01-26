@@ -1,0 +1,17 @@
+{
+  "id": "1264592009219715072",
+  "author": "Ted Nesi",
+  "date": "2020-05-24T16:20:04.000Z",
+  "text": "A sad milestone: today Rhode Island\u2019s coronavirus death toll passed 600 people https://wpri.com/covid-19-tracking-timeline-maps/\u2026",
+  "tweet_url": "https://x.com/i/web/status/1264592009219715072",
+  "image_url": "https://pbs.twimg.com/media/EYy7uc-WsAEmpyN?format=jpg&name=900x900",
+  "image_width": 660,
+  "image_height": 900,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

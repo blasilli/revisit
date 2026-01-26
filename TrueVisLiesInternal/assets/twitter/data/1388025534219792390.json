@@ -1,0 +1,18 @@
+{
+  "id": "1388025534219792390",
+  "author": "Steven Lost",
+  "date": "2021-04-30T07:00:50.000Z",
+  "text": "Yes India's use of ivermectin insured their death rate was much lower than the UK. ",
+  "tweet_url": "https://x.com/i/web/status/1388025534219792390",
+  "image_url": "https://pbs.twimg.com/media/E0NB3f3UUAIslXt?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 407,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

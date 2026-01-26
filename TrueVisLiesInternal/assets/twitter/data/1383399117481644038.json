@@ -1,0 +1,15 @@
+{
+  "id": "1383399117481644038",
+  "author": "Max Roser",
+  "date": "2021-04-13T08:43:37.000Z",
+  "text": "Another update on the pandemic in India.",
+  "tweet_url": "https://x.com/i/web/status/1383399117481644038",
+  "image_url": "https://pbs.twimg.com/media/EzLSKWVVoAAwwM8?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 480,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

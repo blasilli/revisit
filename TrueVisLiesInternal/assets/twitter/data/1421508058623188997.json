@@ -1,0 +1,17 @@
+{
+  "id": "1421508058623188997",
+  "author": "Dave Collum",
+  "date": "2021-07-31T16:28:26.000Z",
+  "text": "This is awkward...",
+  "tweet_url": "https://x.com/i/web/status/1421508058623188997",
+  "image_url": "https://pbs.twimg.com/media/E7o2CuSX0AQ1A8K?format=jpg&name=small",
+  "image_width": 500,
+  "image_height": 288,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Causal inference"
+    ]
+  }
+}

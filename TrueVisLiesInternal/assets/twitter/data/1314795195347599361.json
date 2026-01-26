@@ -1,0 +1,15 @@
+{
+  "id": "1314795195347599361",
+  "author": "Mike Baker",
+  "date": "2020-10-10T05:09:36.000Z",
+  "text": "There were 58,375 new coronavirus cases in the United States today. \n\nhttps://nytimes.com/interactive/2020/us/coronavirus-us-cases.html\u2026",
+  "tweet_url": "https://x.com/i/web/status/1314795195347599361",
+  "image_url": "https://pbs.twimg.com/media/Ej8WX98VkAAEFpl?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 518,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

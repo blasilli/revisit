@@ -1,0 +1,17 @@
+{
+  "id": "1315606466238148609",
+  "author": "DM Sambalpur",
+  "date": "2020-10-12T10:53:18.000Z",
+  "text": "Covid bulletin for 12.10.2020 of Sambalpur district.",
+  "tweet_url": "https://x.com/i/web/status/1315606466238148609",
+  "image_url": "https://pbs.twimg.com/media/EkH5F-EUwAEgvJ0?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 424,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

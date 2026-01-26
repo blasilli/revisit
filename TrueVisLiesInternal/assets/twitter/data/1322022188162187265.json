@@ -1,0 +1,20 @@
+{
+  "id": "1322022188162187265",
+  "author": "Glen Woodfin",
+  "date": "2020-10-30T03:47:06.000Z",
+  "text": "Trump Is Right, We've Turned the Corner on COVID\n\nCDC Confirms, the Death Rate Is Going to ZERO",
+  "tweet_url": "https://x.com/i/web/status/1322022188162187265",
+  "image_url": "https://pbs.twimg.com/media/EljD-DNXEAAZjog?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 480,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Inappropriate encoding"
+    ],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold",
+      "Issues with data validity"
+    ]
+  }
+}

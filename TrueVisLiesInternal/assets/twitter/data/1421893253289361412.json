@@ -1,0 +1,17 @@
+{
+  "id": "1421893253289361412",
+  "author": "Michael Absoud",
+  "date": "2021-08-01T17:59:03.000Z",
+  "text": "Good news- PCR test positivity down from 11.8% week ending 19th July (step 4 England) to 8.7% week ending 26 July",
+  "tweet_url": "https://x.com/i/web/status/1421893253289361412",
+  "image_url": "https://pbs.twimg.com/media/E7uUYFVXIAAk5bN?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 345,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

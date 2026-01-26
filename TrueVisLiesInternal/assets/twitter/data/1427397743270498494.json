@@ -1,0 +1,20 @@
+{
+  "id": "1427397743270498494",
+  "author": "Question",
+  "date": "2021-08-16T22:31:56.000Z",
+  "text": "They used ivermectin ...its banned in  Australia",
+  "tweet_url": "https://x.com/i/web/status/1427397743270498494",
+  "image_url": "https://pbs.twimg.com/media/E88irpZVEAkRnl5?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 433,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

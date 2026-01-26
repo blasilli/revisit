@@ -1,0 +1,17 @@
+{
+  "id": "1319644179274829826",
+  "author": "Brian Wesbury",
+  "date": "2020-10-23T14:17:44.000Z",
+  "text": "First Trust COVID Tracker, October 22, 2020 Edition",
+  "tweet_url": "https://x.com/i/web/status/1319644179274829826",
+  "image_url": "https://pbs.twimg.com/media/ElBRYpeXIAEKFNg?format=jpg&name=900x900",
+  "image_width": 695,
+  "image_height": 900,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

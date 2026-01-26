@@ -1,0 +1,17 @@
+{
+  "id": "1382713833932869632",
+  "author": "Derek Gatopoulos",
+  "date": "2021-04-15T15:14:02.000Z",
+  "text": "104 deaths reported today in Greece. \n\n#Greece #Covid_19",
+  "tweet_url": "https://x.com/i/web/status/1382713833932869632",
+  "image_url": "https://pbs.twimg.com/media/EzBivSYXIAYlfCz?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 391,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

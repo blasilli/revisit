@@ -1,0 +1,18 @@
+{
+  "id": "1321336528983990273",
+  "author": "Campagnol",
+  "date": "2020-10-28T06:22:32.000Z",
+  "text": "No mask, no lockdown, no stupid government",
+  "tweet_url": "https://x.com/i/web/status/1321336528983990273",
+  "image_url": "https://pbs.twimg.com/media/ElZUhxmXUAAFoWC?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 443,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "1425142227404218368",
+  "author": "G. Craige Lewis",
+  "date": "2021-08-10T17:09:19.000Z",
+  "text": "Gotta add cov deaths to preexisting health issue deaths or you wouldn\u2019t have a pandemic",
+  "tweet_url": "https://x.com/i/web/status/1425142227404218368",
+  "image_url": "https://pbs.twimg.com/media/E8cfTX-XsAA_YEG?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 517,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold",
+      "Issues with data validity"
+    ]
+  }
+}

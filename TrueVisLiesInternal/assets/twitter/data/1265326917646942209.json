@@ -1,0 +1,15 @@
+{
+  "id": "1265326917646942209",
+  "author": "Justin Hart",
+  "date": "2020-05-26T17:00:20.000Z",
+  "text": "Checking in on Georgia. How goes it down there?",
+  "tweet_url": "https://x.com/i/web/status/1265326917646942209",
+  "image_url": "https://pbs.twimg.com/media/EY9YIC8WkAsNVt1?format=jpg&name=small",
+  "image_width": 607,
+  "image_height": 680,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

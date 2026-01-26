@@ -1,0 +1,17 @@
+{
+  "id": "1267509567350587399",
+  "author": "jam khan shoro",
+  "date": "2020-06-01T17:33:24.000Z",
+  "text": "Hyd covid last 24 hours",
+  "tweet_url": "https://x.com/i/web/status/1267509567350587399",
+  "image_url": "https://pbs.twimg.com/media/EZcZOCfWoAABRrY?format=jpg&name=medium",
+  "image_width": 496,
+  "image_height": 1024,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

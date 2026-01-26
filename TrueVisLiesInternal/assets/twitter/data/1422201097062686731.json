@@ -1,0 +1,17 @@
+{
+  "id": "1422201097062686731",
+  "author": "zerohedge",
+  "date": "2021-08-02T14:22:19.000Z",
+  "text": "Record low hospitalization rate",
+  "tweet_url": "https://x.com/i/web/status/1422201097062686731",
+  "image_url": "https://pbs.twimg.com/media/E7ysW_tXMAQ76lT?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 538,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Causal inference"
+    ]
+  }
+}

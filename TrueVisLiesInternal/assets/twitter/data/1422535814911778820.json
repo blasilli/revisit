@@ -1,0 +1,18 @@
+{
+  "id": "1422535814911778820",
+  "author": "Jeremy Hobson",
+  "date": "2021-08-03T12:32:22.000Z",
+  "text": "A tale of two cities: New Orleans and Provincetown. \n\nGet. Vaccinated.",
+  "tweet_url": "https://x.com/i/web/status/1422535814911778820",
+  "image_url": "https://pbs.twimg.com/media/E73cyKKWYAInUOJ?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 436,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

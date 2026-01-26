@@ -1,0 +1,17 @@
+{
+  "id": "1382679633020256259",
+  "author": "Prof. Freedom",
+  "date": "2021-04-15T12:58:08.000Z",
+  "text": "Flatten the Curve!",
+  "tweet_url": "https://x.com/i/web/status/1382679633020256259",
+  "image_url": "https://pbs.twimg.com/media/EzBDwk6WQAAabpi?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 402,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Causal inference"
+    ]
+  }
+}

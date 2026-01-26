@@ -1,0 +1,17 @@
+{
+  "id": "1297827623163265025",
+  "author": "Zacki",
+  "date": "2020-08-24T09:26:32.000Z",
+  "text": "Germany: \ntests vs. asymptomatic vs. symptomatic",
+  "tweet_url": "https://x.com/i/web/status/1297827623163265025",
+  "image_url": "https://pbs.twimg.com/media/EgLPMB3XsAAzpDU?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 382,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

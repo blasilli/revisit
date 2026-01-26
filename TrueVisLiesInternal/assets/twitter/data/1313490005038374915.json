@@ -1,0 +1,18 @@
+{
+  "id": "1313490005038374915",
+  "author": "Alistair Haimes",
+  "date": "2020-10-06T14:43:15.000Z",
+  "text": "Covid deaths, UK and Sweden.  This could get very awkward.\n\nhttps://ourworldindata.org/coronavirus-data-explorer?zoomToSelection=true&time=2020-01-12..latest&country=GBR~SWE&region=World&deathsMetric=true&interval=smoothed&perCapita=true&smoothing=7&pickerMetric=location&pickerSort=asc\u2026",
+  "tweet_url": "https://x.com/i/web/status/1313490005038374915",
+  "image_url": "https://pbs.twimg.com/media/Ejp0C4aXcAAS4pD?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 480,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

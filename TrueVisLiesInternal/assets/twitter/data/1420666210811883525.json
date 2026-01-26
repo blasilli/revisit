@@ -1,0 +1,17 @@
+{
+  "id": "1420666210811883525",
+  "author": "angie brooks",
+  "date": "2021-07-29T08:43:14.000Z",
+  "text": "Why oh why us Sweden being ignored? #NoVaccinePassport #COVID19",
+  "tweet_url": "https://x.com/i/web/status/1420666210811883525",
+  "image_url": "https://pbs.twimg.com/media/E7c4Yy_WEAElp_R?format=jpg&name=360x360",
+  "image_width": 360,
+  "image_height": 351,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Causal inference"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1369327421627990022",
+  "author": "James Melville ",
+  "date": "2021-03-09T16:41:12.000Z",
+  "text": "US States. Compare and contrast.",
+  "tweet_url": "https://x.com/i/web/status/1369327421627990022",
+  "image_url": "https://pbs.twimg.com/media/EwDUB1sXYAA4Rgd?format=jpg&name=small",
+  "image_width": 584,
+  "image_height": 680,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Causal inference"
+    ]
+  }
+}

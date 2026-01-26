@@ -1,0 +1,20 @@
+{
+  "id": "1427408868083073026",
+  "author": "Question",
+  "date": "2021-08-16T23:16:08.000Z",
+  "text": "Yep .. they need to report this",
+  "tweet_url": "https://x.com/i/web/status/1427408868083073026",
+  "image_url": "https://pbs.twimg.com/media/E88szMwUYAADwmP?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 433,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

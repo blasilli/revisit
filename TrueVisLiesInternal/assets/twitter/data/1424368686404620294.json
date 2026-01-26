@@ -1,0 +1,15 @@
+{
+  "id": "1424368686404620294",
+  "author": "Thomas Massie",
+  "date": "2021-08-08T13:55:32.000Z",
+  "text": "National ICU bed capacity and the portion occupied by COVID patients.\n\nhttps://coronavirus.jhu.edu/data/hospitalization-7-day-trend\u2026",
+  "tweet_url": "https://x.com/i/web/status/1424368686404620294",
+  "image_url": "https://pbs.twimg.com/media/E8RfxHLXMAAjeRa?format=jpg&name=small",
+  "image_width": 581,
+  "image_height": 680,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

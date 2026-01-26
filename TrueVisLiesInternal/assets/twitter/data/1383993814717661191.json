@@ -1,0 +1,19 @@
+{
+  "id": "1383993814717661191",
+  "author": "Dr. Urso",
+  "date": "2021-04-19T04:00:13.000Z",
+  "text": "No medical reason to lockdown Canada. None, zero!!",
+  "tweet_url": "https://x.com/i/web/status/1383993814717661191",
+  "image_url": "https://pbs.twimg.com/media/EzTvCeUVgAomqls?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 336,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

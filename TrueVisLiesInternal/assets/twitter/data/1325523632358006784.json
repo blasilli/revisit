@@ -1,0 +1,15 @@
+{
+  "id": "1325523632358006784",
+  "author": "COVID-19 Tracker Canada",
+  "date": "2020-11-08T19:40:35.000Z",
+  "text": "The 7-day rolling average in #Saskatchewan is at an all-time high of 97 cases/day and ~0.5 fatalities/day:",
+  "tweet_url": "https://x.com/i/web/status/1325523632358006784",
+  "image_url": "https://pbs.twimg.com/media/EmU0nmrVkAA8x5k?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 458,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

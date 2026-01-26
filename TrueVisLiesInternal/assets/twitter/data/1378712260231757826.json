@@ -1,0 +1,18 @@
+{
+  "id": "1378712260231757826",
+  "author": "Andrew Hart",
+  "date": "2021-04-04T14:13:12.000Z",
+  "text": "It\u2019s not even a proper pandemic. It\u2019s a v bad flu season",
+  "tweet_url": "https://x.com/i/web/status/1378712260231757826",
+  "image_url": "https://pbs.twimg.com/media/EyIrffyWEAIcHnl?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 679,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold",
+      "Issues with data validity"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "1322598951682560000",
+  "author": "Prof. Freedom",
+  "date": "2020-10-31T17:58:57.000Z",
+  "text": "Currently safest place in Europe:\nSweden.\n\nP.S.\nYou don't need to wear a mask to be safe in Sweden.",
+  "tweet_url": "https://x.com/i/web/status/1322598951682560000",
+  "image_url": "https://pbs.twimg.com/media/ElrQvKgXgAMLcZl?format=jpg&name=small",
+  "image_width": 600,
+  "image_height": 680,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

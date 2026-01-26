@@ -1,0 +1,15 @@
+{
+  "id": "1317243643405664256",
+  "author": "Scott Galloway",
+  "date": "2020-10-16T23:18:52.000Z",
+  "text": "Map of coronavirus deaths per capita around the world \nhttps://buzzfeednews.com/article/peteraldhous/coronavirus-deaths-cases-world-us-maps-charts\u2026",
+  "tweet_url": "https://x.com/i/web/status/1317243643405664256",
+  "image_url": "https://pbs.twimg.com/media/EkfJ6vwXEAArZCG?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 385,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

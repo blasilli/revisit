@@ -1,0 +1,17 @@
+{
+  "id": "1426638009114443779",
+  "author": "CC",
+  "date": "2021-08-14T20:13:01.000Z",
+  "text": "Here is a look at ICU beds in NY from \n@JohnsHopkins\n.\n\nSource: https://coronavirus.jhu.edu/data/hospitalization-7-day-trend/new-york\u2026",
+  "tweet_url": "https://x.com/i/web/status/1426638009114443779",
+  "image_url": "https://pbs.twimg.com/media/E8xnmnnXIAQGAZ3?format=png&name=small",
+  "image_width": 680,
+  "image_height": 471,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

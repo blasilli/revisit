@@ -1,0 +1,18 @@
+{
+  "id": "1374326579086516227",
+  "author": "Hannilein",
+  "date": "2021-03-23T11:46:04.000Z",
+  "text": "The last one is not a pandemic, but a Scamdemic.   Rebranding of a flu.",
+  "tweet_url": "https://x.com/i/web/status/1374326579086516227",
+  "image_url": "https://pbs.twimg.com/media/ExKWvVkVoAQRiAs?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 680,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold",
+      "Issues with data validity"
+    ]
+  }
+}

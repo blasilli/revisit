@@ -1,0 +1,17 @@
+{
+  "id": "1323165383327649792",
+  "author": "Alistair Haimes",
+  "date": "2020-11-02T07:20:36.000Z",
+  "text": "The data is not obeying the predictions ",
+  "tweet_url": "https://x.com/i/web/status/1323165383327649792",
+  "image_url": "https://pbs.twimg.com/media/ElzTx1nXEAA9-w2?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 374,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

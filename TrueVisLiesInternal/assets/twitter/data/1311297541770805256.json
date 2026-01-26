@@ -1,0 +1,17 @@
+{
+  "id": "1311297541770805256",
+  "author": "Carl Vernon",
+  "date": "2020-09-30T13:31:11.000Z",
+  "text": "Red: Deaths by Rona\nBlue: Flu\n\n 10 TIMES less deadly for 14 WEEKS \n\nMaybe we should lockdown for the flu.",
+  "tweet_url": "https://x.com/i/web/status/1311297541770805256",
+  "image_url": "https://pbs.twimg.com/media/EjKpM-5XYAMdRio?format=png&name=small",
+  "image_width": 680,
+  "image_height": 445,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

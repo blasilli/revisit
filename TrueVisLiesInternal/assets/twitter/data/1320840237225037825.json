@@ -1,0 +1,15 @@
+{
+  "id": "1320840237225037825",
+  "author": "UK COVID-19",
+  "date": "2020-10-26T21:30:27.000Z",
+  "text": "Scotland COVID-19 Healthcare.\n\n Patients admitted\n Patients in hospital\n Patients in ventilation beds",
+  "tweet_url": "https://x.com/i/web/status/1320840237225037825",
+  "image_url": "https://pbs.twimg.com/media/ElSRDhRXIAYwiVc?format=png&name=small",
+  "image_width": 680,
+  "image_height": 383,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

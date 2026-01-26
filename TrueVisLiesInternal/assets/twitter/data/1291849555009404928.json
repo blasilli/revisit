@@ -1,0 +1,17 @@
+{
+  "id": "1291849555009404928",
+  "author": "PLC",
+  "date": "2020-08-07T21:31:49.000Z",
+  "text": "In the Southeast, Covid isn't even a bad flu.  Moderate at worst. Certainly not as bad as 2018.",
+  "tweet_url": "https://x.com/i/web/status/1291849555009404928",
+  "image_url": "https://pbs.twimg.com/media/Ee2SDk7U4AARHA7?format=png&name=small",
+  "image_width": 480,
+  "image_height": 268,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "1421794297876291587",
+  "author": "Amy Tarkanian",
+  "date": "2021-08-01T11:25:50.000Z",
+  "text": "Here\u2019s the last fourteen days of COVID-19 cases in Europe.\n\nDraw your own conclusions.",
+  "tweet_url": "https://x.com/i/web/status/1421794297876291587",
+  "image_url": "https://pbs.twimg.com/media/E7s6X3ZXsAA_9Uy?format=jpg&name=small",
+  "image_width": 663,
+  "image_height": 580,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": [
+      "Causal inference"
+    ]
+  }
+}

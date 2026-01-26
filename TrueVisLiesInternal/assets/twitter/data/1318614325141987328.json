@@ -1,0 +1,18 @@
+{
+  "id": "1318614325141987328",
+  "author": "Ian Miller",
+  "date": "2020-10-20T18:05:28.000Z",
+  "text": "Masks working perfectly",
+  "tweet_url": "https://x.com/i/web/status/1318614325141987328",
+  "image_url": "https://pbs.twimg.com/media/EkyovSWU8AA9T7c?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 460,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

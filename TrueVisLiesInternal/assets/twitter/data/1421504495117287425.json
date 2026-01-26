@@ -1,0 +1,17 @@
+{
+  "id": "1421504495117287425",
+  "author": "Joe Babaian ",
+  "date": "2021-07-31T16:14:16.000Z",
+  "text": "Pretty damn impressive! Thanks \n@EricTopol\n & Darren Lu \n@Reddit\n\n\n#COVID19 #VaccinesWork #hcldr #MaskUp",
+  "tweet_url": "https://x.com/i/web/status/1421504495117287425",
+  "image_url": "https://pbs.twimg.com/media/E7oyzeRXMAguSWn?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 510,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Failure to account for statistical nuance"
+    ]
+  }
+}

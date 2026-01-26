@@ -1,0 +1,18 @@
+{
+  "id": "1322534688997707783",
+  "author": "Paul Yowell",
+  "date": "2020-10-31T13:43:36.000Z",
+  "text": "The trend is Europe-wide, broadly speaking.",
+  "tweet_url": "https://x.com/i/web/status/1322534688997707783",
+  "image_url": "https://pbs.twimg.com/media/ElqVhjlWMAElF5r?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 362,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

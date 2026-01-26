@@ -1,0 +1,17 @@
+{
+  "id": "1384869565558034432",
+  "author": "Laurie Garrett",
+  "date": "2021-04-21T14:00:08.000Z",
+  "text": "There's just no good news here.\nFrom \n@WHO\n #COVID19 #pandemic view.",
+  "tweet_url": "https://x.com/i/web/status/1384869565558034432",
+  "image_url": "https://pbs.twimg.com/media/EzgLfWAXEAMcvZe?format=png&name=small",
+  "image_width": 680,
+  "image_height": 368,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

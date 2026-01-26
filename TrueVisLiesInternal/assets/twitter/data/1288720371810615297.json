@@ -1,0 +1,17 @@
+{
+  "id": "1288720371810615297",
+  "author": "The Times Of India",
+  "date": "2020-07-30T06:17:34.000Z",
+  "text": "Tracking #Covid_19 \n\n#CoronavirusOutbreak Live updates: http://toi.in/OerV2Y",
+  "tweet_url": "https://x.com/i/web/status/1288720371810615297",
+  "image_url": "https://pbs.twimg.com/media/EeJ0IT4U4AAmRcV?format=jpg&name=900x900",
+  "image_width": 607,
+  "image_height": 900,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

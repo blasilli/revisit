@@ -1,0 +1,17 @@
+{
+  "id": "1317413946710786048",
+  "author": "Dr Philip Lee",
+  "date": "2020-10-17T10:35:35.000Z",
+  "text": "Seasonal Flu              COVID-19",
+  "tweet_url": "https://x.com/i/web/status/1317413946710786048",
+  "image_url": "https://pbs.twimg.com/media/EkhlALCXIAAlRG3?format=jpg&name=small",
+  "image_width": 591,
+  "image_height": 680,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Uneven binning"
+    ],
+    "ReasoningErrors": []
+  }
+}

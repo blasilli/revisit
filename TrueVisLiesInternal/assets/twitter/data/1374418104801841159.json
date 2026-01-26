@@ -1,0 +1,18 @@
+{
+  "id": "1374418104801841159",
+  "author": "Tigress",
+  "date": "2021-03-23T17:49:46.000Z",
+  "text": "March 8th First day back at schools 7 day total v Today\n\n#coronavirus #COVID19 #SARSCoV2",
+  "tweet_url": "https://x.com/i/web/status/1374418104801841159",
+  "image_url": "https://pbs.twimg.com/media/ExLpy4GUcAc0bEg?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 349,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "1321814257810329603",
+  "author": "Marc Bevand",
+  "date": "2020-10-29T14:00:51.000Z",
+  "text": "\u00abAsymptomatic cases\u00bb\n\n\u00abThe increase isn't real\u00bb",
+  "tweet_url": "https://x.com/i/web/status/1321814257810329603",
+  "image_url": "https://pbs.twimg.com/media/ElgG8_hVkAMbnUa?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 386,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold",
+      "Issues with data validity"
+    ]
+  }
+}

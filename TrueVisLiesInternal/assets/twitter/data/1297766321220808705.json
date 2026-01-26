@@ -1,0 +1,15 @@
+{
+  "id": "1297766321220808705",
+  "author": "Himanta Biswa Sarma",
+  "date": "2020-08-24T05:22:56.000Z",
+  "text": "Slowly doubling time of positive cases is increasing. Surely a positive indication. Now it is 20 days.",
+  "tweet_url": "https://x.com/i/web/status/1297766321220808705",
+  "image_url": "https://pbs.twimg.com/media/EgKXlkmUcAEJDEW?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 394,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

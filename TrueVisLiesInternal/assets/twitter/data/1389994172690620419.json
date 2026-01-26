@@ -1,0 +1,17 @@
+{
+  "id": "1389994172690620419",
+  "author": "Allahpundit",
+  "date": "2021-05-05T17:23:30.000Z",
+  "text": "us positivity rate drops to 3.8%, the lowest of the entire pandemic https://coronavirus.jhu.edu/testing/individual-states\u2026",
+  "tweet_url": "https://x.com/i/web/status/1389994172690620419",
+  "image_url": "https://pbs.twimg.com/media/E0pAVT1XEAQQVCV?format=png&name=small",
+  "image_width": 680,
+  "image_height": 478,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

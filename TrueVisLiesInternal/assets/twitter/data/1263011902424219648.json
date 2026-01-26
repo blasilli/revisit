@@ -1,0 +1,17 @@
+{
+  "id": "1263011902424219648",
+  "author": "Alistair Haimes",
+  "date": "2020-05-20T07:00:19.000Z",
+  "text": "Both barrels. \n\nMy article for \n@TheCriticMag\n looking back on the epidemic.",
+  "tweet_url": "https://x.com/i/web/status/1263011902424219648",
+  "image_url": "https://pbs.twimg.com/media/EYceoLUXgAU8VLV?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 404,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

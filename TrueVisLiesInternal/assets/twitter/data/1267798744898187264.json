@@ -1,0 +1,17 @@
+{
+  "id": "1267798744898187264",
+  "author": "Ryan Detrick, CMT",
+  "date": "2020-06-02T12:42:30.000Z",
+  "text": "Only 4.0% of all COVID-19 tests were positive yesterday, another new low.",
+  "tweet_url": "https://x.com/i/web/status/1267798744898187264",
+  "image_url": "https://pbs.twimg.com/media/EZggHkKXkAAo873?format=png&name=small",
+  "image_width": 680,
+  "image_height": 257,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

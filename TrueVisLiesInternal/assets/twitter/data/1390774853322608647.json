@@ -1,0 +1,17 @@
+{
+  "id": "1390774853322608647",
+  "author": "Brian Wesbury",
+  "date": "2021-05-07T21:05:39.000Z",
+  "text": "First Trust COVID Tracker. May 7, 2021 Edition!",
+  "tweet_url": "https://x.com/i/web/status/1390774853322608647",
+  "image_url": "https://pbs.twimg.com/media/E00GWxNWUAw6d3s?format=jpg&name=900x900",
+  "image_width": 695,
+  "image_height": 900,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

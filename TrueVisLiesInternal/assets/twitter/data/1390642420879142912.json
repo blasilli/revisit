@@ -1,0 +1,15 @@
+{
+  "id": "1390642420879142912",
+  "author": "Charlie Bilello",
+  "date": "2021-05-07T12:19:24.000Z",
+  "text": "Covid-19 deaths in the US are now down 80% from their peak in January, lowest level in 9 months.",
+  "tweet_url": "https://x.com/i/web/status/1390642420879142912",
+  "image_url": "https://pbs.twimg.com/media/E0yNzf5X0AAPZ9u?format=png&name=small",
+  "image_width": 680,
+  "image_height": 419,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

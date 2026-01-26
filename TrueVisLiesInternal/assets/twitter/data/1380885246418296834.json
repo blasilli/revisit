@@ -1,0 +1,18 @@
+{
+  "id": "1380885246418296834",
+  "author": "Jeffrey A Tucker",
+  "date": "2021-04-10T14:07:53.000Z",
+  "text": "One month ago, Oklahoma lifted ALL Coronavirus restrictions.",
+  "tweet_url": "https://x.com/i/web/status/1380885246418296834",
+  "image_url": "https://pbs.twimg.com/media/EynjxD3W8AMrO-J?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 441,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

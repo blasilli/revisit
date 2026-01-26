@@ -1,0 +1,15 @@
+{
+  "id": "1313037082064048134",
+  "author": "David Fisman",
+  "date": "2020-10-05T08:43:30.000Z",
+  "text": "Cumulative epi curves for Canada, by province.  Expect slowing in Ontario due to testing logjam.",
+  "tweet_url": "https://x.com/i/web/status/1313037082064048134",
+  "image_url": "https://pbs.twimg.com/media/EjjYKysXsAAYY1k?format=png&name=small",
+  "image_width": 523,
+  "image_height": 347,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

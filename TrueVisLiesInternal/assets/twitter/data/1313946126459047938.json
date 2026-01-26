@@ -1,0 +1,15 @@
+{
+  "id": "1313946126459047938",
+  "author": "Seneca County Health Department",
+  "date": "2020-10-07T20:55:43.000Z",
+  "text": "Three new positive cases to report today. See the attached image for the full report.",
+  "tweet_url": "https://x.com/i/web/status/1313946126459047938",
+  "image_url": "https://pbs.twimg.com/media/EjwS8WnXYAIERaM?format=jpg&name=900x900",
+  "image_width": 691,
+  "image_height": 900,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

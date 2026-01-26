@@ -1,0 +1,15 @@
+{
+  "id": "1325111895381061632",
+  "author": "Eric Topol",
+  "date": "2020-11-07T16:24:29.000Z",
+  "text": "Of the 3 worst-hit countries in the world for number of covid infections, 2 have been turning that around.",
+  "tweet_url": "https://x.com/i/web/status/1325111895381061632",
+  "image_url": "https://pbs.twimg.com/media/EmO-KP0VoAA36ce?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 438,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

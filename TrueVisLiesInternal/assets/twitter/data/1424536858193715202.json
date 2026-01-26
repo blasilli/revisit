@@ -1,0 +1,17 @@
+{
+  "id": "1424536858193715202",
+  "author": "George Monks, M.D.",
+  "date": "2021-08-09T01:03:48.000Z",
+  "text": "Oklahoma makes the list of the worlds highest number of Covid-19 cases per population coming in at #15.",
+  "tweet_url": "https://x.com/i/web/status/1424536858193715202",
+  "image_url": "https://pbs.twimg.com/media/E8T4uGdXsAI9GGI?format=jpg&name=900x900",
+  "image_width": 720,
+  "image_height": 900,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

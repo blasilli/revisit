@@ -1,0 +1,17 @@
+{
+  "id": "1387233540383731715",
+  "author": "CNBC-TV18",
+  "date": "2021-04-28T02:33:44.000Z",
+  "text": "#COVID-19 Data | Mumbai\u2019s positivity rate remains below 15% for 3rd straight day\n\n#COVID19 #COVID19India #Mumbai",
+  "tweet_url": "https://x.com/i/web/status/1387233540383731715",
+  "image_url": "https://pbs.twimg.com/media/E0BxXkcVgAIEzNz?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 383,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Truncated axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "1318471601235595264",
+  "author": "Office for National Statistics (ONS)",
+  "date": "2020-10-20T08:38:20.000Z",
+  "text": "The number of deaths involving #COVID19 increased across  seven of the nine English regions http://ow.ly/HI4R50BXbR6",
+  "tweet_url": "https://x.com/i/web/status/1318471601235595264",
+  "image_url": "https://pbs.twimg.com/media/Ekwmi7wWAAAsXL1?format=jpg&name=900x900",
+  "image_width": 693,
+  "image_height": 900,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

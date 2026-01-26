@@ -1,0 +1,17 @@
+{
+  "id": "1268896599037575168",
+  "author": "Abdul Majid",
+  "date": "2020-06-05T12:54:03.000Z",
+  "text": "And expectation was this by #nitiayog",
+  "tweet_url": "https://x.com/i/web/status/1268896599037575168",
+  "image_url": "https://pbs.twimg.com/media/EZwGuVOWkAIQRRj?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 383,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

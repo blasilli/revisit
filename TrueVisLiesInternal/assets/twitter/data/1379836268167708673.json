@@ -1,0 +1,15 @@
+{
+  "id": "1379836268167708673",
+  "author": "Xavi Ruiz",
+  "date": "2021-04-07T16:39:37.000Z",
+  "text": "Number of deaths due to coronavirus in Europe.\n\nSource: http://bit.ly/31Uy8DM",
+  "tweet_url": "https://x.com/i/web/status/1379836268167708673",
+  "image_url": "https://pbs.twimg.com/media/EyYpxR2XAAoc18z?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 625,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

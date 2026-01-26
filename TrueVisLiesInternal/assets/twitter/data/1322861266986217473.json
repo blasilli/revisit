@@ -1,0 +1,15 @@
+{
+  "id": "1322861266986217473",
+  "author": "Fergal Bowers",
+  "date": "2020-11-01T11:21:18.000Z",
+  "text": "This is how Ireland\u2019s Covid-19 cases graph looks now, from the HSE data",
+  "tweet_url": "https://x.com/i/web/status/1322861266986217473",
+  "image_url": "https://pbs.twimg.com/media/Elu_Tz3XUAAYxw-?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 382,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

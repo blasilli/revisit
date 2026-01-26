@@ -1,0 +1,17 @@
+{
+  "id": "1263065572545376258",
+  "author": "ABC 33/40 News",
+  "date": "2020-05-20T11:14:33.000Z",
+  "text": "12,701 confirmed #COVID19 cases, 508 deaths in Alabama - 4,268 cases in last 14 days",
+  "tweet_url": "https://x.com/i/web/status/1263065572545376258",
+  "image_url": "https://pbs.twimg.com/media/EYdPSl7WoAYjxOt?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 375,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

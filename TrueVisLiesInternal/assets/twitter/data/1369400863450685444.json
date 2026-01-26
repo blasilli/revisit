@@ -1,0 +1,17 @@
+{
+  "id": "1369400863450685444",
+  "author": "Hammer and Nigel",
+  "date": "2021-03-09T21:33:02.000Z",
+  "text": "Weekly #CovidTracker - mask states vs. no-mask states\n#mask",
+  "tweet_url": "https://x.com/i/web/status/1369400863450685444",
+  "image_url": "https://pbs.twimg.com/media/EwEWc-oXIAAuway?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 377,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Causal inference"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "1313823681328615426",
+  "author": "Philip Oltermann",
+  "date": "2020-10-07T12:49:09.000Z",
+  "text": "Berlin's second coronavirus wave is already bigger than the first, and the autumn has barely begun.",
+  "tweet_url": "https://x.com/i/web/status/1313823681328615426",
+  "image_url": "https://pbs.twimg.com/media/EjujhcgXcAAcFLU?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 415,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

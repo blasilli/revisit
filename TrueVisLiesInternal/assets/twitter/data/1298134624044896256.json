@@ -1,0 +1,15 @@
+{
+  "id": "1298134624044896256",
+  "author": "Jonathan Nez",
+  "date": "2020-08-25T05:46:27.000Z",
+  "text": "10 new cases, 7,063 recoveries, and one more death related to COVID-19",
+  "tweet_url": "https://x.com/i/web/status/1298134624044896256",
+  "image_url": "https://pbs.twimg.com/media/EgPmis-VAAAZawq?format=jpg&name=small",
+  "image_width": 527,
+  "image_height": 680,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

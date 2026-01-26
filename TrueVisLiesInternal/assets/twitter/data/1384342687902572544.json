@@ -1,0 +1,17 @@
+{
+  "id": "1384342687902572544",
+  "author": "Denise",
+  "date": "2021-04-20T03:06:31.000Z",
+  "text": "Increase in deaths!",
+  "tweet_url": "https://x.com/i/web/status/1384342687902572544",
+  "image_url": "https://pbs.twimg.com/media/EzYsTlBXIAAIyil?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 680,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Causal inference"
+    ]
+  }
+}

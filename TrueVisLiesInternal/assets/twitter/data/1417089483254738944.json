@@ -1,0 +1,17 @@
+{
+  "id": "1417089483254738944",
+  "author": "Samuel Ramani",
+  "date": "2021-07-19T11:50:35.000Z",
+  "text": "This map shows the scope of Tigray's humanitarian crisis.\n\nAnd its only gotten worse since March.",
+  "tweet_url": "https://x.com/i/web/status/1417089483254738944",
+  "image_url": "https://pbs.twimg.com/media/E6qDT5AXoAAxlpo?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 443,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

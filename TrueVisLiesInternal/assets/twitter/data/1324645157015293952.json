@@ -1,0 +1,15 @@
+{
+  "id": "1324645157015293952",
+  "author": "Michael Fabricant ",
+  "date": "2020-11-06T09:29:50.000Z",
+  "text": "Hospital admissions for #COVID19 are rising steeply.",
+  "tweet_url": "https://x.com/i/web/status/1324645157015293952",
+  "image_url": "https://pbs.twimg.com/media/EmIVv6TXYAMfVOG?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 383,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

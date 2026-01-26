@@ -1,0 +1,17 @@
+{
+  "id": "1377592598215458816",
+  "author": "Milhouse Van Houten ",
+  "date": "2021-04-01T12:04:04.000Z",
+  "text": "The number of deaths from all causes in 2019 vs. number of deaths from or with Covid-19 in 2020-21.",
+  "tweet_url": "https://x.com/i/web/status/1377592598215458816",
+  "image_url": "https://pbs.twimg.com/media/Ex4v6q2XAAASXq3?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 340,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

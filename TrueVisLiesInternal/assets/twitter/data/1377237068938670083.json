@@ -1,0 +1,18 @@
+{
+  "id": "1377237068938670083",
+  "author": "Charlie Bilello",
+  "date": "2021-03-31T12:31:19.000Z",
+  "text": "Covid-19 cases in Israel are down 95% from their peak in mid-January, lowest levels since last June...",
+  "tweet_url": "https://x.com/i/web/status/1377237068938670083",
+  "image_url": "https://pbs.twimg.com/media/ExztzrFXEAA1csz?format=png&name=small",
+  "image_width": 680,
+  "image_height": 429,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

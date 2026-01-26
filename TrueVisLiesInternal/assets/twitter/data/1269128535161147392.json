@@ -1,0 +1,17 @@
+{
+  "id": "1269128535161147392",
+  "author": "Pune 24X7",
+  "date": "2020-06-06T04:46:36.000Z",
+  "text": "Covid19 India Tracker",
+  "tweet_url": "https://x.com/i/web/status/1269128535161147392",
+  "image_url": "https://pbs.twimg.com/media/EZzZqNhVAAEquon?format=jpg&name=small",
+  "image_width": 578,
+  "image_height": 680,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

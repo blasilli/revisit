@@ -1,0 +1,17 @@
+{
+  "id": "1297561225556041730",
+  "author": "Latimer Alder",
+  "date": "2020-08-23T15:47:58.000Z",
+  "text": "A sobering chart.\n\nRight now, with 807,000 deaths, COVID comes in 15th place -  below HIV and just above suicide",
+  "tweet_url": "https://x.com/i/web/status/1297561225556041730",
+  "image_url": "https://pbs.twimg.com/media/EgHcy5VXkAA5ZV7?format=png&name=small",
+  "image_width": 680,
+  "image_height": 473,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

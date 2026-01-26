@@ -1,0 +1,18 @@
+{
+  "id": "1291399556224221186",
+  "author": "Jeffrey A Tucker",
+  "date": "2020-08-06T15:43:41.000Z",
+  "text": "Sweden failed?",
+  "tweet_url": "https://x.com/i/web/status/1291399556224221186",
+  "image_url": "https://pbs.twimg.com/media/Eev5CjfWAAA0fuU?format=png&name=small",
+  "image_width": 680,
+  "image_height": 419,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

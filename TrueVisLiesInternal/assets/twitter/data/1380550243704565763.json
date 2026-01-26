@@ -1,0 +1,15 @@
+{
+  "id": "1380550243704565763",
+  "author": "Phil Galewitz",
+  "date": "2021-04-09T15:56:42.000Z",
+  "text": "A month ago, Israel was averaging 3K covid cases per day. Today, its under 300.",
+  "tweet_url": "https://x.com/i/web/status/1380550243704565763",
+  "image_url": "https://pbs.twimg.com/media/EyizExeWEAECN5P?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 383,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

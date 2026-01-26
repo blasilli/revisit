@@ -1,0 +1,17 @@
+{
+  "id": "1427217759147073538",
+  "author": "Mike Bird",
+  "date": "2021-08-16T10:36:44.000Z",
+  "text": "The results of seven weeks of lockdown in Sydney (NSW cases)",
+  "tweet_url": "https://x.com/i/web/status/1427217759147073538",
+  "image_url": "https://pbs.twimg.com/media/E85-7RMWQAQG6G_?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 382,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Causal inference"
+    ]
+  }
+}

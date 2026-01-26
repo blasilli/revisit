@@ -1,0 +1,17 @@
+{
+  "id": "1315354073265299459",
+  "author": "reload",
+  "date": "2020-10-11T18:10:23.000Z",
+  "text": "Last 6 weeks of covid deaths, compared to deaths in March/April",
+  "tweet_url": "https://x.com/i/web/status/1315354073265299459",
+  "image_url": "https://pbs.twimg.com/media/EkETjbAWkAUBsKo?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 434,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

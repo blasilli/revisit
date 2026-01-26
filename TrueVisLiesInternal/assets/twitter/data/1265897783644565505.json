@@ -1,0 +1,17 @@
+{
+  "id": "1265897783644565505",
+  "author": "Pankaj Shukla",
+  "date": "2020-05-28T06:48:45.000Z",
+  "text": "\u2022 COVID-19 recovery rate improved from 7 % to 41 % due to Lockdown : Health Ministry\n\n#IndiaUnitedAgainstCovid",
+  "tweet_url": "https://x.com/i/web/status/1265897783644565505",
+  "image_url": "https://pbs.twimg.com/media/EZFfTqpXsAAlugk?format=jpg&name=900x900",
+  "image_width": 610,
+  "image_height": 900,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Causal inference"
+    ]
+  }
+}

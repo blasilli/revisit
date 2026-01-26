@@ -1,0 +1,18 @@
+{
+  "id": "1379803181744537611",
+  "author": "Aureliano Stingi PhD",
+  "date": "2021-04-07T14:28:08.000Z",
+  "text": "SOMETIMES IS GOOD TO PUT THINGS IN PERSPECTIVE\n#EMA #AstraZeneca #VaccinationCovid",
+  "tweet_url": "https://x.com/i/web/status/1379803181744537611",
+  "image_url": "https://pbs.twimg.com/media/EyYLrD-WYAAgb-6?format=png&name=small",
+  "image_width": 582,
+  "image_height": 426,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold",
+      "Failure to account for statistical nuance"
+    ]
+  }
+}

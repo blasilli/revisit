@@ -1,0 +1,17 @@
+{
+  "id": "1319739445889806336",
+  "author": "Justin Hart",
+  "date": "2020-10-23T20:36:18.000Z",
+  "text": "Perspective is warranted. #COVID19 is something we can readily absorb.\n\nLet's get back to life.",
+  "tweet_url": "https://x.com/i/web/status/1319739445889806336",
+  "image_url": "https://pbs.twimg.com/media/ElCn7PRU0AApOT5?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 413,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

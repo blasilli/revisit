@@ -1,0 +1,17 @@
+{
+  "id": "1385929489444597762",
+  "author": "Chandramani Verma",
+  "date": "2021-04-24T12:11:54.000Z",
+  "text": "this recorded is death by covid19\nyou can see body burning place",
+  "tweet_url": "https://x.com/i/web/status/1385929489444597762",
+  "image_url": "https://pbs.twimg.com/media/EzvPhRcVUAM-LD4?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 446,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Truncated axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

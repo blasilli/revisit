@@ -1,0 +1,17 @@
+{
+  "id": "1391579316199247873",
+  "author": "David Rothschild ",
+  "date": "2021-05-10T02:22:17.000Z",
+  "text": "Weird to think that approaching 500 deaths per day from COVID-19 is going to feel like a huge victory.",
+  "tweet_url": "https://x.com/i/web/status/1391579316199247873",
+  "image_url": "https://pbs.twimg.com/media/E0_iATMWUAULeRr?format=png&name=small",
+  "image_width": 680,
+  "image_height": 449,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

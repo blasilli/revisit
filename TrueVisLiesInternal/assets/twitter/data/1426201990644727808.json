@@ -1,0 +1,18 @@
+{
+  "id": "1426201990644727808",
+  "author": "Eric Topol",
+  "date": "2021-08-13T15:20:26.000Z",
+  "text": "The Delta waves in the US and Canada, a striking contrast. Fully vaccinated of total population:\nCanada 64%\nUS 50%",
+  "tweet_url": "https://x.com/i/web/status/1426201990644727808",
+  "image_url": "https://pbs.twimg.com/media/E8ri5TbUcAE04l2?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 507,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

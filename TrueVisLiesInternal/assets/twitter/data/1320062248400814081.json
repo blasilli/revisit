@@ -1,0 +1,17 @@
+{
+  "id": "1320062248400814081",
+  "author": "AFP News Agency",
+  "date": "2020-10-24T17:59:00.000Z",
+  "text": "World map showing the number of Covid-19 deaths by country\n\n\n@AFPgraphics",
+  "tweet_url": "https://x.com/i/web/status/1320062248400814081",
+  "image_url": "https://pbs.twimg.com/media/ElHHI_WXgAI9JdJ?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 498,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Value as area/volume"
+    ],
+    "ReasoningErrors": []
+  }
+}

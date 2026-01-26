@@ -1,0 +1,19 @@
+{
+  "id": "1389207517096550406",
+  "author": "\u05de\u05d5\u05d0\u05d9\u05d6 \u05d4\u05e7\u05d8\u05df \u00ae",
+  "date": "2021-05-03T13:17:36.000Z",
+  "text": "All story in one graph",
+  "tweet_url": "https://x.com/i/web/status/1389207517096550406",
+  "image_url": "https://pbs.twimg.com/media/E0d03pFWUAstGmH?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 350,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": [
+      "Causal inference"
+    ]
+  }
+}

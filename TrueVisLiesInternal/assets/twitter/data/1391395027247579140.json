@@ -1,0 +1,17 @@
+{
+  "id": "1391395027247579140",
+  "author": "Dr. Jennifer Kwan",
+  "date": "2021-05-09T14:10:00.000Z",
+  "text": "Ontario: Daily new #COVID19 cases, deaths, resolved with 7 day averages from Sept 1, 2020. #COVID19Ontario",
+  "tweet_url": "https://x.com/i/web/status/1391395027247579140",
+  "image_url": "https://pbs.twimg.com/media/E086ZP-XIAImU4c?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 389,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

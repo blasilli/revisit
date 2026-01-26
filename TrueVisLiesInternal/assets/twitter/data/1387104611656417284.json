@@ -1,0 +1,18 @@
+{
+  "id": "1387104611656417284",
+  "author": "Charlie Bilello",
+  "date": "2021-04-27T18:01:25.000Z",
+  "text": "In just 4 months, Israel's mass vaccination effort has defeated covid-19, with a 98% reduction in cases and deaths.",
+  "tweet_url": "https://x.com/i/web/status/1387104611656417284",
+  "image_url": "https://pbs.twimg.com/media/Ez_7Iu4XEAU8Gg-?format=png&name=small",
+  "image_width": 680,
+  "image_height": 214,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

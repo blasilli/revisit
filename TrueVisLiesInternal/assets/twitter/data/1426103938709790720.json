@@ -1,0 +1,17 @@
+{
+  "id": "1426103938709790720",
+  "author": "dbRaevn",
+  "date": "2021-08-13T08:50:49.000Z",
+  "text": "NSW Bondi outbreak and interstate spread\n16th June - 11th August\n#COVID19Aus, #COVID19NSW",
+  "tweet_url": "https://x.com/i/web/status/1426103938709790720",
+  "image_url": "https://pbs.twimg.com/media/E8qIhPfVEAEEl6J?format=png&name=small",
+  "image_width": 680,
+  "image_height": 439,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Inverted axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

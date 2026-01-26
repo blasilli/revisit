@@ -1,0 +1,17 @@
+{
+  "id": "1425974815836475394",
+  "author": "james linder",
+  "date": "2021-08-13T00:17:44.000Z",
+  "text": "Reason # 1 for COVID-19 vaccination in Douglas County Nebraska:  Not dying",
+  "tweet_url": "https://x.com/i/web/status/1425974815836475394",
+  "image_url": "https://pbs.twimg.com/media/E8oUeF5WYAkvw-I?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 461,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Failure to account for statistical nuance"
+    ]
+  }
+}

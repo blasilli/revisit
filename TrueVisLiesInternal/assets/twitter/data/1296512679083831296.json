@@ -1,0 +1,18 @@
+{
+  "id": "1296512679083831296",
+  "author": "Kirky86",
+  "date": "2020-08-20T18:21:25.000Z",
+  "text": "And we'll live with it like we have the flu with no \"new normal\".",
+  "tweet_url": "https://x.com/i/web/status/1296512679083831296",
+  "image_url": "https://pbs.twimg.com/media/Ef4jaCeVoAAJl70?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 489,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold",
+      "Issues with data validity"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "1322663878338248705",
+  "author": "The best is yet to come?",
+  "date": "2020-10-31T22:16:57.000Z",
+  "text": "There is no second wave. \n\nDeaths less than average for the time of year.",
+  "tweet_url": "https://x.com/i/web/status/1322663878338248705",
+  "image_url": "https://pbs.twimg.com/media/ElsLyTcXUAMzhxd?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 361,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold",
+      "Causal inference",
+      "Issues with data validity"
+    ]
+  }
+}

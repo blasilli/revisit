@@ -1,0 +1,18 @@
+{
+  "id": "1381682262308175880",
+  "author": "Sam Bright",
+  "date": "2021-04-12T18:54:56.000Z",
+  "text": "Sweden, the anti-lockdown kingdom, now has the highest number of Covid cases per million in Europe",
+  "tweet_url": "https://x.com/i/web/status/1381682262308175880",
+  "image_url": "https://pbs.twimg.com/media/Eyy4sZgXAAYyrvP?format=jpg&name=small",
+  "image_width": 613,
+  "image_height": 680,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

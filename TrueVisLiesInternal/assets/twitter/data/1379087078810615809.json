@@ -1,0 +1,15 @@
+{
+  "id": "1379087078810615809",
+  "author": "Jeff M. Smith",
+  "date": "2021-04-05T15:02:36.000Z",
+  "text": "US COVID-19 Deaths 2021\nFeb. 4: 5,117\nApril 4: 277\n\nKeep it up.",
+  "tweet_url": "https://x.com/i/web/status/1379087078810615809",
+  "image_url": "https://pbs.twimg.com/media/EyN_83bXIAQb_bV?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 444,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

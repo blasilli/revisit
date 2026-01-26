@@ -1,0 +1,18 @@
+{
+  "id": "1321113463754760192",
+  "author": "James Todaro, MD",
+  "date": "2020-10-27T15:36:09.000Z",
+  "text": "It's been 94 days since Sweden reduced COVID-19 deaths to near zero without lockdowns or mask mandates.",
+  "tweet_url": "https://x.com/i/web/status/1321113463754760192",
+  "image_url": "https://pbs.twimg.com/media/ElWJY8oW0AsQIpA?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 443,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

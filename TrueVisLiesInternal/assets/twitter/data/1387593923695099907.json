@@ -1,0 +1,17 @@
+{
+  "id": "1387593923695099907",
+  "author": "Ben",
+  "date": "2021-04-29T02:25:46.000Z",
+  "text": "Source:\nhttps://usmortality.com/excess#california\u2026\nhttps://usmortality.com/excess#florida",
+  "tweet_url": "https://x.com/i/web/status/1387593923695099907",
+  "image_url": "https://pbs.twimg.com/media/E0G5PIgX0AAGfz3?format=jpg&name=small",
+  "image_width": 654,
+  "image_height": 680,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Dual axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

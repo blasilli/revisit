@@ -1,0 +1,17 @@
+{
+  "id": "1290673007506096130",
+  "author": "Bodie MacGovern",
+  "date": "2020-08-04T15:36:39.000Z",
+  "text": "This one is even better as it shows the \"case fatality rate\".",
+  "tweet_url": "https://x.com/i/web/status/1290673007506096130",
+  "image_url": "https://pbs.twimg.com/media/EelkPH9XoAAPUCj?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 361,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Causal inference"
+    ]
+  }
+}

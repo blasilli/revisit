@@ -1,0 +1,18 @@
+{
+  "id": "1380697980395790346",
+  "author": "J Chamie",
+  "date": "2021-04-10T01:43:45.000Z",
+  "text": "COVID-19\nUK vs  Ireland\nVaccine effect or Look-down?",
+  "tweet_url": "https://x.com/i/web/status/1380697980395790346",
+  "image_url": "https://pbs.twimg.com/media/Eyk31ROXMAApqwI?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 464,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}

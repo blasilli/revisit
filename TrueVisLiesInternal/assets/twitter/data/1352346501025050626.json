@@ -1,0 +1,15 @@
+{
+  "id": "1352346501025050626",
+  "author": "Guillermo Barquero",
+  "date": "2021-01-21T20:05:05.000Z",
+  "text": "If the vaccine works as expected, it will be mainly over by April.",
+  "tweet_url": "https://x.com/i/web/status/1352346501025050626",
+  "image_url": "https://pbs.twimg.com/media/EsR_-YyXMAMNcux?format=jpg&name=medium",
+  "image_width": 568,
+  "image_height": 1200,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

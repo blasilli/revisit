@@ -1,0 +1,17 @@
+{
+  "id": "1419945148675346434",
+  "author": "SAAPE",
+  "date": "2021-07-27T08:57:59.000Z",
+  "text": "The progress in vaccination in the #Maldives seemed fair compared to other countries in #SouthAsia.",
+  "tweet_url": "https://x.com/i/web/status/1419945148675346434",
+  "image_url": "https://pbs.twimg.com/media/E7Sojx9UUAEkhDO?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 670,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [
+      "Inverted axis"
+    ],
+    "ReasoningErrors": []
+  }
+}

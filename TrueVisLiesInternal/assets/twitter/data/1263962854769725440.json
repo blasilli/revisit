@@ -1,0 +1,15 @@
+{
+  "id": "1263962854769725440",
+  "author": "ABC13 Houston",
+  "date": "2020-05-22T22:40:02.000Z",
+  "text": "New study says Harris County might have drastic rise in COVID-19 cases in next few weeks https://abc13.co/3cZhOps",
+  "tweet_url": "https://x.com/i/web/status/1263962854769725440",
+  "image_url": "https://pbs.twimg.com/media/EYp_hKsX0AARbZP?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 383,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

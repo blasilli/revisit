@@ -1,0 +1,17 @@
+{
+  "id": "1387058241767628801",
+  "author": "Ben",
+  "date": "2021-04-27T14:57:09.000Z",
+  "text": "Let's put #CovidIndia into perspective!\n\n#COVID19 #Covid #Corona #Coronavirus",
+  "tweet_url": "https://x.com/i/web/status/1387058241767628801",
+  "image_url": "https://pbs.twimg.com/media/Ez_SF4SXMAEFp2z?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 419,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

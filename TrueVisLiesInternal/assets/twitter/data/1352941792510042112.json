@@ -1,0 +1,15 @@
+{
+  "id": "1352941792510042112",
+  "author": "Tom Harwood",
+  "date": "2021-01-23T11:30:34.000Z",
+  "text": "Doses per 100 people among countries of over 10 million people.",
+  "tweet_url": "https://x.com/i/web/status/1352941792510042112",
+  "image_url": "https://pbs.twimg.com/media/EsadW62XAAATByF?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 446,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

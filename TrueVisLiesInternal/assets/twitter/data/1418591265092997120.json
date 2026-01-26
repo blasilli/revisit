@@ -1,0 +1,18 @@
+{
+  "id": "1418591265092997120",
+  "author": "Latimer Alder",
+  "date": "2021-07-23T15:18:08.000Z",
+  "text": "You were 25 times more likely to die of something else today in UK than you were to die 'with Covid'",
+  "tweet_url": "https://x.com/i/web/status/1418591265092997120",
+  "image_url": "https://pbs.twimg.com/media/E6_ZKBSXoAI9BFZ?format=png&name=small",
+  "image_width": 595,
+  "image_height": 475,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Setting an arbitrary threshold"
+    ]
+  }
+}

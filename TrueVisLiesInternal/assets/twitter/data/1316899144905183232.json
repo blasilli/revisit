@@ -1,0 +1,17 @@
+{
+  "id": "1316899144905183232",
+  "author": "Jim Trutsle #BigTruckEnergy ",
+  "date": "2020-10-16T00:29:57.000Z",
+  "text": "Me listening to Dems lecturing us about COVID",
+  "tweet_url": "https://x.com/i/web/status/1316899144905183232",
+  "image_url": "https://pbs.twimg.com/media/EkaQyyWXUAM2mCp?format=jpg&name=small",
+  "image_width": 500,
+  "image_height": 474,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Causal inference"
+    ]
+  }
+}

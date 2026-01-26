@@ -1,0 +1,15 @@
+{
+  "id": "1297260740026531850",
+  "author": "Josh Stevenson - Fringe Data Analyst",
+  "date": "2020-08-22T19:53:57.000Z",
+  "text": "Covid hospitalizations in Nashville account for 3% of all capacity.\n\nhttps://asmartnashville.org/posts/nashville-hospital-capacity-tracker/\u2026",
+  "tweet_url": "https://x.com/i/web/status/1297260740026531850",
+  "image_url": "https://pbs.twimg.com/media/EgDLiQBWsAAaVa2?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 356,
+  "misleading": false,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": []
+  }
+}

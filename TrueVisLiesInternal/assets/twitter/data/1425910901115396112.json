@@ -1,0 +1,18 @@
+{
+  "id": "1425910901115396112",
+  "author": "Jeffrey A Tucker",
+  "date": "2021-08-12T20:03:45.000Z",
+  "text": "And the winner is...SWEDEN!",
+  "tweet_url": "https://x.com/i/web/status/1425910901115396112",
+  "image_url": "https://pbs.twimg.com/media/E8naYLzXIA46LDb?format=jpg&name=small",
+  "image_width": 680,
+  "image_height": 418,
+  "misleading": true,
+  "errors": {
+    "VisualizationDesignViolations": [],
+    "ReasoningErrors": [
+      "Cherry-picking",
+      "Causal inference"
+    ]
+  }
+}
