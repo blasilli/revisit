@@ -6,8 +6,9 @@ Thank you for taking the time to participate.
 
 This study aims to understand **how people recognize rhetorical techniques** and **infer authorial intent** in visualizations that have been identified as misleading.
 
-> 🥳 <span style="color:#3F00FF">**You will be provided with all necessary definitions (rhetorical techniques and author intent) and examples before starting the study and during the study.**</span>
+> 🥳 <span style="color:#3F00FF">**You will be provided with all necessary definitions (rhetorical techniques and author intents) and examples before starting the study and during the study.**</span>
 
+This study takes approximately **15 minutes** to complete.
 ---
 
 ## 📌 Study Purpose
@@ -25,25 +26,21 @@ The goal of this study is to:
 
 ## 🧪 Study Methodology
 
-You will evaluate **12 misleading visualizations**, each taken from real Twitter posts.
+You will evaluate **6 misleading visualizations**, each taken from real Twitter posts.
 
-Each visualization was previously **[1]** identified as misleading due to a specific **visual design** or **reasoning error**.
+Each visualization was previously **[1]** identified as misleading due to one or more errors.
 
 For each visualization:
 
-- The **error type** is displayed at the top of the page  
-- A short **description of the error** is provided  
-- You will then answer **three questions** about the rhetorical techniques, author intent, and overall intentionality
+- The identified **errors** are displayed at the top of the page along with their descriptions.
+- You will then answer **three questions** about the rhetorical techniques, author intents, and overall intentionality
 - You may optionally leave comments at the end  
-
-This study takes approximately **30 minutes** to complete.
 
 ---
 
 ## 🙏 Thank You
 
 Thank you for participating in this study.  
-Your contribution is valuable for understanding both human perception of misleading visualizations and improving AI systems for detecting visual misinformation.
 
 If you have any questions, please contact the research team at: graziano.blasilli@uniroma1.it
 

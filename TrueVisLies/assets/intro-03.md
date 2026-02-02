@@ -8,7 +8,7 @@ Each visualization page follows the same structure, consising of a Tweet with er
 
 ### Tweet & Error Description
 
-At the top of each page, the detected **misleading error** is shown with a short explanation.
+At the top of each page, the detected **misleading errors** are shown with a short explanation.
 
 Below that, you will see the original tweet embedded.
 
