@@ -89,7 +89,7 @@ function Tweet({ parameters }) {
 
   const {
     tweetId,
-    errors
+    error
   } = parameters;
 
   const imgUrl = `../TrueVisLies/assets/twitter/images/${tweetId}.png`;
@@ -199,41 +199,30 @@ function Tweet({ parameters }) {
           }}
         >
           <span>
-            This is a tweet that contains <b>misleading visualization(s)</b> affected by the following error(s):&nbsp;
+            This is a tweet that contains <b>misleading visualization(s)</b> affected by the following error:&nbsp;
           </span>
-        </p>
-        {/* Descriptions of the errors */
-        errors.map((errorType) => (
-          <p 
-            key={errorType}
+          <span
             style={{
-              fontSize: '0.9em',
-              textAlign: 'left',
-              marginTop: 4,
-              paddingTop: 0,
-              marginBottom: 10,
+              fontWeight: 700,
+              color: '#ae2105',
             }}
           >
-            <span
-              style={{
-                fontWeight: 700,
-                color: '#ae2105',
-                marginRight: 6,
-              }}
-            >
-              {errorType + ':'}
-            </span>
-
-            <span
-              style={{
-                fontStyle: 'italic',
-                color: '#51565aff'
-              }}
-            >
-              {getErrorDescription(errorType)}
-            </span>
-          </p>   
-        ))}
+            {error ? error : '...'}
+          </span>
+        </p>
+        <p
+          style={{
+            textAlign: 'center',
+            fontStyle: 'italic',
+            fontSize: '0.9em',
+            color: '#51565aff',
+            marginTop: 4,
+            paddingTop: 0,
+            marginBottom: 4,
+          }}
+        >
+          {error ? getErrorDescription(error) : '...'}
+        </p>
       </div>
 
       <div

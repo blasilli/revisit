@@ -2,10 +2,10 @@
 
 Please familiarize yourself with the concepts of:
 
-1. **Rhetorical Techniques**  
-2. **Author Intent and Factors Behind the Misleading Effect**
+1. **Rhetorical Techniques**:
+2. **Author Intent and Factors Behind the Misleading Effect**:
 
-These definitions are shown in the interface inside collapsible panels, and you can consult them **at any time during the study** if you are unsure.
+These definitions are shown in the interface inside collapsible panels, and you can consult them **at any time during the study**.
 
 > <span style="color:#3F00FF">**PROTIP: Open the definition in a separate tab for easier reference during the study.**</span>
 > <span style="color:#3F00FF"> A link will be provided below the definition panels.</span>
